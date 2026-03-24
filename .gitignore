@@ -1,0 +1,3 @@
+*.tsv
+.idea
+*non_aggregated_data.csv

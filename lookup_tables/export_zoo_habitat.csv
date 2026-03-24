@@ -1,0 +1,2837 @@
+AphiaID,Taxon,ZooHabitat
+1,Biota,
+2,Animalia,NYA
+2,Animalia_Radiolaria,
+3,Plantae,
+5,Protozoa,
+7,Chromista,
+11,Ciliophora,
+12,Biota incertae sedis,
+25,Choanoflagellida,
+51,Mollusca,Ambiguous
+101,Gastropoda larva,Ambiguous
+164,Gymnosomata,Holoplankton
+143,Velutinidae ,NYA
+1065,Arthropoda,Holoplankton
+793,Platyhelminthes,NYA
+1069,Branchiopoda,Holoplankton
+801,Chlorophyta,
+802,Chlorophyceae,
+824,Ulotrichales,
+1076,Cladocera,Holoplankton
+1078,Ostracoda,Holoplankton
+913,Spionidae,NYA
+914,Magelonidae,NYA
+922,Arenicolidae,NYA
+939,Polynoidae,NYA
+948,Syllidae,NYA
+958,Tomopteridae,NYA
+975,Oweniidae,NYA
+979,Sabellariidae,NYA
+1080,Copepoda C1-6,Holoplankton
+1066,Crustacea,NYA
+1100,Calanoida C1-6,Holoplankton
+1071,Malacostraca,Ambiguous
+1101,Cyclopoida,Holoplankton
+1102,Harpacticoida,Holoplankton
+1104,Siphonostomatoida,Holoplankton
+1106,Monstrilloida,Holoplankton
+1128,Euphausiacea Total,Holoplankton
+1205,Hyperiidea,Holoplankton
+1248,Ctenophora,Holoplankton
+1249,Tentaculata,Holoplankton
+1302,Pycnogonida,Holoplankton
+1371,Siphonophora,Holoplankton
+1103,Poecilostomatoida,NYA
+2081,Chaetognatha,Holoplankton
+2824,Mysidacea,Holoplankton
+5953,Sagittidae juvenile,Holoplankton
+13703,Thecosomata,Holoplankton
+1131,Isopoda,Ambiguous
+1135,Amphipoda,Ambiguous
+1137,Cumacea,Ambiguous
+1195,Bopyridae,NYA
+14260,Rotifera,Holoplankton
+1207,Gammaridea,Ambiguous
+15177,Spadellidae,Holoplankton
+17446,Larvacea,Holoplankton
+1267,Cnidaria,Ambiguous
+1268,Sipuncula,NYA
+1271,Entoprocta,NYA
+22626,Thaliacea,Holoplankton
+23020,Euthecosomata,Holoplankton
+1337,Medusae,Ambiguous
+1358,Pantopoda,NYA
+1361,Ceriantharia,NYA
+101417,Hyperiidae,Holoplankton
+1410,Foraminifera,
+1484,Halacaridae,NYA
+1594,Bougainvilliidae,NYA
+101796,Hyperia,Holoplankton
+101800,Themisto,Holoplankton
+1795,Gymnolaemata,NYA
+103357,Appendicularia,Holoplankton
+103358,Fritillaria,Holoplankton
+1820,Enteropneusta,NYA
+103367,Oikopleura,Holoplankton
+103407,Oikopleura (Vexillaria) dioica,Holoplankton
+2036,Oligochaeta,NYA
+104075,Aetideidae,Holoplankton
+104082,Clausocalanidae,Holoplankton
+104086,Euchaetidae,Holoplankton
+8012,Euglena,
+10194,Actinopterygii,N/A
+10313,Gadiformes larva,N/A
+11676,Fish larvae,N/A
+104092,Metridinidae,Holoplankton
+104097,Pontellidae,Holoplankton
+104103,Scolecitrichidae C1-5,Holoplankton
+104108,Acartia,Holoplankton
+13795,Epicaridea,NYA
+104112,Aetideus spp,Holoplankton
+104120,Euchirella,Holoplankton
+15029,Pandeidae,NYA
+104121,Gaetanus,Holoplankton
+16350,Trachymedusae,NYA
+17111,Chlorococcales,
+17329,Prasinophyceae,
+104128,Undeuchaeta,Holoplankton
+17638,Cryptophyta,
+17639,Cryptophyceae,
+17640,Cryptomonadales,
+17644,Cryptomonadaceae,
+17651,Leucocryptos,
+17655,Eutreptiaceae,
+17657,Eutreptiella,
+17666,Chlorodendrales,
+17793,Xanthophyceae,
+18526,Volvocales,
+19494,Hydroidolina,NYA
+19539,Euglenophyceae,
+19542,Dinophyceae,
+19542,Dinophyceae,
+19542,Dinophyceae,
+19948,Trematoda,NYA
+21000,Euglenales,
+21001,Euglenaceae,
+22528,Foraminiferida,
+22556,Bodonidae,
+104137,Augaptilus,Holoplankton
+104152,Calanus I-IV,Holoplankton
+22755,Actinulida,NYA
+22990,Atlantidae,NYA
+104155,Neocalanus spp.,Holoplankton
+100145,Halosphaeria,
+104157,Candacia,Holoplankton
+100684,Cerianthidae,NYA
+104159,Centropages,Holoplankton
+101179,Leegaardiella,
+101180,Lohmanniella,
+101185,Strobilidium,
+101190,Laboea,
+101195,Strombidium,
+101196,Tontonia,
+101198,Strombidinopsis,
+101206,Leegaardiella ovalis,
+101207,Leegaardiella sol,
+101209,Lohmanniella oviformis,
+101236,Strobilidium spiralis,
+101264,Laboea strobila,
+101273,Spirostrombidium sauerbreyae,
+101289,Strombidium conicum,
+101325,Strombidium reticulatum,
+101342,Strombidium vestitum,
+101361,Caprellidae,N/A
+101383,Gammaridae,Ambiguous
+104161,Clausocalanus,Holoplankton
+101430,Caprella,NYA
+104162,Ctenocalanus,Holoplankton
+104164,Microcalanus,Holoplankton
+101839,Caprella linearis,NYA
+103251,Hyperia galba,NYA
+103256,Hyperoche medusarum,NYA
+104165,Pseudocalanus,Holoplankton
+104173,Subeucalanus,Holoplankton
+104174,Euchaeta,Holoplankton
+103375,Fritillaria borealis,NYA
+104178,Heterorhabdus,Holoplankton
+104183,Lucicutia,Holoplankton
+103987,Bicosoeca,
+103989,Cafeteria,
+103990,Pseudobodo,
+104002,Bicosoeca petiolata,
+104003,Bicosoeca planctonica,
+104015,Pseudobodo tremulans,
+104190,Metridia (V-VI),Holoplankton
+104191,Pleuromamma,Holoplankton
+104085,Eucalanidae,NYA
+104193,Calocalanus,Holoplankton
+104196,Paracalanus,Holoplankton
+104204,Xanthocalanus,Holoplankton
+104208,Labidocera,Holoplankton
+104225,Lophothrix,Holoplankton
+104111,Aetideopsis,NYA
+104228,Scaphocalanus,Holoplankton
+104115,Bradyidius,NYA
+104229,Scolecithricella,Holoplankton
+104230,Scolecithrix,Holoplankton
+104240,Eurytemora,Holoplankton
+104241,Temora,Holoplankton
+104249,Acartia bifilosa,Holoplankton
+104251,Acartia clausi,Holoplankton
+104253,Acartia discaudata,Holoplankton
+104257,Acartia longiremis ,Holoplankton
+104262,Acartia tonsa,Holoplankton
+104275,Aetideus armatus,Holoplankton
+104276,Aetideus giesbrechti,Holoplankton
+104296,Euchirella amoena,Holoplankton
+104167,Diaixis,NYA
+104171,Eucalanus,NYA
+104172,Rhincalanus,NYA
+104299,Euchirella curticauda,Holoplankton
+104300,Euchirella maxima,Holoplankton
+104175,Pareuchaeta,NYA
+104301,Euchirella messinensis,Holoplankton
+104302,Euchirella pulchra,Holoplankton
+104303,Euchirella rostrata,Holoplankton
+104312,Gaetanus minor,Holoplankton
+104342,Undeuchaeta major,Holoplankton
+104343,Undeuchaeta plumosa,Holoplankton
+104359,Paramisophria cluthae,Holoplankton
+104206,Anomalocera,NYA
+104422,Haloptilus acutifrons,Holoplankton
+104221,Amallothrix,NYA
+104431,Haloptilus longicornis,Holoplankton
+104437,Haloptilus spiniceps,Holoplankton
+104462,Calanoides carinatus,Holoplankton
+104464,Calanus finmarchicus,Holoplankton
+104465,Calanus glacialis,Holoplankton
+104466,Calanus helgolandicus,Holoplankton
+104467,Calanus hyperboreus,Holoplankton
+104468,Mesocalanus tenuicornis,Holoplankton
+104469,Nannocalanus minor,Holoplankton
+104471,Neocalanus gracilis,Holoplankton
+104472,Neocalanus robustior,Holoplankton
+104474,Candacia armata,Holoplankton
+104475,Candacia bipinnata,Holoplankton
+104476,Candacia curta,Holoplankton
+104478,Candacia ethiopica,Holoplankton
+104479,Candacia giesbrechti,Holoplankton
+104481,Candacia longimana,Holoplankton
+104483,Candacia pachydactyla,Holoplankton
+104485,Candacia tenuimana,Holoplankton
+104486,Candacia varicans,Holoplankton
+104491,Centropages bradyi,Holoplankton
+104494,Centropages chierchiae,Holoplankton
+104495,Centropages furcatus,Holoplankton
+104496,Centropages hamatus ,Holoplankton
+104499,Centropages typicus ,Holoplankton
+104500,Centropages violaceus,Holoplankton
+104501,Isias clavipes,Holoplankton
+104502,Clausocalanus arcuicornis,Holoplankton
+104510,Ctenocalanus vanus,Holoplankton
+104513,Microcalanus pygmaeus,Holoplankton
+104515,Pseudocalanus elongatus,Holoplankton
+104517,Pseudocalanus minutus,Holoplankton
+104521,Diaixis hibernica,Holoplankton
+104522,Diaixis pygmaea,Holoplankton
+104542,Rhincalanus cornutus,Holoplankton
+104543,Rhincalanus nasutus,Holoplankton
+104544,Subeucalanus crassus,Holoplankton
+104545,Subeucalanus monachus,Holoplankton
+104546,Subeucalanus mucronatus,Holoplankton
+104547,Subeucalanus pileatus,Holoplankton
+104550,Euchaeta acuta,Holoplankton
+104552,Euchaeta marina,Holoplankton
+104553,Euchaeta media,Holoplankton
+104554,Euchaeta pubera,Holoplankton
+104555,Euchaeta spinosa,Holoplankton
+104560,Paraeuchaeta glacialis,Holoplankton
+104561,Paraeuchaeta gracilis,Holoplankton
+104563,Paraeuchaeta hebes,Holoplankton
+104566,Paraeuchaeta norvegica,Holoplankton
+104576,Heterorhabdus abyssalis,Holoplankton
+104577,Heterorhabdus clausi,Holoplankton
+104579,Heterorhabdus norvegicus,Holoplankton
+104503,Clausocalanus furcatus,NYA
+104504,Clausocalanus jobei,NYA
+104505,Clausocalanus lividus,NYA
+104508,Clausocalanus paululus,NYA
+104509,Clausocalanus pergens,NYA
+104580,Heterorhabdus papilliger,Holoplankton
+104582,Heterorhabdus spinifer,Holoplankton
+104616,Mecynocera clausi,Holoplankton
+104632,Metridia longa,Holoplankton
+104519,Diaixis durani,NYA
+104633,Metridia lucens,Holoplankton
+104637,Pleuromamma abdominalis,Holoplankton
+104638,Pleuromamma borealis,Holoplankton
+104639,Pleuromamma gracilis,Holoplankton
+104640,Pleuromamma piseki,Holoplankton
+104642,Pleuromamma robusta,Holoplankton
+104643,Pleuromamma xiphias,Holoplankton
+104685,Paracalanus parvus,Holoplankton
+104686,Parapontella brevicornis,Holoplankton
+104698,Phaenna spinifera,Holoplankton
+104705,Xanthocalanus fallax,Holoplankton
+104722,Anomalocera patersoni,Holoplankton
+104727,Labidocera acutifrons,Holoplankton
+104728,Labidocera aestiva,Holoplankton
+104736,Labidocera wollastoni,Holoplankton
+104743,Pontellina plumata,Holoplankton
+104757,Pseudocyclopia minor,Holoplankton
+104793,Scaphocalanus echinatus,Holoplankton
+104811,Scolecithricella minor,Holoplankton
+104820,Scolecithrix bradyi,Holoplankton
+104821,Scolecithrix danae,Holoplankton
+104832,Scottocalanus persecans,Holoplankton
+104833,Scottocalanus securifrons,Holoplankton
+104878,Temora longicornis,Holoplankton
+104879,Temora stylifera,Holoplankton
+104880,Temora turbinata,Holoplankton
+104897,Leptocardii,Holoplankton
+105410,Sagitta,Holoplankton
+105440,Parasagitta elegans,Holoplankton
+105443,Parasagitta setosa,Holoplankton
+105450,Sagitta elegans,Holoplankton
+104651,Calocalanus contractus,NYA
+104669,Calocalanus pavo,NYA
+104673,Calocalanus styliremis,NYA
+105464,Serratosagitta serratodentata,Holoplankton
+106265,Bosmina,Holoplankton
+106267,Evadne,Holoplankton
+106269,Podon,Holoplankton
+106271,Bosmina coregoni,Holoplankton
+106272,Penilia avirostris,Holoplankton
+106273,Evadne nordmanni,Holoplankton
+106274,Evadne spinifera,Holoplankton
+104738,Pontella lobiancoi,NYA
+106276,Podon intermedius,Holoplankton
+106277,Podon leuckartii,Holoplankton
+106331,Beroe,Holoplankton
+104807,Scolecithricella dentata,NYA
+106346,Pleurobrachia,Holoplankton
+106358,Beroe cucumis,Holoplankton
+106361,Beroe gracilis,Holoplankton
+106362,Beroe ovata,Holoplankton
+106386,Pleurobrachia pileus,Holoplankton
+104872,Eurytemora affinis,NYA
+106393,Bolinopsis infundibulum,Holoplankton
+106401,Mnemiopsis leidyi,Holoplankton
+106422,Oithonidae C1-6,Holoplankton
+106437,Cyclopina,Holoplankton
+106485,Oithona,Holoplankton
+106528,Cyclopina longicornis,Holoplankton
+105408,Parasagitta,NYA
+106642,Oithona atlantica,Holoplankton
+105416,Eukrohnia hamata,NYA
+106651,Oithona nana,Holoplankton
+106652,Oithona plumifera,Holoplankton
+105445,Pseudosagitta maxima,NYA
+106656,Oithona similis,Holoplankton
+106827,Lucifer,Holoplankton
+105506,Calliacantha,
+105513,Diaphanoeca,
+105518,Parvicorbicula,
+105535,Monosiga,
+105536,Proterospongia,
+105541,Salpingoeca,
+105557,Bicosta minor,
+105558,Bicosta spinifera,
+105559,Calliacantha longicaudata,
+105561,Calliacantha natans,
+105571,Diaphanoeca grandis,
+105574,Diaphanoeca sphaerica,
+105588,Parvicorbicula socialis,
+105601,Pleurasiga reynoldsii,
+106033,Sessilia,NYA
+107689,Processa nouveli,Holoplankton
+110671,Euphausiid,Holoplankton
+106264,Podonidae,NYA
+110679,Thysanoessa spp. furcilia,Holoplankton
+110708,Thysanoessa inermis,Holoplankton
+110709,Thysanoessa longicaudata adult,Holoplankton
+110711,Thysanoessa raschii,Holoplankton
+115153,Harpacticidae,Holoplankton
+115186,Aegisthus,Holoplankton
+115341,Microsetella,Holoplankton
+115348,Euterpina,Holoplankton
+115403,Longipedia,Holoplankton
+106278,Pseudevadne tergestina,NYA
+106281,Chroomonas,
+106282,Cryptomonas,
+106283,Plagioselmis,
+106285,Teleaulax,
+106287,Hemiselmis,
+106289,Rhodomonas,
+106295,Chroomonas vectensis,
+106297,Cryptomonas baltica,
+106303,Plagioselmis prolonga,
+106305,Teleaulax acuta,
+106306,Teleaulax amphioxeia,
+106310,Hemiselmis virescens,
+106313,Rhodomonas baltica,
+106314,Rhodomonas marina,
+106316,Rhodomonas salina,
+116115,Microsetella norvegica C1-6,Holoplankton
+116116,Microsetella rosea C1-6,Holoplankton
+116162,Euterpina acutifrons,Holoplankton
+116383,Miracia efferata,Holoplankton
+116598,Parathalestris cronii,Holoplankton
+117211,Rathkea,Holoplankton
+117252,Tiaropsis,Holoplankton
+117849,Aglantha digitale,Holoplankton
+117947,Solmaris corona,Holoplankton
+119777,Monstrillidae C1-6,Holoplankton
+119780,Monstrilla,Holoplankton
+119805,Monstrilla longiremis,Holoplankton
+119822,Mysidae,Holoplankton
+119859,Gastrosaccus,Holoplankton
+119930,Gnathophausia zoea,Holoplankton
+127482,Halocyprididae,Holoplankton
+106669,Dendrobranchiata,NYA
+128569,Corycaeidae,Holoplankton
+128586,Oncaeidae C1-6,Holoplankton
+128634,Corycaeus,Holoplankton
+128639,Urocorycaeus,Holoplankton
+128672,Lubbockia,Holoplankton
+106733,Galatheidae,NYA
+106734,Porcellanidae,NYA
+106738,Paguridae,NYA
+106776,Alpeidae,NYA
+106798,Axiidae,NYA
+106800,Callianassidae,NYA
+128690,Oncaea,Holoplankton
+106834,Galathea,NYA
+106838,Porcellana,NYA
+106854,Pagurus,NYA
+106889,Ebalia,NYA
+106903,Hyas,NYA
+106925,Liocarcinus,NYA
+106927,Necora,NYA
+106976,Pinnotheres,NYA
+106986,Eualus,NYA
+107007,Crangon,NYA
+107010,Philocheras,NYA
+107054,Processa,NYA
+107072,Callianassa,NYA
+107079,Upogebia,NYA
+107188,Pisidia longicornis,NYA
+107190,Porcellana platycheles,NYA
+107232,Pagurus bernhardus,NYA
+128721,Copilia spp.,Holoplankton
+107276,Cancer pagurus,NYA
+107277,Corystes cassivelaunus,NYA
+107345,Macropodia rostrata,NYA
+107379,Callinectes sapidus,NYA
+128775,Giardella callianassae,Holoplankton
+107388,Liocarcinus holsatus,NYA
+128776,Giardella thompsoni,Holoplankton
+107506,Eualus occultus,NYA
+107507,Eualus pusiolus,NYA
+107551,Crangon allmanni,NYA
+107552,Crangon crangon,NYA
+107557,Philocheras bispinosus,NYA
+107647,Pandalina brevirostris,NYA
+107677,Pasiphaea sivado,NYA
+128800,Corycaeus speciosus,Holoplankton
+107737,Jaxea nocturna,NYA
+107739,Upogebia deltaura,NYA
+107742,Upogebia stellata,NYA
+108343,Processa modica modica,NYA
+108344,Processa nouveli holthuisi,NYA
+109390,Dinophysiales,
+109391,Gonyaulacales,
+109392,Gymnodiniales,
+109393,Noctilucales,
+109394,Peridiniales,
+109394,Peridiniales,
+109394,Peridiniales,
+109396,Prorocentrales,
+109406,Dinophysiaceae,
+109406,Dinophysiaceae,
+109406,Dinophysiaceae,
+109408,Goniodomataceae,
+109410,Gymnodiniaceae,
+109413,Polykrikaceae,
+109415,Warnowiaceae,
+109418,Noctilucaceae,
+109421,Ceratiaceae,
+109425,Cladopyxidaceae,
+109428,Gonyaulacaceae,
+109431,Ostreopsidaceae,
+109432,Oxytoxaceae,
+109433,Peridiniaceae,
+109435,Protoperidiniaceae,
+109436,Pyrophacaceae,
+109438,Thoracosphaeraceae,
+109442,Prorocentraceae,
+109444,Pyrocystaceae,
+109458,Pseliodinium,
+109459,Amphisolenia,
+109462,Dinophysis,
+109462,Dinophysis,
+109462,Dinophysis,
+109463,Histioneis,
+109464,Ornithocercus,
+109466,Phalacroma,
+109467,Sinophysis,
+109468,Fragilidium,
+109470,Alexandrium ,
+109470,Alexandrium ,
+109470,Alexandrium ,
+109473,Amphidinium,
+109474,Cochlodinium,
+109475,Gymnodinium,
+109475,Gymnodinium,
+109475,Gymnodinium,
+109476,Gyrodinium,
+109476,Gyrodinium,
+109476,Gyrodinium,
+109477,Katodinium,
+109478,Ptychodiscus,
+109479,Torodinium,
+109485,Polykrikos,
+109486,Oxyrrhis,
+109487,Pronoctiluca,
+109490,Nematodinium,
+109491,Warnowia,
+109492,Woloszynskia,
+109499,Kofoidinium,
+109500,Noctiluca,
+109502,Spatulodinium,
+109504,Pentapharsodinium,
+109505,Preperidinium,
+109506,Ceratium,
+109506,Ceratium,
+109506,Ceratium,
+109507,Ceratocorys spp.,
+109508,Ceratoperidinium,
+109509,Cladopyxis,
+109510,Micracanthodinium,
+109511,Micranthodinium,
+109512,Palaeophalacroma,
+109515,Diplopsalis,
+109516,Diplosalsis,
+109517,Amphidoma,
+109518,Amylax,
+109519,Gonyaulax,
+109519,Gonyaulax,
+109519,Gonyaulax,
+109524,Ostreopsis,
+109525,Adenoides,
+109526,Centrodinium,
+109527,Corythodinium,
+109528,Oxytoxum,
+109529,Pavillardinium,
+109530,Roscoffia,
+109533,Calciodinellum,
+109534,Coolia  ,
+109537,Diplopsalopsis,
+109538,Glenodinium,
+109540,Heterocapsa,
+109541,Kryptoperidinium,
+109542,Oblea,
+109543,Peridiniella,
+109545,Scrippsiella,
+109548,Blepharocysta,
+109549,Peridinium,
+109550,Podolampas,
+109553,Protoperidinium,
+109553,Protoperidinium,
+109553,Protoperidinium,
+109555,Pyrophacus,
+109556,Amphidiniopsis,
+109557,Thecadinium,
+109559,Goniodoma,
+109560,Triadinium,
+109564,Mesoporos,
+109566,Prorocentrum,
+109566,Prorocentrum,
+109566,Prorocentrum,
+109567,Protoceratium,
+109569,Dissodinium,
+109571,Pyrocystis,
+109575,Paulsenella chaetoceratis,
+109585,Minuscula bipes,
+109603,Dinophysis acuminata,
+109604,Dinophysis acuta,
+109612,Dinophysis caudata,
+109616,Dinophysis dens,
+109624,Dinophysis fortii,
+109627,Dinophysis hastata,
+109637,Dinophysis norvegica,
+109638,Dinophysis odiosa,
+109649,Dinophysis pulchella,
+109651,Dinophysis punctata,
+109659,Dinophysis skagii,
+109662,Dinophysis tripos,
+109693,Ornithocercus magnificus,
+109705,Fragilidium subglobosum,
+109707,Alexandrium affine,
+109710,Alexandrium leei,
+109711,Alexandrium minutum,
+109712,Alexandrium ostenfeldii,
+109713,Alexandrium pseudogonyaulax,
+109714,Alexandrium tamarense,
+109716,Achradina pulchra,
+109717,Actiniscus pentasterias,
+109718,Amphidinium acutissimum,
+109723,Amphidinium carterae,
+109726,Amphidinium crassum,
+109731,Amphidinium herdmanii,
+109740,Amphidinium latum,
+109741,Amphidinium longum,
+109745,Amphidinium operculatum,
+109754,Amphidinium sphenoides,
+109766,Cochlodinium helicoides,
+109773,Cochlodinium pupa,
+109777,Gymnodinium abbreviatum,
+109784,Gymnodinium catenatum,
+109785,Gymnodinium chlorophorum,
+109790,Gymnodinium diploconus,
+109791,Gymnodinium elongatum,
+109800,Gymnodinium gracile,
+109802,Gymnodinium halophilum,
+109809,Gymnodinium lohmannii,
+109819,Gymnodinium ostenfeldii,
+109825,Gymnodinium pygmaeum,
+109826,Gymnodinium rhomboides,
+109831,Gymnodinium simplex,
+109835,Gymnodinium variabile,
+109837,Gymnodinium vestificii,
+109843,Gyrodinium britannicum,
+109844,Gyrodinium calyptoglyphe,
+109851,Gyrodinium dominans,
+109852,Gyrodinium estuariale,
+109854,Gyrodinium flagellare,
+109856,Gyrodinium fusiforme,
+109859,Gyrodinium lachryma,
+109870,Gyrodinium pellucidum,
+109871,Gyrodinium pepo,
+109876,Gyrodinium spirale,
+109878,Gyrodinium undulans,
+109882,Katodinium asymmetricum,
+109885,Katodinium glaucum,
+109887,Katodinium rotundatum,
+109888,Ptychodiscus noctiluca,
+109889,Torodinium robustum,
+109890,Torodinium teredo,
+109894,Herdmania litoralis,
+109896,Pheopolykrikos beauchampii,
+109898,Polykrikos hartmannii,
+109899,Polykrikos kofoidii,
+109901,Polykrikos schwartzii,
+109902,Oxyrrhis marina,
+109903,Pronoctiluca pelagica,
+109904,Pronoctiluca spinifera,
+109907,Nematodinium armatum,
+109914,Leptodiscus medusoides,
+109918,Kofoidinium pavillardii,
+109920,Kofoidinium velleloides,
+109921,Noctiluca scintillans,
+109923,Spatulodinium pseudonoctiluca,
+109925,Pentapharsodinium dalei,
+109927,Preperidinium meunierii,
+109928,Preperidinium pseudooblea,
+109929,Ceratium arietinum,
+109930,Ceratium azoricum,
+109931,Ceratium belone,
+109932,Ceratium breve,
+109934,Ceratium buceros,
+109935,Ceratium candelabrum,
+109936,Ceratium carriense,
+109939,Ceratium compressum,
+109940,Ceratium concilians,
+109941,Ceratium contortum,
+109943,Ceratium declinatum,
+109947,Ceratium extensum,
+109948,Ceratium falcatiforme,
+109949,Ceratium falcatum,
+109950,Ceratium furca,
+109951,Ceratium fusus,
+109952,Ceratium geniculatum,
+109953,Ceratium gibberum,
+109955,Ceratium hexacanthum,
+109956,Ceratium horridum,
+109958,Ceratium inflatum,
+109960,Ceratium karstenii,
+109961,Ceratium kofoidii,
+109962,Ceratium limulus,
+109963,Ceratium lineatum,
+109964,Ceratium longipes,
+109965,Ceratium longirostrum,
+109967,Ceratium macroceros,
+109968,Ceratium massiliense,
+109969,Ceratium minutum,
+109971,Ceratium pavillardii,
+109972,Ceratium pentagonum,
+109974,Ceratium pulchellum,
+109975,Ceratium ranipes,
+109977,Ceratium setaceum,
+109979,Ceratium symmetricum,
+109980,Ceratium teres,
+109981,Ceratium trichoceros,
+109982,Ceratium tripos,
+109983,Ceratium vultur,
+109992,Micracanthodinium claytonii,
+109993,Micracanthodinium setiferum,
+109998,Crypthecodinium cohnii,
+110001,Diplopsalis lenticula,
+110005,Amphidoma caudata,
+110007,Amylax triacantha,
+110009,Gonyaulax alaskenses,
+110014,Gonyaulax diegensis,
+110015,Gonyaulax digitale,
+110023,Gonyaulax grindleyi,
+110035,Gonyaulax polygramma,
+110038,Gonyaulax rugosum,
+110039,Gonyaulax scrippsae,
+110041,Gonyaulax spinifera,
+110043,Gonyaulax turbynei,
+110045,Gonyaulax verior,
+110048,Spiraulax kofoidii,
+110067,Boreadinium pisiforme,
+110069,Adenoides eludens,
+110073,Corythrodinium diploconus,
+110077,Corythodinium tesselatum,
+110079,Oxytoxum adriaticum,
+110082,Oxytoxum caudatum,
+110085,Oxytoxum constrictum,
+110087,Oxytoxum crassum,
+110090,Oxytoxum curvatum,
+110094,Oxytoxum elegans,
+110097,Oxytoxum laticeps,
+110100,Oxytoxum longum,
+110102,Oxytoxum mediterraneum,
+110103,Oxytoxum milneri,
+110115,Oxytoxum scolopax,
+110116,Oxytoxum sphaeroideum,
+110122,Oxytoxum viride,
+110127,Sabulodinium undulatum,
+110130,Coolia monotis,
+110131,Diplopelta asymmetrica,
+110138,Diplopsalopsis latipeltata,
+110139,Diplopsalopsis orbicularis,
+110146,Glenodinium danicum,
+110152,Heterocapsa rotundata,
+110153,Heterocapsa triquetra,
+110154,Kryptoperidinium foliaceum,
+110155,Oblea rotunda,
+110156,Peridiniella catenata,
+110168,Scrippsiella lachrymosa,
+110172,Scrippsiella trochoidea,
+110178,Blepharocysta paulsenii,
+110183,Peridinium cinctum,
+110185,Peridinium gargantua,
+110198,Peridinium willei,
+110199,Podolampas bipes,
+110201,Podolampas elegans,
+110202,Podolampas spinifera,
+110204,Lebouraia minuta,
+110205,Protoperidinium achromaticum,
+110206,Protoperidinium avellana,
+110208,Protoperidinium bipes,
+110209,Protoperidinium breve,
+110210,Protoperidinium brevipes,
+110212,Protoperidinium conicoides,
+110213,Protoperidinium conicum,
+110214,Protoperidinium crassipes,
+110215,Protoperidinium curtipes,
+110216,Protoperidinium denticulatum,
+110217,Protoperidinium depressum,
+110218,Protoperidinium diabolus,
+110219,Protoperidinium divergens,
+110220,Protoperidinium excentricum,
+110223,Protoperidinium granii,
+110228,Protoperidinium laticeps,
+110229,Protoperidinium leonis,
+110231,Protoperidinium mariaelebouriae,
+110233,Protoperidinium minutum,
+110234,Protoperidinium mite,
+110237,Protoperidinium nudum,
+110238,Protoperidinium oblongum,
+110239,Protoperidinium obtusum,
+110240,Protoperidinium oceanicum,
+110241,Protoperidinium ovatum,
+110244,Protoperidinium pallidum,
+110245,Protoperidinium pellucidum,
+110247,Protoperidinium pentagonum,
+110248,Protoperidinium punctulatum,
+110249,Protoperidinium pyriforme,
+110250,Protoperidinium quarense,
+110251,Protoperidinium saltans,
+110257,Protoperidinium steinii,
+110258,Protoperidinium subicurvipes,
+110259,Protoperidinium subinerme,
+110260,Protoperidinium thorianum,
+110266,Pyrophacus horologicum,
+110273,Thecadinium kofoidii,
+110284,Oxyphysis oxytoxoides,
+110291,Prorocentrum aporum,
+110293,Prorocentrum balticum,
+110295,Prorocentrum compressum,
+110298,Prorocentrum dentatum,
+110300,Prorocentrum gracile,
+110301,Prorocentrum lima,
+110302,Prorocentrum maximum,
+110303,Prorocentrum micans,
+110304,Prorocentrum minimum,
+110310,Prorocentrum redfieldii,
+110311,Prorocentrum rostratum,
+110312,Prorocentrum rotundatum,
+110314,Prorocentrum scutellum,
+110316,Prorocentrum triestinum,
+110321,Protoceratium reticulatum,
+110324,Dissodinium pseudocalani,
+110325,Dissodinium pseudolunula,
+110326,Dissodium asymmetricum,
+110328,Pyrocystis fusiformis,
+110332,Pyrocystis noctiluca,
+128805,Ditrichocorycaeus anglicus,Holoplankton
+110427,Pseudocuma,NYA
+110487,Diastylis rathkei,NYA
+110652,Eutreptiella gymnastica,
+129341,Magelona,Holoplankton
+110678,Stylocheiron,NYA
+129491,Harmothoe,Holoplankton
+110690,Meganyctiphanes norvegica,NYA
+129715,Tomopteris,Holoplankton
+131554,Tomopteris helgolandica,Holoplankton
+131568,Tomopteris septentrionalis,Holoplankton
+110722,Cheilostomatida,NYA
+134941,Keratella,Holoplankton
+115057,Prymnesiophyceae,
+115058,Mischococcales,
+115059,Coccosphaerales,
+115060,Isochrysidales,
+115061,Prymnesiales,
+115063,Pleurochloridaceae,
+115070,Gephyrocapsaceae,
+115073,Prymnesiaceae,
+115075,Meringosphaera,
+115082,Pontosphaera,
+115086,Emiliania,
+115088,Phaeocystis,
+115090,Chrysochromulina,
+115104,Emiliania huxleyi,
+115106,Phaeocystis pouchetii,
+115116,Chrysochromulina ericina,
+115119,Chrysochromulina hirta,
+115126,Chrysochromulina parkeae,
+115127,Chrysochromulina polylepis,
+115128,Chrysochromulina pringsheimii,
+115129,Chrysochromulina spinifera,
+134958,Synchaeta,Holoplankton
+134992,Keratella quadrata,Holoplankton
+115273,Clytemnestra,NYA
+135305,Pelagia noctiluca,Holoplankton
+135335,Physonectae,Holoplankton
+115351,Tigriopus,NYA
+135338,Diphyidae,Holoplankton
+115427,Alteutha,NYA
+115470,Thalestris,NYA
+115484,Tisbe,NYA
+115508,Aegisthus aculeatus,NYA
+115509,Aegisthus mucronatus,NYA
+115805,Clytemnestra scutellata,NYA
+135366,Muggiaea,Holoplankton
+135441,Muggiaea atlantica,Holoplankton
+135444,Muggiaea kochii,Holoplankton
+116183,Tigriopus brevicornis,NYA
+135484,Agalma elegans,Holoplankton
+116452,Alteutha interrupta,NYA
+135496,Nanomia cara,Holoplankton
+137212,Doliolida,Holoplankton
+137215,Doliolidae,Holoplankton
+137217,Salpidae,Holoplankton
+137222,Doliolum,Holoplankton
+117056,Turritopsis,NYA
+137247,Doliolum nationalis,Holoplankton
+137272,Salpa fusiformis,Holoplankton
+137751,Clio,Holoplankton
+137793,Clione,Holoplankton
+138327,Peracle,Holoplankton
+138366,Pneumodermopsis,Holoplankton
+139178,Clione limacina,Holoplankton
+140227,Limacina retroversa,Holoplankton
+146420,Tunicata,Holoplankton
+146421,Appendicularia,Holoplankton
+148370,Daphnia,Holoplankton
+149668,Mysida,Holoplankton
+149711,Pseudocalanus minutus elongatus,Holoplankton
+149718,Eucalanus elongatus,Holoplankton
+117388,Obelia geniculata,NYA
+149755,Acartia clausi,Holoplankton
+149782,Cyclops,Holoplankton
+117512,Eirene viridula,NYA
+149847,Corycaeus anglicus,Holoplankton
+117517,Eutonina indicans,NYA
+117521,Helgicirrha cari,NYA
+117527,Tima bairdii,NYA
+117535,Eucheilota maculata,NYA
+154102,Sagitta elegans elegans,Holoplankton
+117568,Liriope tetraphylla,NYA
+117653,Podocoryna aereolata,NYA
+117654,Podocoryna borealis,NYA
+154107,Sagitta setosa,Holoplankton
+117736,Lovenella clausa,NYA
+117743,Melicertum octocostatum,NYA
+117747,Cosmetira pilosella,NYA
+117754,Mitrocomella brownei,NYA
+157675,Microcalanus pusillus,Holoplankton
+157680,Pseudodiaptomus,Holoplankton
+117796,Neoturris pileata,NYA
+157684,Tortanus discaudatus,Holoplankton
+159919,Podon polyphemoides,Holoplankton
+196125,Scolecithricidae,Holoplankton
+196874,Paraeuchaeta,Holoplankton
+220914,Candacia simplex,Holoplankton
+117970,Modeeria rotunda,NYA
+220915,Candacia bispinosa,Holoplankton
+117982,Ectopleura dumortierii,NYA
+234125,Acartia discaudata,Holoplankton
+117998,Zanclea costata,NYA
+118011,Cryothecomonas,
+118014,Ebria,
+118027,Solenicola,
+118028,Telonema,
+118047,Cryothecomonas scybalophora,
+118051,Ebria tripartita,
+118071,Rhizomonas setigera,
+118073,Solenicola setigera,
+118075,Telonema subtile,
+118278,Gnathiidae,NYA
+118437,Gnathia,NYA
+119077,Leucocryptos marina,
+119081,Kathablepharis remigera,
+119270,Nitzschia,NYA
+119270,Nitzschia,NYA
+119270,Nitzschia,NYA
+119723,Kuhnia scombri,NYA
+237874,Thysanoessa spinifera,Holoplankton
+237965,Gaetanus tenuispinus,Holoplankton
+247924,Diaptomus,Holoplankton
+119816,Mormonilla,NYA
+247981,Pleopis polyphemoides,Holoplankton
+254316,Nyctiphanes couchii,Holoplankton
+260629,Heterophryxus appendiculatus,Holoplankton
+119950,Anchialina agilis,NYA
+120566,Vannella,
+334946,Tomopteris helgolandica,Holoplankton
+123082,Echinoidea,NYA
+123083,Holothuroidea,NYA
+345781,Eucalanus hyalinus,Holoplankton
+123106,Spatangoida,NYA
+123200,Ophiuridae,NYA
+123219,Asterias,NYA
+123386,Echinus,NYA
+123426,Echinocardium,NYA
+123574,Ophiura,NYA
+123613,Amphiura,NYA
+345919,Acartia bifilosa,Holoplankton
+345943,Acartia tonsa,Holoplankton
+124319,Psammechinus miliaris,NYA
+125080,Amphiura filiformis,NYA
+125131,Ophiothrix fragilis,NYA
+125464,Clupeidae larva,N/A
+125516,Ammodytidae larva,N/A
+125522,Callionymidae,N/A
+125537,Gobiidae,N/A
+125606,Syngnathidae,N/A
+125724,Engraulis,N/A
+125732,Gadus,NYA
+125741,Ciliata,
+125909,Ammodytes,NYA
+125911,Hyperoplus,N/A
+126109,Arnoglossus,N/A
+126175,Sebastes,NYA
+126227,Syngnathus,NYA
+126281,Anguilla anguilla,NYA
+126417,Clupea harengus,N/A
+126421,Sardina pilchardus,N/A
+126425,Sprattus sprattus,NYA
+126426,Engraulis encrasicolus,N/A
+126436,Gadus morhua,NYA
+126437,Melanogrammus aeglefinus,N/A
+126438,Merlangius merlangus,NYA
+126440,Pollachius pollachius,NYA
+126441,Pollachius virens,NYA
+126442,Raniceps raninus,NYA
+126444,Trisopterus esmarkii,NYA
+126446,Trisopterus minutus,NYA
+126448,Ciliata mustela,NYA
+126449,Ciliata septentrionalis,NYA
+126513,Diplecogaster bimaculata,NYA
+126751,Ammodytes marinus,NYA
+126754,Gymnammodytes semisquamatus,N/A
+126755,Hyperoplus immaculatus,N/A
+126756,Hyperoplus lanceolatus,N/A
+126768,Lipophrys pholis,NYA
+126792,Callionymus lyra,NYA
+126822,Trachurus trachurus,NYA
+126868,Aphia minuta,NYA
+126878,Crystallogobius linearis,NYA
+126898,Gobiusculus flavescens,NYA
+126927,Pomatoschistus microps,NYA
+126928,Pomatoschistus minutus,NYA
+126930,Pomatoschistus pictus,NYA
+126964,Ctenolabrus rupestris,NYA
+126965,Labrus bergylta,NYA
+126996,Pholis gunnellus,NYA
+127023,Scomber scombrus,NYA
+127126,Arnoglossus laterna,N/A
+127136,Glyptocephalus cynoglossus,NYA
+127137,Hippoglossoides platessoides,NYA
+127139,Limanda limanda,N/A
+127140,Microstomus kitt,NYA
+127143,Pleuronectes platessa,N/A
+127147,Phrynorhombus norvegicus,NYA
+127153,Buglossidium luteum,NYA
+127160,Solea solea,NYA
+127190,Agonus cataphractus,NYA
+127201,Micrenophrys lilljeborgii,NYA
+127203,Myoxocephalus scorpius,NYA
+127204,Taurulus bubalis,NYA
+127219,Liparis liparis,NYA
+127220,Liparis montagui,NYA
+127379,Entelurus aequoreus,NYA
+346026,Acartia danae ,Holoplankton
+127778,Conchoecissa imbricata,NYA
+127782,Discoconchoecia elegans,NYA
+127820,Mikroconchoecia curta,NYA
+346030,Acartia negligens ,Holoplankton
+346037,Acartia longiremis ,Holoplankton
+128567,Clausidiidae,NYA
+346509,Goniopsyllus clausi,Holoplankton
+356886,Aetideopsis armatus,Holoplankton
+357973,Cyclopinoides longicornis,Holoplankton
+359879,Paraeuchaeta tonsa,Holoplankton
+364368,Anomalocera patersonii,Holoplankton
+367334,Undinula vulgaris,Holoplankton
+413311,Hemicyclops aberdonensis,Holoplankton
+128722,Sapphirina,NYA
+416184,Cephalobrachia,Holoplankton
+724226,Parathalestris croni,Holoplankton
+128795,Agetus flaccus,NYA
+128797,Agetus typicus,NYA
+745865,Paracalanus parvus parvus,Holoplankton
+847452,Eucalanus elongatus elongatus,Holoplankton
+128806,Ditrichocorycaeus brehmi,NYA
+128818,Onychocorycaeus latus,NYA
+128819,Onychocorycaeus ovalis,NYA
+128821,Urocorycaeus furcifer,NYA
+128929,Oncaea curta,NYA
+128938,Oncaea media,NYA
+128939,Oncaea mediterranea,NYA
+128954,Oncaea venusta,NYA
+128957,Triconia conifera,NYA
+129041,Sapphirina angusta,NYA
+129046,Sapphirina gemma,NYA
+129049,Sapphirina iris,NYA
+129062,Vettoria granulosa,NYA
+850801,Metridia lucens lucens,Holoplankton
+129370,Nephtys,NYA
+129427,Owenia,NYA
+1381786,Caromiobenella helgolandica,Holoplankton
+129455,Phyllodoce,NYA
+129471,Poecilochaetus,NYA
+129472,Polygordius,NYA
+1434803,Beroe,Holoplankton
+129520,Sabellaria,NYA
+129619,Polydora,NYA
+1453014,Calanus finmarchicus finmarchicus,Holoplankton
+129659,Myrianida,NYA
+129697,Lanice,NYA
+105,Bivalvia,Meroplankton
+130355,Nephtys caeca,NYA
+130544,Owenia fusiformis,NYA
+131187,Spiophanes bombyx,NYA
+799,Parasitic Nematoda,Meroplankton
+882,Annelida,Meroplankton
+134524,Nephroselmis,
+134526,Tetraselmis,
+134527,Cymbomonas,
+134528,Halosphaera,
+134529,Pyramimonas,
+134530,Dolichomastix,
+134531,Mamiella,
+134533,Micromonas,
+134534,Pseudoscourfieldia,
+134535,Scourfieldia,
+134541,Nephroselmis pyriformis,
+134542,Nephroselmis rotunda,
+134545,Cymbomonas tetramitiformis,
+134546,Halosphaera viridis,
+134550,Pyramimonas (Trichocystis) grossii,
+134559,Pyramimonas virginica,
+134562,Mamiella gilva,
+134563,Mantoniella squamata,
+134564,Micromonas pusilla,
+134566,Pseudoscourfieldia marina,
+134798,Peltogaster paguri,NYA
+883,Polychaeta,Meroplankton
+1082,Cirripede cyprid,Meroplankton
+1082,Cirripede larvae,Meroplankton
+135220,Scyphozoa,Ambiguous
+1082,Cirripede nauplii,Meroplankton
+1082,Cirripedia,Meroplankton
+1130,Decapoda larvae,Meroplankton
+1292,Anthozoa,Meroplankton
+1606,Campanulariidae,Meroplankton
+1789,Phoronida larva,Meroplankton
+1806,Echinodermata,Meroplankton
+1818,Hemichordata larva,Meroplankton
+135344,Agalmatidae,NYA
+1824,Cephalochordata,Meroplankton
+1839,Ascidiacea larva,Meroplankton
+11707,Cephalopoda larvae,Meroplankton
+13551,Anthoathecata,Meroplankton
+13552,Leptothecata,Meroplankton
+135513,Caligidae C1-6,N/A
+135566,Caligus C1-6,N/A
+136137,Squilla mantis,NYA
+136761,Difflugia,
+136903,Paulinella ovalis,
+14355,Stomatopoda,Meroplankton
+22754,Trachylinae,Meroplankton
+100678,Metridiidae,Meroplankton
+100782,Cerianthus spp.,Meroplankton
+103483,Ascidia,Meroplankton
+104902,Branchiostoma,Meroplankton
+137294,Protaspis glans,
+104906,Branchiostoma lanceolatum,Meroplankton
+106087,Lepas nauplii,Meroplankton
+106122,Balanus,Meroplankton
+138122,Limacina,NYA
+106670,Pleocyemata,Meroplankton
+106671,Anomura,Meroplankton
+106673,Brachyura,Meroplankton
+106674,Caridea,Meroplankton
+140266,Melarhaphe neritoides,NYA
+140600,Eledone cirrhosa,NYA
+140825,Pneumodermopsis ciliata,NYA
+140826,Pneumodermopsis paucidens,NYA
+142062,Leptoplanidae,NYA
+142209,Alaurina,N/A
+142785,Alaurina composita,N/A
+143790,Ulotrichaceae,
+143798,Volvocaceae,
+143943,Uronema,
+144202,Microspora,
+144302,Tribonema,
+106731,Sergestidae,Meroplankton
+146182,Rhynchobodo,
+146192,Chrysomonada,
+146203,Dinoflagellata,
+146208,Ebriaceae,
+146221,Discomitochondria,
+146222,Flagellates,
+146230,Chrysophyceae,
+146232,Dictyochophyceae,
+107254,Nephrops norvegicus larva,Meroplankton
+107381,Carcinus maenas,Meroplankton
+107398,Necora puber,Meroplankton
+146537,Cyanobacteria,
+146538,Lyngbya,
+146541,Spirulina,
+146542,Cyanophyceae,
+146543,Chroococcales,
+146545,Merismopedia,
+146546,Merismopedia warmingiana,
+146549,Oscillatoria,
+146551,Planktothrix,
+146552,Planktothrix agardhii,
+146554,Oscillatoria limosa,
+146557,Microcystis,
+146558,Microcystis aeruginosa,
+146560,Microcystis flos-aquae,
+146562,Aphanocapsa,
+146563,Aphanocapsa delicatissima,
+146565,Chroococcus,
+146568,Chroococcus limneticus,
+146570,Gomphosphaeria,
+146573,Coelosphaerium,
+146576,Merismopedia tenuissima,
+146577,Merismopedia punctata,
+146578,Merismopedia glauca,
+146585,Anabaena,
+146590,Anabaenopsis,
+146602,Gloeocapsa,
+146603,Oscillatoriales,
+146606,Pseudanabaenaceae,
+146617,Woronichinia,
+146618,Woronichinia naegeliana,
+146619,Coelosphaerium minutissimum,
+146624,Calothrix,
+146644,Snowella,
+146645,Snowella lacustris,
+146677,Planktolyngbya,
+146715,Aphanothece,
+147082,Parathemisto,NYA
+110398,Diastylis,Meroplankton
+111054,Tubilipora,Meroplankton
+148898,Bacillariophyta,
+148899,Bacillariophyceae,
+148899,Bacillariophyceae,
+148899,Bacillariophyceae,
+148900,Coscinodiscophyceae,
+148902,Bacillariophycidae,
+148903,Thalassiosirales,
+148904,Thalassiosiraceae,
+148905,Cyclotella,
+148906,Cyclotella scaldensis,
+148907,Cyclotella atomus,
+148908,Cyclotella choctawhatcheeana,
+148909,Cyclotella meneghiniana,
+148911,Cyclotella striata,
+148912,Thalassiosira,
+148912,Thalassiosira,
+148912,Thalassiosira,
+148913,Thalassiosira angulata,
+148914,Thalassiosira anguste-lineata,
+148915,Coscinodiscales,
+148916,Coscinodiscaceae,
+148917,Coscinodiscus,
+148917,Coscinodiscus,
+148917,Coscinodiscus,
+148919,Thalassiosira decipiens,
+148922,Thalassiosira eccentrica,
+148923,Thalassiosira hendeyi,
+148925,Thalassiosira minima,
+148929,Thalassiosira nodulolineata,
+148931,Thalassiosira nordenskioeldii,
+148932,Thalassiosira pacifica,
+148933,Thalassiosira proschkinae,
+148934,Thalassiosira pseudonana,
+148936,Thalassiosira punctigera,
+148937,Thalassiosira angstii,
+148941,Ethmodiscus punctiger,
+148942,Thalassiosira rotula,
+148943,Hemidiscaceae,
+148944,Actinocyclus,
+148945,Actinocyclus normanii,
+148946,Heliopeltaceae,
+148947,Actinoptychus,
+148948,Actinoptychus senarius,
+148949,Actinoptychus splendens,
+148952,Fragilariaceae,
+148953,Asterionella,
+148954,Asterionella formosa,
+148955,Asterionella glacialis,
+148956,Asterionella kariana,
+148959,Aulacoseira,
+148960,Aulacoseira ambigua,
+148961,Aulacoseira granulata,
+148963,Odontella,
+148965,Biddulphiales,
+148966,Biddulphiaceae,
+148967,Biddulphia,
+148969,Biddulphia sinensis,
+148969,Trieres sinensis,
+148971,Coscinodiscophycidae,
+148980,Porosira,
+148981,Minidiscus,
+148984,Chaetocerotaceae,
+148985,Chaetoceros,
+148985,Chaetoceros,
+148985,Chaetoceros,
+148986,Chaetoceros mitra,
+148989,Cocconeis,
+148990,Cocconeis placentula,
+148991,Coscinodiscus commutatus,
+148992,Coscinodiscus concinnus,
+148994,Stephanodiscaceae,
+148996,Cyclostephanos dubius,
+148998,Cyclotella cryptica,
+149000,Cyclotella radiosa,
+149001,Bacillariales,
+149001,Bacillariales,
+149001,Bacillariales,
+149002,Bacillariaceae,
+149003,Cylindrotheca,
+149004,Cylindrotheca closterium,
+149006,Surirellaceae,
+149007,Cymatopleura,
+149008,Cymatopleura solea,
+149009,Cymatosirales,
+149010,Cymatosiraceae,
+149011,Cymatosira,
+149012,Cymatosira belgica,
+149013,Diatoma,
+149014,Diatoma tenuis,
+149015,Naviculales,
+149018,Diploneis,
+149019,Diploneis interrupta,
+149021,Lithodesmiaceae,
+149022,Ditylum,
+149023,Ditylum brightwellii,
+149027,Epithemia turgida,
+149028,Fragilaria,
+149031,Naviculaceae,
+149032,Pleurosigmataceae,
+149033,Gyrosigma,
+149034,Gyrosigma arcticum,
+149035,Gyrosigma acuminatum,
+149037,Leptocylindraceae,
+149038,Leptocylindrus,
+149039,Leptocylindrus minimus,
+149041,Melosiraceae,
+149042,Melosira,
+149043,Melosira varians,
+149044,Melosira nummuloides,
+149045,Nitzschia,
+149045,Nitzschia,
+149045,Nitzschia,
+149046,Nitzschia acicularis,
+149048,Triceratiales,
+149049,Triceratiaceae,
+149050,Odontella aurita,
+149051,Odontella rostrata,
+149054,Paralia,
+149055,Paralia sulcata,
+149056,Plagiogrammopsis,
+149057,Plagiogrammopsis vanheurckii,
+149058,Hyalodiscaceae,
+149059,Podosira,
+149060,Podosira stelligera,
+149061,Hyalodiscus,
+149065,Raphoneis,
+149066,Rhaphoneis amphiceros,
+149068,Rhizosoleniaceae,
+149069,Rhizosolenia,
+149069,Rhizosolenia,
+149069,Rhizosolenia,
+149070,Rhizosolenia hebetata,
+149071,Rhizosolenia hebetata f. semispina,
+149073,Skeletonema,
+149074,Skeletonema costatum,
+149075,Skeletonema subsalsum,
+149077,Stauroneis,
+149078,Stauroneis phoenicenteron,
+149079,Stephanodiscus,
+149080,Stephanodiscus hantzschii,
+149081,Stephanodiscus medius,
+149082,Stephanodiscus niagarae,
+149083,Stephanodiscus parvus,
+149084,Surirella,
+149085,Surirella crumena,
+149087,Surirella ovalis,
+149089,Thalassiocyclus lucens,
+149091,Thalassionemataceae,
+149092,Thalassionema,
+149093,Thalassionema nitzschioides,
+149094,Odontella regia,
+149095,Odontella sinensis,
+149096,Aulacoseira distans,
+149099,Thalassiosira antarctica,
+149100,Thalassiosira hyalina,
+149101,Thalassiosira subtilis,
+149102,Thalassiosira gravida,
+149102,Thalassiosira gravida,
+149102,Thalassiosira gravida,
+149104,Roperia,
+149105,Roperia tesselata,
+149106,Leptocylindrus danicus,
+149109,Corethron,
+149110,Corythron criophilum,
+149111,Guinardia,
+149112,Guinardia delicatula,
+149113,Guinardia striata,
+149114,Rhizosolenia delicatula,
+149115,Rhizosolenia setigera,
+149115,Rhizosolenia setigera,
+149115,Rhizosolenia setigera,
+149116,Rhizosolenia imbricata,
+149117,Rhizosolenia pungens,
+149118,Bacteriastrum,
+149119,Bacteriastrum hyalinum,
+149120,Chaetoceros danicus,
+149121,Chaetoceros densus,
+149122,Chaetoceros didymus,
+149123,Chaetoceros socialis,
+149124,Chaetoceros borealis,
+149125,Chaetoceros teres,
+149126,Chaetoceros decipiens,
+149127,Chaetoceros similis,
+149128,Chaetoceros diadema,
+149129,Chaetoceros compressus,
+149130,Eucampia,
+149131,Eucampia zodiacus,
+149132,Guinardia flaccida,
+149134,Lauderia,
+149135,Lauderia annulata,
+149136,Brockmanniella,
+149137,Brockmanniella brockmannii,
+149138,Asterionellopsis,
+149139,Asterionellopsis glacialis,
+149140,Amphiprora,
+149142,Navicula,
+149142,Navicula,
+149142,Navicula,
+149143,Navicula distans,
+149144,Meuniera,
+149145,Meuniera membranacea,
+149146,Trachyneis,
+149147,Trachyneis aspera,
+149148,Bacillaria,
+149149,Bacillaria paxillifer,
+149150,Nitzschia longissima,
+149151,Pseudo-nitzschia,
+149152,Pseudo-nitzschia seriata,
+149153,Pseudo-nitzschia delicatissima,
+149154,Triceratium,
+149156,Odontella granulata,
+149157,Odontella rhombus,
+149158,Coscinodiscus radiatus,
+149159,Coscinodiscus centralis,
+149163,Actinoptychus octonarius,
+149164,Actinocyclus octonarius,
+149165,Rhizosolenia shrubsolei,
+149167,Proboscia,
+149168,Proboscia alata,
+149168,Proboscia alata,
+149168,Proboscia alata,
+149170,Triceratium favus,
+149171,Chaetoceros crinitus,
+149173,Chaetoceros fragilis,
+149176,Striatella,
+149177,Striatella unipunctata,
+149179,Delphineis,
+149180,Delphineis surirella,
+149181,Pleurosigma,
+149182,Pleurosigma normanii,
+149183,Pleurosigma angulatum,
+149185,Pleurosigma naviculaceum,
+149186,Synedra,
+149187,Synedra ulna,
+149190,Achnanthaceae,
+149191,Achnanthes,
+149194,Diploneis bombus,
+149195,Diploneis didyma,
+149200,Amphora,
+149204,Navicula tripunctata,
+149208,Pinnularia,
+149210,Haslea,
+149211,Haslea ostrearia,
+149213,Nitzschia sigma,
+149214,Nitzschia tryblionella,
+149216,Psammodictyon,
+149217,Psammodictyon panduriforme,
+149219,Chaetoceros debilis,
+149220,Asterionella japonica,
+149221,Chaetoceros curvisetus,
+149222,Chaetoceros pseudocrinitus,
+149223,Rhizosolenia alata,
+149224,Rhizosolenia stolterfothii,
+149228,Chaetoceros laciniosus,
+149230,Leptocylindrus mediterraneus,
+149232,Navicula membranacea,
+149233,Lauderia borealis,
+149234,Hemiaulales,
+149236,Cerataulina,
+149239,Fragilaria islandica,
+149241,Chaetoceros affinis,
+149243,Melosira dubia,
+149249,Melosira italica,
+149256,Thalassiosira nana,
+149271,Coscinodiscus granii,
+149274,Coscinodiscus asteromphalus,
+149279,Aulacodiscus,
+149280,Aulacodiscus argus,
+149281,Auliscus,
+149282,Auliscus caelatus,
+149285,Detonula,
+149286,Detonula confervacea,
+149288,Chaetoceros atlanticus,
+149289,Chaetoceros costatus,
+149291,Chaetoceros brevis,
+149292,Chaetoceros anastomosans,
+149293,Chaetoceros radians,
+149294,Chaetoceros simplex,
+149297,Chaetoceros ceratosporus,
+149299,Chaetoceros armatus,
+149305,Bellerochea,
+149306,Bellerochea malleus,
+149307,Coscinodiscus pavillardii,
+149308,Thalassiosira levanderi,
+149309,Dactyliosolen,
+149310,Dactyliosolen fragilissimus,
+149311,Rhizosolenia robusta,
+149313,Fragilariopsis,
+149314,Plagiogramma,
+149317,Bacillaria paradoxa,
+149320,Navicula transitans,
+149321,Lithodesmium,
+149322,Lithodesmium undulatum,
+149324,Biddulphia rhombus,
+149325,Biddulphia rhombus subsp. trigona,
+149328,Cerataulus,
+149333,Tabellaria,
+149334,Tabellaria fenestrata,
+149335,Grammatophora,
+149336,Grammatophora angulosa,
+149338,Grammatophora marina,
+149339,Grammatophora oceanica,
+149340,Grammatophora serpentina,
+149342,Licmophora,
+149343,Licmophora gracilis,
+149345,Meridion,
+149346,Meridion circulare,
+149347,Diatoma vulgare,
+149352,Plagiogramma vanheurckii,
+149356,Campylosira,
+149357,Campylosira cymbelliformis,
+149360,Fragilaria crotonensis,
+149374,Asterionella gracillima,
+149376,Cocconeis scutellum,
+149377,Cocconeis pediculus,
+149387,Achnanthes brevipes,
+149391,Rhoicosphenia,
+149396,Diploneis crabro,
+149404,Diploneis littoralis,
+149467,Navicula directa,
+149488,Caloneis,
+149493,Gyrosigma balticum,
+149494,Gyrosigma fasciola,
+149503,Pleurosigma elongatum,
+149506,Pleurosigma aestuarii,
+149510,Donkinia,
+149512,Toxonidea,
+149513,Toxonidea insignis,
+149515,Plagiotropidaceae,
+149516,Plagiotropis,
+149517,Plagiotropis lepidoptera,
+149518,Tropidoneis,
+149524,Amphora ovalis,
+149537,Cymbellaceae,
+149538,Cymbella,
+149552,Gomphonemataceae,
+149553,Gomphonema,
+149570,Cylindrotheca gracilis,
+149571,Hantzschia,
+149587,Nitzschia bilobata,
+149602,Nitzschia fruticosa,
+149604,Nitzschia sigmoidea,
+149611,Surirella biseriata,
+149615,Surirella fastuosa,
+149616,Campylodiscus,
+149618,Asterionellopsis kariana,
+149619,Cerataulina pelagica,
+149622,Chaetoceros cinctus,
+149623,Chaetoceros contortus,
+149624,Chaetoceros furcellatus,
+149629,Rhizosolenia styliformis,
+149630,Stephanopyxis,
+149631,Stephanopyxis turris,
+149647,Detonula pumila,
+149648,Aulacoseira islandica,
+149651,Azpeitia nodulifera,
+149653,Stellarima stellaris,
+149654,Actinocyclus octonarius var. ralfsii,
+149655,Biddulphia alternans,
+149659,Entomoneidaceae,
+149662,Odontella obtusa,
+116998,Aequorea,Meroplankton
+149669,Lophogastrida,NYA
+117015,Bougainvillia,Meroplankton
+117030,Clytia,Meroplankton
+149720,Eucalanus crassus,NYA
+117034,Obelia,Meroplankton
+117070,Sarsia,Meroplankton
+117082,Eutima,Meroplankton
+150305,Facetotecta,NYA
+150630,Echiichthys vipera,NYA
+150637,Eutrigla gurnardus,NYA
+151860,Coryne eximia,NYA
+152192,Phialidium hemisphaericum,NYA
+117095,Euphysa,Meroplankton
+152230,Coelenterata,Ambiguous
+117117,Hydractinia,Meroplankton
+117178,Amphinema spp.,Meroplankton
+117183,Leuckartiara,Meroplankton
+117212,Aglantha,Meroplankton
+154473,Psetta maxima,NYA
+154675,Lumpenus lampretaeformis,NYA
+155554,Cryptomonas ovata,
+155555,Cryptomonas erosa,
+155560,Diplopsalopsis bomba,
+155879,Podoplea,NYA
+156505,Phalacroma rotundatum,
+156509,Ceratium arcticum,
+156511,Ceratium hirundinella,
+156533,Achnanthes longipes,
+156548,Pseudo-nitzschia pseudodelicatissima,
+156568,Pinnularia distans,
+156580,Pleurosigma formosum,
+156586,Pleurosigma strigosum,
+156598,Entomoneis,
+156607,Chaetoceros concavicornis,
+156609,Chaetoceros constrictus,
+156611,Chaetoceros convolutus,
+156613,Chaetoceros ingolfianus,
+156615,Chaetoceros karianus,
+156617,Chaetoceros lorenzianus,
+156619,Chaetoceros perpusillus,
+156621,Chaetoceros subtilis,
+156623,Chaetoceros tenuissimus,
+156625,Chaetoceros willei,
+156632,Coscinodiscus wailesii,
+156636,Melosira lineata,
+156641,Paralia marina,
+156689,Porosira glacialis,
+156690,Thalassiosira baltica,
+156691,Thalassiosira oestrupii,
+156692,Nodularia,
+156946,Frustulia,
+157052,Mastogloia,
+157059,Tabularia,
+157061,Tabularia fasciculata,
+157062,Licmophora abbreviata,
+157069,Gyrosigma tenuissimum,
+157072,Rhabdonema,
+157074,Rhabdonema adriaticum,
+157076,Rhabdonema arcuatum,
+157080,Tabellaria flocculosa,
+157081,Thalassiothrix,
+157083,Thalassiothrix longissima,
+157240,Dinobryon,
+157242,Dinobryon bavaricum,
+157246,Dinobryon cylindricum,
+157248,Dinobryon divergens,
+157252,Dinobryon sertularia,
+157254,Dinobryon sociale,
+157256,Dictyochales,
+157257,Dictyochaceae,
+157258,Dictyocha,
+157260,Dictyocha speculum,
+157428,Entomoneis alata,
+157430,Eucampia groenlandica,
+157431,Chaetoceros diversus,
+157438,Helicotheca,
+157440,Helicotheca tamesis,
+157458,Fragilaria striatula,
+157463,Dictyocha fibula,
+157670,Eurytemora herdmani,NYA
+117321,Bougainvillia britannica,Meroplankton
+117328,Bougainvillia muscus,Meroplankton
+117329,Bougainvillia principis,Meroplankton
+117345,Lizzia blondina,Meroplankton
+160092,Diatoma tenue,
+160093,Diatoma tenue var. elongatus,
+160513,Pyramimonas longicauda,
+160519,Attheya,
+160520,Attheya decora,
+160521,Chaetoceros eibenii,
+160522,Chaetoceros externus,
+160523,Chaetoceros lauderi,
+160524,Chaetoceros wighamii,
+160527,Eunotogramma,
+160528,Pseudo-nitzschia pungens,
+160530,Rhizosolenia flaccida,
+160531,Rhizosolenia similoides,
+160537,Melosira arctica,
+160538,Phaeocystis globosa,
+160541,Scenedesmaceae,
+160542,Actinastrum,
+160543,Actinastrum hantzschii,
+160549,Calycomonas wulffii,
+160550,Coelastrum,
+160551,Coelastrum astroideum,
+160552,Dinobryon balticum,
+160553,Dinobryon faculiferum,
+160555,Distephanus speculum,
+160556,Eutreptiella marina,
+160561,Pediastrum,
+160562,Pediastrum boryanum,
+160563,Prymnesium,
+160564,Prymnesium parvum,
+160566,Nodularia spumigena,
+160567,Aphanizomenon,
+160569,Coelomoron pusillum,
+160572,Synechococcus,
+160575,Chlorellaceae,
+160576,Chlorella,
+160577,Exuviaella,
+160578,Prorocentrum cf. marinum,
+160581,Raphidophyceae,
+160582,Chattonellales,
+160583,Chattonellaceae,
+160584,Heterosigma,
+160585,Heterosigma akashiwo,
+160588,Koliella,
+160590,Monoraphidium,
+160591,Monoraphidium contortum,
+160592,Monoraphidium convolutum,
+160594,Pachysphaera,
+160595,Pterosperma,
+160597,Pedinellales,
+160599,Pseudopedinella,
+160600,Pseudopedinella pyriformis,
+160601,Pseudopedinella tricostata,
+160602,Scenedesmus,
+160648,Actinocyclus octonarius var. crassus,
+160651,Actinocyclus roperi,
+160671,Amphiprora surirelloides,
+162251,Asterolampraceae,
+162254,Asteromphalus,
+162255,Asteromphalus flabellatus,
+162258,Asteromphalus heptactis,
+162518,Corymbellus,
+162519,Corymbellus aureus,
+162544,Gymnodinium sanguineum,
+162668,Aphanocapsa incerta,
+162689,Aphanothece minutissima,
+162706,Scenedesmus cf. denticulatus,
+162707,Scenedesmus opoliensis,
+162713,Chroococcus microscopicus,
+162714,Chroococcus minimus,
+162715,Planctonema,
+162716,Planctonema lauterbornii,
+162724,Desmidiaceae,
+162725,Closterium,
+162726,Closterium acutum,
+162728,Staurastrum,
+162740,Ollicola vangoorii,
+162749,Protoperidinium cerasus,
+162770,Actinocyclus octonarius var. octonarius,
+162793,Dinophysis rotundata,
+162810,Actinocyclus senarius,
+162823,Attheya septentrionalis,
+162837,Aulacoseira alpigena,
+162865,Aulacoseira granulata var. angustissima,
+162877,Aulacoseira italica,
+162903,Aulacoseira subarctica,
+162927,Bacterosira bathyomphala,
+162929,Scenedesmus armatus,
+162934,Tetrastrum,
+162935,Tetrastrum staurogeniaeforme,
+162952,Biddulphia biddulphiana,
+162954,Odontella subaequa,
+162969,Zygoceros,
+162980,Cerataulus turgidus,
+162998,Chaetoceros anastomosans var. externa,
+163013,Chaetoceros calcitrans,
+163016,Chaetoceros ceratosporus var. ceratosporus,
+163019,Chaetoceros circinalis,
+163026,Chaetoceros coronatus,
+163030,Phaeoceros,
+163042,Syndendrium diadema,
+163047,Chaetoceros subsecundus,
+163048,Chaetoceros didymus var. didymus,
+163049,Chaetoceros didymus var. anglica,
+163054,Chaetoceros didymus var. protuberans,
+163055,Chaetoceros protuberans,
+163056,Chaetoceros difficilis,
+163057,Haptorida,
+163063,Chaetoceros holsaticus,
+163067,Peritrichia,
+163080,Chaetoceros impressus,
+163089,Chaetoceros minimus,
+163096,Imantonia rotunda,
+163098,Chaetoceros muelleri,
+163100,Monoraphidium komarkovae,
+163101,Monoraphidium minutum,
+163108,Kirchneriella,
+163109,Chaetoceros pseudobreve,
+163110,Raphidocelis,
+163112,Chaetoceros radicans,
+163118,Chaetoceros seiracanthus,
+163124,Chaetoceros socialis f. socialis,
+163126,Chaetoceros socialis f. radians,
+163131,Chaetoceros subtilis var. subtilis,
+163132,Chaetoceros subtilis var. abnormis,
+163137,Chaetoceros throndsenii,
+163150,Chaetoceros throndsenii var. throndsenii,
+163161,Chaetoceros tortissimus,
+163188,Eupodiscus jonesianus,
+163197,Cyclotella hakanssoniae,
+163224,Lauderia confervacea,
+163226,Lauderia pumila,
+163233,Dimeregramma,
+163241,Guinardia cylindrus,
+163242,Rhizosolenia cylindrus,
+163243,Eucampia striata,
+163246,Euglena viridis,
+163247,Trachelomonas,
+163248,Hemiaulus,
+163249,Hemiaulus hauckii,
+163250,Hemiaulus sinensis,
+163257,Isthmia,
+163259,Isthmia enervis,
+163261,Lauderia mediterranea,
+163288,Zygoceros rhombus,
+163292,Odontella rhombus f. trigona,
+163339,Phacus,
+163342,Pseudosolenia,
+163344,Pseudosolenia calcar-avis,
+163346,Rhizosolenia calcar-avis,
+163347,Rhizosolenia hebetata f. hebetata,
+163348,Rhizosolenia semispina,
+163354,Phacus pleuronectes,
+163375,Phacus longicauda,
+163388,Eupodiscus tesselatus,
+163390,Skeletonema potamos,
+163399,Euglena acus,
+163401,Lepocinclis,
+163403,Stephanodiscus binderanus,
+163408,Lepocinclis ovum,
+163412,Trachelomonas hispida,
+163433,Stephanodiscus neoastraea,
+163452,Scrippsiella faeroense,
+163458,Euglena tripteris,
+163466,Euglena proxima,
+163474,Kephyrion,
+163478,Micractinium,
+163479,Micractinium pusillum,
+163489,Ankistrodesmus,
+163490,Ankistrodesmus falcatus,
+163494,Thalassiosira lacustris,
+163513,Thalassiosira weissflogii,
+163520,Urosolenia longiseta,
+163573,Vorticella,
+163624,Pauliella taeniata,
+163647,Amphiprora paludosa var. paludosa,
+163712,Synedra fulgens,
+163728,Vibrio paxillifer,
+163736,Bleakeleya notata,
+163780,Tintinnopsis,
+163782,Tintinnopsis beroidea,
+163804,Tintinnopsis nana,
+163810,Caloneis amphisbaena f. subsalina,
+163816,Campylodiscus clypeus,
+163839,Catenula adhaerens,
+163858,Peridinium achromaticum,
+163862,Protoperidinium claudicans,
+163880,Cocconeis scutellum var. scutellum,
+163913,Tintinnopsis campanula,
+163922,Ctenophora pulchella,
+163932,Ceratoneis closterium,
+163934,Protoperidinium curvipes,
+163938,Ceratoneis gracilis,
+163975,Coelastrum microporum,
+164053,Pyrocystis lunula,
+164061,Pediastrum duplex,
+164076,Scenedesmus arcuatus,
+164085,Diploneis stroemii,
+164096,Characiaceae,
+164108,Bacteriastrum delicatulum,
+164110,Bacteriastrum furcatum,
+164116,Odontella mobiliensis,
+172264,Eutreptiella hirudoidea,
+172321,Peritromus,
+172375,Fallacia,
+172385,Fragilaria capucina var. capucina,
+172418,Fragilariopsis cylindrus,
+172431,Favella,
+172434,Helicostomella,
+172436,Fragilariopsis oceanica,
+172460,Protoperidinium diabolum,
+172469,Pteromonas,
+172484,Crucigeniella,
+172485,Crucigeniella apiculata,
+172607,Licmophora debilis,
+172614,Licmophora gracilis var. gracilis,
+172797,Navicula granii,
+172798,Stauroneis granii,
+172799,Navicula gregaria,
+172813,Pterospermataceae,
+172815,Hexasterias problematica,
+172836,Navicula pelagica,
+175317,Navicula derasa var. transitans,
+175319,Navicula transitans var. transitans,
+175320,Navicula transitans var. derasa,
+175321,Navicula transitans var. derasa f. delicatula,
+175326,Navicula vanhoeffenii,
+175335,Navicula viridula var. rostellata,
+175400,Nitzschia frigida,
+175425,Nitzschia lorenziana,
+175560,Petrodictyon gemma,
+175573,Petroneis humerosa,
+175584,Phaeodactylum tricornutum,
+175738,Pseudo-nitzschia multiseries,
+175749,Pseudo-nitzschia seriata f. seriata,
+175750,Pseudo-nitzschia seriata f. obtusa,
+175790,Rhabdonema minutum,
+175794,Rhoicosphenia abbreviata,
+176294,Tabularia tabulata,
+176362,Asterionella frauenfeldii,
+176371,Thalassiophysa hyalina,
+176385,Tryblionella,
+176393,Tryblionella apiculata,
+176410,Nitzschia coarctata,
+176420,Tryblionella levidensis,
+176534,Tryblionella navicularis,
+176540,Tryblionella punctata,
+177108,Cyanodictyon,
+177112,Cyanodictyon planctonicum,
+177121,Cyanonephron,
+177122,Cyanonephron styloides,
+177138,Lemmermanniella,
+177140,Lemmermanniella pallida,
+177155,Lemmermanniella parva,
+177158,Merismopedia elegans,
+177399,Microcystis reinboldii,
+177465,Snowella fennica,
+177473,Snowella litoralis,
+177480,Snowella septentrionalis,
+177482,Synechocystis,
+177506,Limnothrix,
+177508,Limnothrix redekei,
+177572,Planktolyngbya contorta,
+177576,Planktolyngbya limnetica,
+177583,Planktothrix mougeotii,
+177588,Pseudanabaena,
+177590,Pseudanabaena limnetica,
+177592,Pseudanabaena mucicola,
+177595,Romeria,
+177604,Trichodesmium,
+177635,Anabaena baltica,
+178050,Campylodiscus innominatus,
+178059,Campyloneis,
+178126,Cerataulus radiatus,
+178185,Chaetoceros peruvianus,
+178194,Chaetoceros filiformis,
+178201,Chaetoceros rostratus,
+178204,Chaetoceros gracilis,
+178215,Chaetoceros dichaeta,
+178229,Chaetoceros pseudocurvisetus,
+178582,Eutreptia,
+178583,Chlamydomonas,
+178587,Chlamydomonas coccoides,
+178589,Dunaliella,
+178594,Synura,
+178595,Synura uvella,
+178597,Coccolithaceae,
+178598,Coccolithus,
+178600,Coccolithus pelagicus,
+178604,Kephyrion spirale,
+178609,Lagerheimia,
+178610,Lagerheimia genevensis,
+178611,Oocystis,
+178613,Oocystis parva,
+178617,Crucigenia,
+178619,Crucigenia tetrapedia,
+178623,Dictyosphaerium,
+178625,Dictyosphaerium ehrenbergianum,
+178734,Chlorogonium,
+178825,Stenosemella,
+178847,Fusopsis incertae sedis,
+178919,Pandorina colony,
+178933,Dictyosphaerium pulchellum,
+178934,Oocystis solitaria,
+178949,Tetraedron,
+178956,Tetraedron minimum,
+178959,Pseudostaurastrum hastatum,
+178962,Crucigenia quadrata,
+179174,Amphiprora hyperborea,
+179314,Lacrymaria,
+179320,Mesodinium,
+179321,Mesodinium pulex,
+179573,Cocconeis pseudomarginata,
+179596,Corethron hystrix,
+179616,Coscinodiscus perforatus var. pavillardii,
+179674,Cymatopleura librile,
+179688,Cymatosira lorenziana,
+179785,Dactyliosolen antarcticus,
+179786,Dactyliosolen blavyanus,
+179790,Zygoceros surirella,
+179893,Pinnularia crabro,
+180314,Grammatophora hamulifera,
+180325,Gyrosigma macrum,
+180366,Hemidiscus,
+180367,Hemidiscus cuneiformis,
+180390,Lyrella,
+183533,Tintinnidae,
+183543,Eutintinnus,
+183556,Acanthostomella norvegica,
+183557,Eutintinnus elongatus,
+183566,Salpingella,
+183574,Xystonella,
+196078,Branchiostomatidae,NYA
+196121,Caprellidea,N/A
+117368,Clytia hemisphaerica,Meroplankton
+196768,Pacillina arctica,
+196804,Climacodium frauenfeldianum,
+196805,Rhizosolenia acuminata,
+196808,Rhizosolenia alata f. curvirostris,
+196811,Rhizosolenia bergonii,
+196813,Neodenticula seminae,
+196815,Planktoniella sol,
+196817,Nitzschia sigma rigida,
+196820,Ceratium bucephalum,
+196822,Ceratium lunula,
+196824,Ceratium platycorne,
+196828,Triadinium polyedricum,
+196830,Cystodinium,
+196831,Radiolaria,
+196832,Zoothamnium pelagicum,
+196835,Favella serrata,
+196836,Parafavella,
+196837,Parafavella gigantea,
+117452,Corymorpha nutans,Meroplankton
+220843,Clausocalanus farrani,NYA
+117491,Sarsia tubulosa,Meroplankton
+117515,Eutima gracilis,Meroplankton
+231762,Dicroerisma,
+231778,Metaphalacroma,
+231787,Akashiwo,
+231788,Karenia,
+231789,Karlodinium,
+231790,Lepidodinium,
+231793,Erythropsidinium,
+231796,Amphidomataceae,
+231798,Gambierdiscus,
+231799,Lingulodinium,
+231802,Bysmatrum,
+231803,Ensiculifera,
+231809,Lessardia,
+231845,Kolkwitziellaceae,
+231851,Exuviella,
+231873,Alexandrium catenella,
+231883,Pleurosigma planctonicum,
+231884,Pleurosigma simonsenii,
+231885,Prorocentrum mexicanum,
+231887,Rhizosolenia indica,
+231888,Stephanopyxis palmeriana,
+232069,Mesodinium rubrum,
+232076,Tintinnopsis minuta,
+232110,Dicroerisma psilonereiella,
+232155,Dinophysis borealis,
+232259,Pyrocystis hamulus,
+232261,Dinophysis sacculus,
+232298,Prorocentrum rhathymum,
+232376,Prorocentrum cordatum,
+232491,Phalacroma mitra,
+232492,Phalacroma rapa,
+232496,Dinophysis nasuta,
+232516,Mesoporos perforatus,
+232532,Sinophysis stenosoma,
+232546,Akashiwo sanguinea,
+232584,Amphidinium glaucum,
+232598,Pyrophacus horologium,
+232601,Fragilidinium,
+232625,Podolampas palmipes,
+232650,Cochlodinium polykrikoides,
+232703,Lessardia elongata,
+232716,Gymnodinium aureolum,
+232765,Gymnodinium galeatum,
+232777,Protoperidinium venustum,
+232778,Gymnodinium heterostriatum,
+232785,Gymnodinium impudicum,
+232792,Gymnodinium irregulare,
+232824,Protoperidinium tuba,
+232837,Protoperidinium paulsenii,
+232859,Gymnodinium roseostigma,
+232861,Protoperidinium thulense,
+232880,Gymnodinium verruculosum,
+232897,Protoperidinium stellatum,
+232901,Gyrodinium aciculatum,
+232921,Protoperidinium globulus,
+232931,Gyrodinium falcatum,
+232943,Gyrodinium fusus,
+232998,Gyrodinium striatissimum,
+233015,Karenia brevis,
+233024,Karenia mikimotoi,
+233027,Karlodinium micrum,
+233037,Karlodinium veneficum,
+233050,Protoperidinium parthenopes,
+233061,Protoperidinium pacificum,
+233093,Scrippsiella hangoei,
+233113,Nematodinium torpedo,
+233115,Proterythropsis vigilans,
+233144,Warnowia polyphemus,
+233165,Kofoidinium lebourae,
+233176,Protoperidinium marielebourae,
+233180,Pronoctiluca acuta,
+233194,Amphidoma acuminata,
+233231,Protoperidinium latidorsale,
+233257,Protoperidinium incognitum,
+233263,Protoperidinium humile,
+233351,Cladopyxis claytonii,
+233352,Cladopyxis setifera,
+233353,Protoperidinium elongatum,
+233357,Protoperidinium elegans,
+233369,Peridiniella danica,
+233386,Goniodoma polyedricum,
+233390,Protoperidinium decipiens,
+233447,Alexandrium margalefii,
+233469,Alexandrium pseudogoniaulax,
+233480,Amylax buxus ,
+233592,Lingulodinium polyedrum,
+233615,Heterocapsa lanceolata,
+233619,Heterocapsa minima,
+233620,Heterocapsa niei,
+233625,Heterocapsa pygmaea,
+233635,Lebouraia pusilla,
+233754,Corythodinium curvicaudatum,
+233759,Fibrocapsa,
+233761,Fibrocapsa japonica,
+233763,Olisthodiscus,
+233776,Chattonella,
+233778,Chattonella antiqua,
+233782,Chattonella verruculosa,
+233804,Peridinium quinquecorne,
+233805,Protoperidinium quinquecorne,
+233835,Ensiculifera carinata,
+233857,Oxytoxum criophilum,
+233868,Oxytoxum variabile,
+233870,Oxytoxum gracile,
+233871,Oxytoxum turbo,
+117561,Euphysa aurata,Meroplankton
+117725,Laodicea undulata,Meroplankton
+235747,Acantharea,
+235759,Coxliella helix,
+235761,Favella ehrenbergii,
+235802,Acanthoica quattrospina,
+235823,Gephyrocapsa,
+235825,Pleurochrysis,
+235828,Calyptrosphaera,
+235913,Algirosphaera robusta,
+235922,Braarudosphaera bigelowii,
+235934,Coronosphaera,
+235937,Umbellosphaera,
+235969,Pleurochrysis carterae,
+235979,Syracosphaera pulchra,
+235993,Coccolithophorid,
+236039,Syracosphaera molischii,
+236816,Gammariida,Ambiguous
+117755,Mitrocomella polydiademata,Meroplankton
+117791,Leuckartiara octona,Meroplankton
+237966,Calocalanus tenuis,NYA
+237968,Pareucalanus attenuatus,NYA
+237984,Monothula subtilis,NYA
+238840,Cryptomonas curvata,
+240437,Helicostomella subulata,
+246593,Karenia cf. papilionacea,
+246598,Pfiesteria piscicida,
+246604,Pseudo-nitzschia australis,
+246605,Pseudo-nitzschia calliantha,
+246606,Pseudo-nitzschia fraudulenta,
+246608,Pseudo-nitzschia multistriata,
+246835,Alexandrium andersonii,
+247913,Tiarina,
+247915,Tintinnidium,
+117804,Phialella quadrata,Meroplankton
+247943,Tiarina fusus,
+247944,Tintinnidium mucicola,
+117836,Proboscidactyla stellata,Meroplankton
+248058,Eucampia cornuta,
+248060,Thalassiothrix mediterranea,
+248063,Haslea wawrikae,
+248064,Dactyliosolen phuketensis,
+248066,Bacteriastrum comosum,
+248069,Asterolampra,
+248074,Toxarium,
+248075,Toxarium undulatum,
+248076,Toxarium hennedyanum,
+248081,Climacosphenia,
+248088,Pleurosigma directum,
+248096,Apedinella,
+248097,Apedinella radians,
+248098,Apedinella spinifera,
+248099,Aphanizomenon flos-aquae,
+248103,Botryococcus,
+248104,Botryococcus braunii,
+248110,Chrysococcus,
+248111,Chrysococcus rufescens,
+248112,Cryptomonas marssonii,
+248118,Durinskia baltica,
+248121,Eutreptiella braarudii,
+248126,Koliella longiseta,
+248129,Meringosphaera mediterranea,
+248134,Monoraphidium griffithii,
+248135,Monoraphidium mirabile,
+248137,Mougeotia,
+248139,Nitzschia lorenziana var. incerta,
+248140,Nitzschia reversa,
+248141,Oocystis borgei,
+248144,Oocystis pelagica,
+248146,Stauridium tetras,
+248147,Pediastrum tetras,
+248148,Pedinella,
+248149,Pseudopedinella elastica,
+248153,Rhodomonas lens,
+248158,Scenedesmus ecornis,
+248166,Schroederia setigera,
+248170,Sphaerocystis schroeteri,
+248171,Tetraselmis cordiformis,
+248172,Uroglena,
+248178,Holococcolithophorid,
+248180,Nanoneis hasleae,
+248181,Proboscia truncata,
+249689,Chromulina,
+249704,Aphanothece parallelliformis,
+249711,Desmodesmus,
+249713,Desmodesmus maximus,
+249721,Mallomonas,
+249722,Mallomonas akrokomos,
+249725,Ochromonas,
+249731,Pavlova,
+251726,Synedra toxoneides var. curvata,
+251728,Proboscia alata f. alata,
+251744,Asteroplanus species,
+251745,Asteroplanus karianus,
+117848,Rathkea octopunctata,Meroplankton
+254445,Trigonium,
+254723,Parafavella denticulata,
+117978,Tiaropsis multicirrata,Meroplankton
+273571,Symphodus melops,NYA
+291403,Ephemera,
+291417,Paraphysomonas,
+292684,Acari,NYA
+292726,Lioloma,
+292728,Lioloma delicatulum,
+292893,Cyclotrichiida,
+292896,Myrionecta rubra,
+292897,Askenasia,
+292898,Askenasia stellaris,
+292899,Balanion,
+292923,Favella helgolandica,
+292924,Proplectella,
+292925,Rhabdoaskenasia,
+293496,Teleostei,N/A
+293852,Microniscus,NYA
+293884,Praniza,NYA
+325345,Pteropoda,NYA
+325384,Themisto gaudichaudii,NYA
+117988,Hybocodon prolifer,Meroplankton
+341285,Centrales,
+341285,Centrales,
+341285,Centrales,
+341295,Cyclotrichium,
+341300,Daturella,
+341301,Didinium,
+341353,Choreotrichida,
+341375,Entomoneis paludosa var. hyperborea,
+341472,Chaetoceros bulbosus,
+341473,Chaetoceros castracanei,
+341484,Coscinodiscus oculus-iridis,
+341487,Odontella weissflogii,
+341496,Corethron pennatum,
+341501,Proboscia inermis,
+341502,Rhizosolenia chunii,
+341536,Synedropsis hyperboreoides,
+341542,Ephemera planamembranacea,
+341546,Membraneis challengeri,
+341558,Fragilariopsis pseudonana,
+341566,Nitzschia bicapitata,
+341609,Pterosperma parallelum,
+341610,Pterosperma polygonum,
+341668,Epiplocylis undella,
+341692,Pelagostrobilidium spirale,
+342471,Fritillariinae,NYA
+345251,Pseudoamallothrix ovata,NYA
+345436,Brachiomonas,
+345437,Brachiomonas submarina,
+345439,Tintinnopsis cylindrica,
+345461,Chrysamoeba,
+345464,Eunotogramma dubium,
+345465,Ochrophyta,
+345475,Fragilaria oblonga,
+345481,Lepidodinium chlorophorum,
+345484,Mediopyxis,
+345485,Mediopyxis helysia,
+345491,Neocalyptrella robusta,
+345492,Odontella aurita var. minima,
+345493,Odontella minima,
+345498,Parapedinella,
+345506,Podosira stelliger,
+345513,Proboscia indica,
+345525,Subsiliceae,
+345526,Subsilicea fragilarioides,
+345529,Thalassiosira aestivalis,
+345531,Thalassiosira constricta,
+345546,Thalassiosira lineata,
+345550,Thalassiosira tenera,
+123080,Asteroidea,Meroplankton
+345881,Pterosperma vanhoeffenii,
+345882,Pterosperma moebii,
+345883,Ptychocylis urnula,
+123084,Ophiuroidea,Meroplankton
+123776,Asterias rubens,Meroplankton
+123922,Luidia sarsii,Meroplankton
+128545,Phoronis,Meroplankton
+128549,Phoronis muelleri,Meroplankton
+129437,Pectinaria,Meroplankton
+346510,Goniopsyllus rostratus,NYA
+129646,Autolytus,Meroplankton
+135259,Cyanea,Meroplankton
+135263,Aurelia spp. ephyra,Meroplankton
+360288,Scolecithricella bradyi,NYA
+135301,Cyanea capillata,Meroplankton
+135302,Cyanea lamarckii,Meroplankton
+368664,Charophyta,
+369190,Haptophyta,
+369319,Actinomonas,
+369960,Octactis,
+370197,Scherffelia,
+370366,Chaetoceros (Hyalochaete) ,
+370367,Chaetoceros (Phaeoceros),
+370563,Plagioselmis nannoplanctica,
+375788,Dictyocha crux,
+375790,Dictyocha staurodon,
+375883,Pseudo-nitzschia granii,
+375891,Resultor mikron,
+375958,Ciliophrys infusionum,
+375970,Octactis octonaria,
+376081,Pterosperma cristatum,
+376082,Pterosperma marginatum,
+376083,Pterosperma nationalis,
+376084,Pterosperma undulatum,
+376565,Thecadinium yashimaense,
+376667,Skeletonema marinoi,
+376690,Pterosperma cuboides,
+383017,Achelata,NYA
+388485,Pseudopedinella thomsenii,
+388924,Alexandrium tamutum,
+389491,Telonema antarcticum,
+390664,Eudorina,
+390665,Eudorina elegans,
+391508,Azadinium,
+391509,Azadinium spinosum,
+391906,Tornaria,NYA
+393172,Nostoc,
+393573,Cyrtostrombidium,
+394598,Asteromphalus sarcophagus,
+394840,Attheya armata,
+410617,Tintinnidium fluviatile,
+135306,Aurelia aurita,Meroplankton
+411764,Pseudo-nitzschia heimii,
+411767,Pseudo-nitzschia subcurvata,
+138101,Lamellaria spp. larva,Meroplankton
+414712,Scuticociliatia,
+415082,Ascampbelliella,
+416120,Ulnaria,
+146142,Cyphonautes,Meroplankton
+416226,Euryarchaeota,
+416523,Acartia clausii,NYA
+417184,Helicostomella fusiformis,
+417214,Eutintinnus pectinis,
+417228,Salpingella acuminata,
+417328,Didinium nasutum,
+418136,Gonyaulax digitalis,
+418143,Peridinium aciculiferum,
+418160,Pseudopfiesteria shumwayae,
+418221,Pseudo-nitzschia subfraudulenta,
+418222,Pseudo-nitzschia subpacifica,
+418285,Lyrella hennedyi,
+418510,Chaetoceros neogracile,
+418540,Hemiaulus membranaceus,
+418546,Ditylum sol,
+418547,Melosira moniliformis,
+418591,Odontella longicruris,
+418624,Diatoma vulgaris,
+418636,Ulnaria acus,
+418643,Grammatophora macilenta,
+418646,Lioloma pacificum,
+418647,Thalassionema bacillare,
+421139,Amphibalanus improvisus,NYA
+422708,Ceratium horridum var. buceros,
+423767,Steenstrupia nutans,NYA
+425487,Prostomatea,
+425488,Prorodontida,
+425497,Tintinnida,
+425509,Oligotrichia,
+425519,Heterotrichea,
+425626,Urotricha,
+427290,Balanion comatum,
+427420,Tintinnopsis magna,
+427430,Tintinnopsis rapa,
+427725,Strombidium cornucopiae,
+427744,Tontonia ovalis,
+437911,Rhizophydiales,
+447730,Bellerochea horologicalis,
+447739,Hippodonta capitata,
+447744,Ulnaria ulna,
+447745,Tryblionella hungarica,
+447746,Tryblionella compressa,
+447750,Crucigeniella rectangularis,
+447753,Monomorphina group,
+447754,Monomorphina pyrum,
+450616,Neostreptotheca,
+450619,Minutocellus,
+450723,Lennoxia,
+450729,Coscinodiscopsis commutata,
+451665,Komma caudata,
+464444,Attheya longicornis,
+464449,Minutocellus polymorphus,
+465382,Cerataulina bicornis,
+465389,Chaetoceros criophilus,
+465390,Chaetoceros dadayi,
+465524,Chaetoceros gracilis,
+465546,Discostella pseudostelligera,
+478556,Pseudo-nitzschia americana,
+478557,Cosmarium,
+478559,Hermesinum,
+487770,Limnocalanus macrurus macrurus,NYA
+493821,Coccolithales,
+493993,Calciodinelloideae,
+494056,Neoceratium,
+494057,Tripos,
+494102,Oltmannsiellopsis,
+494309,Uronema,
+495332,Thalassiosira kushirensis,
+495333,Pyramimonas disomata,
+495357,Hippodonta lesmonensis,
+495363,Tripos muelleri,
+495385,Oltmannsiella lineata,
+495390,Kofoidinium velelloides,
+495629,Neoceratium arcticum,
+495630,Neoceratium arietinum,
+495633,Neoceratium azoricum,
+495635,Neoceratium belone,
+495637,Neoceratium bigelowii,
+495638,Neoceratium breve,
+495640,Neoceratium candelabrum,
+495641,Neoceratium carnegiei,
+495644,Neoceratium compressum,
+495646,Neoceratium contortum,
+495648,Neoceratium declinatum,
+495655,Neoceratium extensum,
+495656,Neoceratium falcatiforme,
+495659,Neoceratium furca,
+495660,Neoceratium fusus,
+495662,Neoceratium gibberum,
+495663,Neoceratium gravidum,
+495664,Neoceratium hexacanthum,
+495666,Neoceratium horridum,
+495669,Neoceratium inflatum,
+495671,Neoceratium kofoidii,
+495673,Neoceratium limulus,
+495674,Neoceratium lineatum,
+495675,Neoceratium longipes,
+495676,Neoceratium longirostrum,
+495678,Neoceratium macroceros,
+495679,Neoceratium massiliense,
+495680,Neoceratium minutum,
+495685,Neoceratium pentagonum,
+495687,Neoceratium platycorne,
+495690,Neoceratium pulchellum,
+495691,Neoceratium ranipes,
+495696,Neoceratium setaceum,
+495697,Neoceratium symmetricum,
+495700,Neoceratium teres,
+495701,Neoceratium trichoceros,
+495702,Neoceratium tripos,
+495703,Neoceratium uncinus,
+495704,Neoceratium vultur,
+502171,Thalassiothrix delicatula,
+503615,Gymnodinium parvum,
+510916,Paraeuchaeta acuta,NYA
+520952,Pseudodifflugia,
+526636,Oltmannsiellopsis viridis,
+531445,Pseudochattonella,
+531446,Pseudochattonella verruculosa,
+531467,Pseudochattonella farcimen,
+532029,Chlorella vulgaris,
+536209,Alveolata,
+547444,Chattonella marina var. antiqua,
+547527,Nematopsides vigilans,
+547544,Rhizosolenia setigera f. pungens,
+547730,Pterosperma michaelsarsii,
+549205,Lennoxia faveolata,
+549213,Nitzschia pellucida,
+549214,Nitzschia rectilonga,
+549221,Thalassiosira conferta,
+555052,Thalassionema frauenfeldii,
+555264,Thalassiosira delicatula,
+555293,Thalassiosira minuscula,
+555806,Desmodesmus costatogranulatus,
+555889,Calciosolenia brasiliensis,
+555900,Coccolithus pelagicus f. hyalinus,
+558243,Bacillaria paxillifera,
+558764,Monoraphidium arcuatum,
+146419,Vertebrata,Meroplankton
+562620,Dinozoa,
+562628,Ellobiopsis,NYA
+562870,Choanozoa,
+562871,Choanofila,
+565148,Slabberia halterata,NYA
+565154,Codonium proliferum,NYA
+565161,Stauridiosarsia gemmifera,NYA
+567048,Commation,
+567120,Rhizosolenia borealis,
+570461,Stephanodiscus agassizensis,
+571649,Glenodinium pilula,
+571998,Chrysochromulina parva,
+572005,Closteriopsis longissima,
+572025,Cryptomonas rostrata,
+572032,Dinobryon acuminatum,
+572080,Ankyra judayi,
+572081,Selenastrum,
+573437,Coscinodiscus sol,
+573446,Shionodiscus oestrupii,
+573458,Dicladia antennata,
+573470,Fragilaria unipunctata,
+573481,Leptocylindrus curvatus,
+573482,Lioloma elongatum,
+573486,Minutocellus scriptus,
+573496,Navicula wawrikae,
+573497,Neodelphineis indica,
+573543,Pseudoguinardia recta,
+573572,Rhizosolenia fallax,
+573577,Rhizosolenia hyalina,
+573645,Thalassiosira gessneri,
+573782,Pyrocystis pseudonoctiluca,
+573809,Chlamydomonas quadrilobata,
+573836,Chrysochromulina camella,
+573868,Eutreptiella cornubiense,
+573871,Eutreptiella eupharyngea,
+573884,Isochrysis galbana,
+573954,Prasinocladus marinus,
+574064,Halamphora,
+575737,Binuclearia lauterbornii,
+576237,Desmodesmus communis,
+576250,Limnococcus limneticus,
+576275,Monoraphidium tortile,
+576679,Pseudoschroederia robusta,
+576705,Tetrachlorella,
+576706,Tetraedron caudatum,
+576713,Treubaria,
+576884,Khakista,
+577368,Aureodinium pigmentosum,
+577493,Cercomonas,
+577626,Entomoneis paludosa var. paludosa,
+577639,Pseudopodosira westii,
+577666,Closterium moniliferum,
+577670,Gonium,
+577723,Oedogonium,
+577724,Phacotus,
+577792,Pleurosigma acutum,
+577812,Chroomonas coerulea,
+577860,Gloeotila,
+577861,Gloeotila pelagica,
+577876,Pseudanabaena acicularis,
+577877,Pandorina morum,
+577887,Polyedriopsis spinulosa,
+577901,Pleurosigma longum,
+577910,Cyclostephanos invisitatus,
+578002,Amphitetras,
+578241,Monoraphidium circinale,
+578246,Tetrachlorella alternans,
+578354,Nephrocytium,
+578372,Pseudokirchneriella,
+578432,Spermatozopsis,
+578433,Spermatozopsis exsultans,
+578476,Dolichospermum,
+578550,Tabellaria flocculosa var. asterionelloides,
+578585,Strobilidium sphaericum,
+578704,Leptohalysis scotti,
+580116,Choanoflagellatea,
+581938,Dinophysis ovum,
+582161,Euglenozoa,
+582177,Euglenoidea,
+582200,Euglenia,
+582209,Euglenida,
+582210,Eutreptiida,
+582421,Radiozoa,
+586732,Acantharia,
+587514,Clytemnestrinae,NYA
+591192,Biddulphianae,
+592906,Coccolithophyceae,
+593826,Thalassiosira nidulus,
+148378,Phoronidae,Meroplankton
+595083,Oligotrichida,
+595197,Pelagostrobilidium epacrum,
+595215,Strombidium chlorophilum,
+595701,Parlibellus delognei,
+596169,Scenedesmus quadricauda,
+596365,Medusa,Ambiguous
+599664,Kareniaceae,
+599705,Selenastraceae,
+600769,Chloromonas,
+600926,Goniochloris,
+601007,Nephrodiella,
+601010,Trachydiscus,
+601027,Hafniomonas,
+601058,Siderocelis,
+601293,Protaspis,
+601744,Katablepharis,
+601957,Plagiolemma,
+602678,Strombus,
+602738,Sphaerellocystis,
+603098,Pseudopediastrum,
+603340,Costasigma,
+603675,Pyramidomonas,
+604918,Archaeperidinium,
+605376,Amoeba,
+608578,Ankistrodesmus fusiformis,
+608635,Scenedesmus obtusus,
+608656,Volvox globator,
+609460,Aphanizomenon flosaquae,
+609727,Nitzschia paleacea,
+609902,Navicula reinhardtii,
+610181,Synechococcus elongatus,
+610196,Trachelomonas rugulosa,
+610206,Glenodinium inaequale,
+610251,Kephyrion moniliferum,
+610852,Amphikrikos nanus,
+610874,Coronastrum ellipsoideum,
+610880,Didymocystis inermis,
+610883,Diplochloris lunata,
+610927,Siderocelis ornata,
+610933,Tetrastrum komarekii,
+610957,Catena viridis,
+611550,Aulacoseira subborealis,
+612498,Desmodesmus abundans,
+612499,Desmodesmus armatus,
+612502,Desmodesmus dispar,
+612511,Desmodesmus protuberans,
+612513,Desmodesmus serratus,
+612515,Desmodesmus subspicatus,
+613078,Marvania geminata,
+613575,Proboscia curvirostris,
+613622,Quadricoccus euryhalinicus,
+613733,Spermatozopsis similis,
+614618,Preperidinium meunieri,
+614620,Protoperidinium marielebouriae,
+615435,Helicosphaera carteri,
+615467,Chrysochromulina birgeri,
+615516,Sclerodinium calyptoglyphe,
+615660,Euglena stellata,
+616373,Lobocystis planctonica,
+616809,Eucampia zoodiacus,
+617246,Raphidocelis sigmoidea,
+619174,Marvania coccoides,
+619304,Dinobryon belgicae,
+620842,Katablepharis ovalis,
+621192,Monactinus simplex,
+621576,Gymnodinium fusiforme,
+621601,Pseudopediastrum boryanum,
+621617,Cuspidothrix issatschenkoi,
+621740,Chaetoceros salsugineum,
+621926,Delphineis minutissima,
+622311,Nitzschia ventricosa,
+622807,Monoraphidium dybowskii,
+622810,Monoraphidium intermedium,
+622902,Cyanocatenula calyptrata,
+622903,Cyanocatena imperfecta,
+622906,Aphanothece pseudoglebulenta,
+623185,Quadricoccus ellipticus,
+623440,Pseudoschroederia antillara,
+623532,Hariotina polychorda,
+623575,Acutodesmus obliquus,
+623576,Acutodesmus acuminatus,
+623645,Gymnodinium corollarium,
+623653,Palatinus apiculatus,
+623754,Conticribra weissflogii,
+624065,Halamphora coffeaeformis,
+624247,Lepocinclis acus,
+624488,Vulcanodinium rugosum,
+624607,Archaeperidinium minutum,
+624695,Mucidosphaerium pulchellum,
+624707,Siderocelis sphaerica,
+624737,Desmodesmus granulatus,
+624955,Anathece minutissima,
+624961,Aphanothece paralleliformis,
+624976,Haptolina ericina,
+625000,Merismopedia minutissima,
+625371,Dolichospermum heterosporum,
+625374,Dolichospermum lemmermannii,
+625385,Aphanizomenon klebahnii,
+625430,Leprotintinnus pellucidus,
+626298,Biecheleria halophila,
+626348,Cochlearisigma falcatum,
+626382,Rhabdolithes claviger,
+626938,Desmodesmus flavescens,
+626939,Desmodesmus grahneisii,
+626979,Distephanopsis staurodon,
+627101,Hortobagyiella verrucosa,
+627117,Katablepharis remigera,
+627304,Pseudogoniochloris tripus,
+627627,Merismopedia tranquilla,
+627690,Navicula septentrionalis,
+635472,Melosira discigera,
+640124,Kephyrion inconstans,
+641580,Plagioselmis lacustris,
+643543,Biddulphia membranacea,
+646201,Dinophysis ovum,
+647495,Koliella planctonica,
+653879,Pyramimonas torta,
+656295,Oblea acanthocysta,
+658366,Entomosigma peridinioides,
+660753,Spirulina subsalsa,
+661267,Gyrosigma attenuatum,
+662007,Pleurosigma falcatum,
+662015,Pleurosigma parkeri,
+663187,Sinophysis ebriolus,
+663581,Cochlodinium helix,
+663583,Protodinium simplex,
+663594,Polykrikos schwarzii,
+663610,Gyrodinium calyptroglyphe,
+663628,Miniscula bipes,
+664269,Gloeotila spiralis,
+666617,Ankyra lanceolata,
+668512,Scenedesmus pectinatus,
+668848,Eupodiscus weissflogii,
+669542,Moelleria cornuta,
+670030,Prymnesium polylepis,
+670627,Closterium acutum var. variabile,
+671423,Diatoma vulgaris var. linearis,
+671778,Biddulphia rhombus var. trigona,
+672032,Desmodesmus armatus var. bicaudatus,
+676459,Chaetoceros anastomosans var. externus,
+685949,Cyclotella striata var mesoleia,
+688422,Biddulphia rhombus f. trigona,
+688930,Aulacoseira subarctica f. recta,
+699394,Trigonium alternans,
+699554,Odontella turgida,
+699623,Haptolina hirta,
+699641,Auliscus sculptus,
+700266,Nitzschia robusta,
+700481,Grammatophora subtilissima,
+702200,Odontella aurita var. obtusa,
+704849,Thalassionema nitzschoides,
+707679,Karenia aureola,
+707830,Gymnodinium litoralis,
+707927,Vicicitus globosus,
+708245,Raphidosphaera tenerrima,
+708293,Gyrosigma tenuirostrum,
+708294,Bicosoeca campanulata,
+720592,Tortanus (Boreotortanus) discaudatus,NYA
+152195,Hydroida,Meroplankton
+732333,Chlamydomonadales,
+732820,Strombidium emergens,
+732868,Schmidingerella serrata,
+732974,Oligotrichea,
+732976,Tintinnina,
+152352,Osteichthyes,Meroplankton
+836528,Apicoporus,
+836581,Trieres,
+837075,Azadinium caudatum,
+837220,Tripos falcatus,
+837234,Tripos ranipes,
+837255,Chrysotila carterae,
+837310,Tripos azoricus,
+837446,Tripos setaceus,
+837453,Tripos horridus,
+837455,Tripos inflatus,
+837456,Tripos kofoidii,
+837459,Tripos lineatus,
+838163,Polyblepharides amylifera,
+838720,Bumilleriopsis verrucosa,
+839179,Verrucodesmus verrucosus,
+839181,Verrucodesmus parvus,
+839791,Islandinium tricingulatum,
+839985,Chaetoceros gelidus,
+839991,Trieres mobiliensis,
+839996,Trieres regia,
+840332,Aulacoseira pusilla,
+840518,Lithodesmium variabile,
+840626,Tripos fusus,
+840627,Tripos furca,
+840689,Levanderina fissa,
+841182,Tripos arietinus,
+841188,Tripos bigelowii,
+841189,Tripos brevis,
+841190,Tripos bucephalus,
+841193,Tripos candelabrus,
+841199,Tripos compressus,
+841211,Tripos eugrammus,
+841248,Tripos hexacanthum,
+841251,Tripos incisus,
+841259,Tripos longipes,
+841260,Tripos macroceros,
+841261,Tripos massiliensis,
+841263,Tripos minutus,
+841287,Durinskia dybowskii,
+841746,Tripos pentagonus,
+841751,Tripos pulchellus,
+842517,Tripos trichoceros,
+843999,Coccolithus braarudii,
+844439,Ceratium articum,
+844915,Scenedesmus nygaardii,
+845296,Gonyaulax spinifera,
+846758,Amylax triacantha var. buxus ,
+152391,Nemertea,Meroplankton
+234066,Lamellibranchiata,Meroplankton
+871888,Staurophora mertensi,NYA
+886274,Pyramimonadophyceae,
+886288,Desmidiales,
+956074,Gomphonema,
+957381,Asteromphalus cleveanus,
+957579,Corethron criophilum,
+958478,Nitzschia distans,
+960214,Pseudonitzschia fraudulenta,
+960559,Thalassiosira minima,
+960571,Thalassiosira nordenskioldii,
+960833,Fragilaria striatula,
+961694,Cerataulina bergonii,
+961743,Chaetoceros anastomosans,
+961769,Chaetoceros curvisetus,
+961776,Chaetoceros didymus,
+961816,Chaetoceros lorenzianus,
+961865,Chaetoceros peruvianus,
+961873,Chaetoceros pseudobrevis,
+961899,Chaetoceros wighamii,
+962003,Chaetoceros septentrionalis,
+962237,Coscinodiscus concinnus,
+962316,Coscinodiscus radiatus,
+962746,Leptocylindrus danicus,
+962840,Navicula latissima,
+963677,Nitzschia sigmoidea,
+964359,Coscinodiscus angustelineatus,
+965294,Stephanopyxis turris,
+965858,Diatoma gracillimum,
+966467,Orthosira angulata,
+966480,Coscinodiscus centralis,
+967041,Guinardia striata,
+967280,Pinnularia ambigua,
+967945,Rhizosolenia hebetata,
+967946,Rhizosolenia imbricata,
+969455,Coscinodiscus lacustris var. pelagica,
+971564,Plagiogramma brockmanni var. brockmanni,
+971749,Stephanodiscus tenuis,
+975029,Coscinodiscus stellaris var. stellaris,
+975336,Guinardia blavyana var. blavyana,
+976453,Melosira arctica var. arctica,
+978142,Pyxidicula compressa var. compressa,
+978230,Rhizosolenia robusta var. robusta,
+979713,Diatoma tenue var. elongatum,
+983277,Amphiprora lepidoptera f. lepidoptera,
+983525,Coscinodiscus centralis f. centralis,
+984388,Navicula smithii f. smithii,
+985165,Rhizosolenia fragilissima f. fragilissima,
+985570,Synedra nitzschioides f. nitzschioides,
+985653,Triceratium alternans f. alternans,
+990876,Margalefidinium polykrikoides,
+992757,Aduncodinium,
+992758,Aduncodinium glandula,
+1055143,Pachysphaera,
+1289276,Tetradesmus lagerheimii,
+1304621,Closterium acutum var. acutum,
+1304622,Desmodesmus armatus var. armatus,
+1304625,Pediastrum duplex var. duplex,
+1304629,Pennales,
+1305343,Peridinium quadridentatum,
+1305351,Pseudadenoides kofoidii,
+1307640,Bacterosira constricta,
+1310442,Octactis speculum,
+1320351,Pilidiophora,NYA
+1321853,Scrippsiella acuminata,
+1322468,Hobaniella longicruris,
+1322472,Ralfsiella smithii,
+1346683,Kryptoperidinium triquetrum,
+1356513,Ochromonas,
+1359873,Tetrachlorella tetrachlorelloides,
+1360343,Raphidocelis granulata,
+1369826,Cucumeridinium coeruleum,
+1371463,Barrufeta resplendens,
+1381154,Tripos teres,
+1381675,Obelia,NYA
+410762,Sipunculus,Meroplankton
+1382182,Lebouridinium glaucum,
+1391716,Tripos macroceros,
+1415683,Pediastrum boryanum var. boryanum,
+1416974,Eurytemora affinis affinis,NYA
+1422167,Thoracicalcarea,NYA
+558776,Echinospira larvae,Meroplankton
+1442452,Plagiolemma distortum,
+1444150,Choanoflagellata,
+594013,Staurostoma mertensii,Meroplankton
+1474876,Pseliodinium fusus,
+1486573,Metazoa,NYA
+1525460,Hippocampus,NYA
+1673600 ,Octobulbacea corynetes,NYA
+2104 ,Myodocopida,NYA
