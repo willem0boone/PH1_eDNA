@@ -1,3 +1,7 @@
 *.tsv
 .idea
 *non_aggregated_data.csv
+/output
+/cache
+/data
+/plots

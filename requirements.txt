@@ -1,1 +1,6 @@
 pandas
+plotly
+pyarrow
+geopandas
+pyyaml
+matplotlib

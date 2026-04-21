@@ -1,0 +1,339 @@
+parameter,count
+,26279149
+Count (Dmnless),23327417
+Instrument (Dmnless),19321413
+SamplingMethod (Dmnless),10282750
+Platform (Dmnless),8878782
+Sampling_protocol,8627071
+TransDist (m),8373585
+SampArea (km^2),8366205
+BeaufWinFor (Dmnless),8192726
+LifeStage,8101654
+Sex,7619463
+WaterAbund (#/ml),6216863
+HorVis_ESAS,6190581
+VolWBodySamp (m^3),4416646
+SACFORN_Abund,3323251
+eunishabitats,3279779
+sampling_instrument_name,3208444
+AreaBedSamp (m^2),2224231
+Samp_vol (l),2171167
+BathyDep_ISL (m),2122450
+UKMarHabClass15.03,2102734
+BathyDepth_MSL (m),1982653
+SubSamplingCoefficient (Dmnless),1897474
+PropCover_BE007117 (%),1773708
+BedAbund (#/m^2),1617890
+Biovol_BE007117 (mm^3/m^3),1445007
+LowSieveMesh (mm),1283909
+Secchi (m),1189399
+HorVis_visual (m),1179480
+Sizeclass_HELCOM_COMBINE (um),1176764
+WetWtBiom_BE004249 (mg/m^3),1046317
+WindSpd (m/s),1032537
+Mesh_size (um),969718
+CarbPhyto (mg/m^3),966825
+sampling_platform_name,892723
+WaterWetWtBiom (mg/m^3),813288
+BedWetWtBiom (g/m^2),760960
+Sampling_method_description,736897
+DryWeight (g),675371
+SampTrkLen (m),675084
+NetMesh (mm),557511
+Mouth_area (m^2),518849
+Temp (degC),495117
+Duration (s),483725
+TrophicSatus,450226
+Mesh_size_sieve_lower (um),428157
+POC (umol/l),404322
+WetWt (g),390072
+UKMarHabClass97.06,389956
+analytical_instrument_name,386978
+VisWaveHeight (m),367926
+SerNum_INST,363309
+Pore_size_samp_processor_upper_filter (um),363309
+P_sal (Dmnless),359422
+Turbidity (NTU),348393
+WWBiom_Samp (kg),304793
+WC_dissO2 (umol/l),292030
+sampling_platform_type,260078
+Biovolume (mm^3),257526
+Length (mm),247553
+SamplPreservation (Dmnless),247390
+Std_length (mm),237276
+TSG+Fl_Flow (l/min),232812
+chl-a_water_model_fluor (mg/m^3),231903
+Conc_CDOM_fluor (ppb),229908
+WMOSeaState (Dmnless),226641
+O2Sat (%),205970
+Analytical_method_description,170922
+PlatformSpd (m/s),165494
+BedAshFreeBiom (g/m^2),162186
+NavESBathyDep (m),161568
+Biovolume_HELCOM_COMBINE (um^3/ml),157441
+SubSamplingProtocol (Dmnless),147569
+UKMarHabClass04.05,146185
+mouth_width (cm),144462
+Vol_filt_geom_dist_depth (l),132765
+SizCat_BE007117,120475
+DWBiom_Samp (kg),119068
+Cond (S/m),113968
+pH(total)_water_computed (pH units),113966
+Sample_preservation_method_description,106521
+Salinity (ppt),95356
+mouth_height (cm),86468
+BedDryWtBiom (g/m^2),80834
+AbundCat,73350
+MaxSeafloorDepth (m),70565
+MinSeafloorDepth (m),66731
+Cell_volume (cm^3),58664
+Mesh_size_sieve_upper (um),58138
+WMOHorVis (Dmnless),57432
+WaterCarbonBiomassConv (mg/m^3),51559
+Total_length (mm),49462
+CntBrdPair (Dmnless),45422
+MaxDepBelowSeaSurf (m),42058
+PrSand (%),37817
+Pore_size_samp_processor_lower_filter (um),37753
+WetWtBiom_persamplingtime (#/h),35425
+Silt (%),35384
+Sediment_type,34712
+Diameter_sample_collector_aperture (cm),33550
+PrSed_WorV_Siz_0-63um (%),32279
+PrSed_WorV_Siz_2000-4000um (%),29401
+PrSed_WorV_Siz_1000-2000um (%),29401
+Cellsliving_BE007117,27602
+Fibres (#/l),27594
+Detritus (#/l),27594
+unidentified_biota (#/l),27594
+PrSed_WorV_Siz_4000-8000um (%),27055
+PrSed_WorV_Siz_8000-16000um (%),27046
+SkewSedVis,26884
+KurtSedVis,26884
+PrSed_WorV_Siz_500-1000um (%),26884
+PrClay (%),26568
+MaxLen_BE007117 (mm),25995
+Conc_Pb_sed<2um (mg/kg),24652
+Conc_Cr_sed<2um (mg/kg),24652
+Conc_Cu_sed<2um (mg/kg),24652
+Conc_Zn_<2um_sed (mg/kg),24652
+Conc_Cd_sed<2um (mg/kg),24652
+Conc_Ni_sed<2um (mg/kg),24652
+Track_duration (h),24125
+CORG_CS_SEDTOT_D (%),22536
+DepBelowSurf_start (m),21895
+PresAbs_BE007117 (Dmnless),21549
+P_sal_CTD (Dmnless),20445
+AbundCatSACFOR,20157
+GPS (m/s),19787
+Platform_Heading_GPS (deg),19767
+MinLen_BE007117 (mm),19694
+WaterDryWtBiom_BE007117 (mg/m^3),19507
+Sed_GrSizeMode_PS (um),19446
+platform_class,19205
+VSAM (m^3),19205
+Vol2MassCTD2 (l/kg),18771
+WC_dissO2_uncalib (umol/l),18771
+WindDirFrom (deg T),18242
+Abund_persamplingtime (#/h),18113
+VisSwlHght (m),18064
+Carapace_width (mm),17673
+Cmpval (km),16860
+WaterBiovolumeConv (um^3/ml),16832
+WC_dissO2_optode (umol/l),15744
+RelativeCover (%),15289
+PO4_Unfilt_ColAA (umol/l),15076
+NO3_Unfilt_NO2CorrColAA (umol/l),14870
+SiOx_Unfilt_ColAA (umol/l),14830
+chl-a_water>GF/F_FA_fluor (mg/m^3),13862
+WaterCarbonBiomassFlow (mg/m^3),13071
+PrSedSizClss<63 (%),12101
+Age_BE007117 (yr),9859
+PU0000 (#/ml),9856
+SamplExtraction (Dmnless),9786
+Cetac_Behav,9214
+CauseDeath,8694
+DepBelowSurf (m),8648
+SampWetWt (g),7740
+Diam_BE007117 (mm),7512
+DepBelowSurf_end (m),7401
+Platform_Heading (deg),7380
+WC_Temp (degC),7247
+HeightAboveBed (m),6754
+MinDepBelowBed (m),6743
+Height_observation (m),6652
+Ulva_stranding_type,6640
+MedGS (um),6601
+BlubberThickness (cm),6546
+MaxDepBelowBed (m),6528
+Organic carbon in the sediment (g/kg),6494
+Subcomp_BE007117,6085
+PRSedSiz<2000um (%),5642
+PRSedSiz<2500um (%),5642
+PRSedSiz<3150um (%),5642
+Sed_TotC (%),5642
+MolC/N_Sed (Dmnless),5642
+PRSedSiz<1250um (%),5616
+PRSedSiz<1600um (%),5616
+PRSedSiz<1000um (%),5616
+Abund_perlengthsampled (#/m),5615
+PRSedSiz<160um (%),5551
+PRSedSiz<40um (%),5551
+PrSedSizClss<30 (%),5551
+PRSedSiz<80um (%),5551
+PRSedSiz<800um (%),5551
+PRSedSiz<100um (%),5551
+PrSedbyPS_<20um (%),5551
+PRSedSiz<200um (%),5551
+PRSedSiz<10um (%),5551
+PRSedSiz<250um (%),5551
+PRSedSiz<315um (%),5551
+PRSedSiz<500um (%),5551
+PRSedSiz<630um (%),5551
+PRSedSiz<125um (%),5551
+TowSpeed (m/s),5378
+BathyDepUnknownDatum (m),5295
+AreaExtent_Ulva_bloom_blade (m^2),5218
+AreaCov_Ulva_blade (m^2),5218
+Abund_BE006603 (#/m^2),5112
+At_temp (degC),5091
+PreservedWW (g),4954
+Height (mm),4436
+WaterAbundCoccoliths (#/ml),4380
+BedCoverage (%),4329
+WaterAbundCoccAggregates (#/ml),4326
+UpSieveMesh (mm),4193
+PrSedSizClss63-125 (%),4084
+PrSedSzClss125-150 (%),4084
+PrSedSizClss250-500 (%),4084
+PrSedSizClss>500 (%),4084
+Decomp_stage,3705
+DailyBenthicProdAFDW (ug/m^2/d),3417
+SedVolAbund (#/ml),3311
+DepBelowBed (m),3240
+Oxygen Saturation (%),2863
+HELC_Cvrg_BE007117 (Dmnless),2831
+AFDWBiomAsC (#/ml),2661
+Sample_extraction_method_description,2658
+BathyDepES (m),2576
+Oxygen (umol/l),2568
+SPM_TotOrgMat (%),2517
+PrSed_WorV_Siz_710-1000um (%),2517
+PrSed_WorV_Siz_500-710um (%),2517
+PrSed_WorV_Siz_250-500um (%),2517
+PrSedByWtSiz_210-250um (%),2517
+PrSed_WorV_Siz_125-150um (%),2502
+PrSed_WorV_Siz_63-90um (%),2502
+PrSedByWtSiz_50-63um (%),2502
+Start_UT_ISO8601 (ISO8601),2492
+BulksedTotOrgMat (%),2475
+H2OS (%),2475
+DWPrSed>2000 (%),2475
+PrSedByWtSiz_63-2000um (%),2475
+%Fines (%),2475
+MeanGS (um),2466
+End_UT_ISO8601 (ISO8601),2458
+MinDepBelowSeaSurf (m),2451
+WC_temp_CTD (degC),2252
+Hab_CHar,2152
+PO4 (umol/l),1923
+PrSed_WorV_Siz_177-210um (%),1749
+PrSed_WorV_Siz_150-177um (%),1734
+PrSed_WorV_Siz_90-125um (%),1734
+PrSed_WorV_Siz_38-48.3um (%),1617
+PrSed_WorV_Siz_30.2-38um (%),1524
+ClusterNameID (Dmnless),1488
+Bed_description,1441
+ProLenCalan (mm),1384
+Length_SD (mm),1305
+DissO2_Mass (umol/kg),1169
+PDeathCauseBycatch,1117
+NO3+NO2 (umol/l),1061
+SampLeng (m),1044
+PrSed_WorV_Siz_0-60um (%),975
+AreaExtent_Ulva_bloom_blade+filamentous (m^2),972
+AreaCov_Ulva_blade+filamentous (m^2),972
+NO3 (umol/l),828
+NO2 (umol/l),816
+B085M01Z (Dmnless),812
+Water body pH (pH units),787
+SortCoeff (Dmnless),768
+PDeathCauseShipStrike,750
+PDeathCauseNatural,750
+PDeathCausePredation,750
+Count_mean_BE007117 (Dmnless),730
+FLR_average_area (Unspec.),598
+FLR_SD_area (Unspec.),598
+FLO_average_area (Unspec.),598
+FLO_SD_area (Unspec.),598
+FWS_average_area (Unspec.),598
+FWS_SD_area (Unspec.),598
+SWS_average_area (Unspec.),598
+SWS_SD_area (Unspec.),598
+CTDSal (ppt),578
+Count_BE006526 (Dmnless),574
+Dissolved+particulate Cu (nmol/l),572
+Count_BE006531 (Dmnless),570
+Dissolved+particulate Zn (nmol/l),559
+Dissolved+particulate Pb (nmol/l),559
+Dissolved+particulate Cd (nmol/l),559
+HeadLength (mm),506
+SampS (ppt),495
+Water body chlorophyll-a (mg/m^3),317
+POP (umol/l),303
+DON (umol/l),303
+NutritionalStatus,215
+WaterAshFreeBiom_BE007117 (mg/m^3),180
+PropColoniesAffected (%),133
+B036M01Z (Dmnless),112
+HeightAboveSeaLevel (m),109
+NH4_0.2umFilt_ColAA (umol/l),81
+chl-a_water>GF/F_HPLC (mg/m^3),81
+PO4_0.2umFilt_ColAA (umol/l),81
+A_sal (g/kg),73
+Z34CM02Z (#/l),61
+PropColoniesDia>7mm (%),56
+Talk (mEquiv/l),56
+PropColoniesHeight>100mm (%),52
+DryWt_Lipid_BE007117 (%),52
+Siz_PVA_ESD_BE003332 (um),50
+B037M01Z (Dmnless),42
+d15N_19_-99999 (ppt),40
+d13C_19_-99999 (ppt),40
+GustWindSpd (m/s),36
+Shell_width (mm),22
+DryWt_inorganic_Hg_BE007543 (ug/kg),20
+DryWt_CAS35065-27-1_BE007543 (ug/kg),20
+DryWt_CAS21145-77-7_BE007543 (ug/kg),20
+DryWt_CAS83834-59-7_BE007543 (ug/kg),20
+Mass_C:N_19_-99999 (Dmnless),20
+DryWt_CH3Hg+_BE007543 (ug/kg),20
+DryWt_totalHg_BE007543 (mg/kg),20
+DryWt_CAS37680-73-2_BE007543 (ug/kg),20
+DryWt_CAS31508-00-6_BE007543 (ug/kg),20
+DryWt_CAS35065-28-2_BE007543 (ug/kg),20
+DryWt_CAS38380-04-0_BE007543 (ug/kg),20
+DryWt_CAS35065-29-3_BE007543 (ug/kg),20
+DryWt_CAS35694-08-7_BE007543 (ug/kg),20
+DryWt_CAS1222-05-5_BE007543 (ug/kg),20
+DryWt_CH3Hg+_BE009561 (ug/kg),20
+DryWt_inorganic_Hg_BE009561 (ug/kg),20
+DryWt_total_Hg_BE009561 (ug/kg),20
+DryWt_CAS37680-73-2_BE009561 (ug/kg),20
+DryWt_CAS35065-28-2_BE009561 (ug/kg),20
+DryWt_CAS31508-00-6_BE009561 (ug/kg),20
+DryWt_CAS38380-04-0_BE009561 (ug/kg),20
+DryWt_CAS35065-29-3_BE009561 (ug/kg),20
+DryWt_CAS35065-27-1_BE009561 (ug/kg),20
+DryWt_CAS35694-08-7_BE009561 (ug/kg),20
+DryWt_CAS1222-05-5_BE009561 (ug/kg),20
+DryWt_CAS21145-77-7_BE009561 (ug/kg),20
+DryWt_CAS6197-30-4_BE009561 (ug/kg),20
+Count_BE006512 (Dmnless),18
+CMG (deg T),14
+Dissolved+particulate total Fe (nmol/l),13
+Z34CM00Z (#/l),12
+Count_BE006515 (Dmnless),8
+Count_BE006530 (Dmnless),6
+Count_BE006520 (Dmnless),2
+GustWindDirFrom (deg T),1

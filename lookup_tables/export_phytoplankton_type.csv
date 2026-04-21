@@ -1,0 +1,2837 @@
+duppl,AphiaID,Taxon,PhytoplanktonType
+,1,Biota,
+FALSE,2,Animalia,
+TRUE,2,Animalia_Radiolaria,Protozoa
+FALSE,3,Plantae,Phytoplankton
+FALSE,5,Protozoa,
+FALSE,7,Chromista,Phytoplankton
+FALSE,11,Ciliophora,
+FALSE,12,Biota incertae sedis,
+FALSE,25,Choanoflagellida,
+FALSE,51,Mollusca,
+FALSE,101,Gastropoda larva,
+FALSE,105,Bivalvia,
+FALSE,143,Velutinidae ,
+FALSE,164,Gymnosomata,
+FALSE,793,Platyhelminthes,
+FALSE,799,Parasitic Nematoda,
+FALSE,801,Chlorophyta,Chlorophyte
+FALSE,802,Chlorophyceae,Chlorophyte
+FALSE,824,Ulotrichales,Chlorophyte
+FALSE,882,Annelida,
+FALSE,883,Polychaeta,
+FALSE,913,Spionidae,
+FALSE,914,Magelonidae,
+FALSE,922,Arenicolidae,
+FALSE,939,Polynoidae,
+FALSE,948,Syllidae,
+FALSE,958,Tomopteridae,
+FALSE,975,Oweniidae,
+FALSE,979,Sabellariidae,
+FALSE,1065,Arthropoda,
+FALSE,1066,Crustacea,
+FALSE,1069,Branchiopoda,
+FALSE,1071,Malacostraca,
+FALSE,1076,Cladocera,
+FALSE,1078,Ostracoda,
+FALSE,1080,Copepoda C1-6,
+FALSE,1082,Cirripede cyprid,
+TRUE,1082,Cirripede larvae,
+TRUE,1082,Cirripede nauplii,
+TRUE,1082,Cirripedia,
+FALSE,1100,Calanoida C1-6,
+FALSE,1101,Cyclopoida,
+FALSE,1102,Harpacticoida,
+FALSE,1103,Poecilostomatoida,
+FALSE,1104,Siphonostomatoida,
+FALSE,1106,Monstrilloida,
+FALSE,1128,Euphausiacea Total,
+FALSE,1130,Decapoda larvae,
+FALSE,1131,Isopoda,
+FALSE,1135,Amphipoda,
+FALSE,1137,Cumacea,
+FALSE,1195,Bopyridae,
+FALSE,1205,Hyperiidea,
+FALSE,1207,Gammaridea,
+FALSE,1248,Ctenophora,
+FALSE,1249,Tentaculata,
+FALSE,1267,Cnidaria,
+FALSE,1268,Sipuncula,
+FALSE,1271,Entoprocta,
+FALSE,1292,Anthozoa,
+FALSE,1302,Pycnogonida,
+FALSE,1337,Medusae,
+FALSE,1358,Pantopoda,
+FALSE,1361,Ceriantharia,
+FALSE,1371,Siphonophora,
+FALSE,1410,Foraminifera,
+FALSE,1484,Halacaridae,
+FALSE,1594,Bougainvilliidae,
+FALSE,1606,Campanulariidae,
+FALSE,1789,Phoronida larva,
+FALSE,1795,Gymnolaemata,
+FALSE,1806,Echinodermata,
+FALSE,1818,Hemichordata larva,
+FALSE,1820,Enteropneusta,
+FALSE,1824,Cephalochordata,
+FALSE,1839,Ascidiacea larva,
+FALSE,2036,Oligochaeta,
+FALSE,2081,Chaetognatha,
+FALSE,2824,Mysidacea,
+FALSE,5953,Sagittidae juvenile,
+FALSE,8012,Euglena,
+FALSE,10194,Actinopterygii,
+FALSE,10313,Gadiformes larva,
+FALSE,11676,Fish larvae,
+FALSE,11707,Cephalopoda larvae,
+FALSE,13551,Anthoathecata,
+FALSE,13552,Leptothecata,
+FALSE,13703,Thecosomata,
+FALSE,13795,Epicaridea,
+FALSE,14260,Rotifera,
+FALSE,14355,Stomatopoda,
+FALSE,15029,Pandeidae,
+FALSE,15177,Spadellidae,
+FALSE,16350,Trachymedusae,
+FALSE,17111,Chlorococcales,Chlorophyte
+FALSE,17329,Prasinophyceae,Chlorophyte
+FALSE,17446,Larvacea,
+FALSE,17638,Cryptophyta,Cryptophyte
+FALSE,17639,Cryptophyceae,Cryptophyte
+FALSE,17640,Cryptomonadales,Cryptophyte
+FALSE,17644,Cryptomonadaceae,Cryptophyte
+FALSE,17651,Leucocryptos,Cryptophyte
+FALSE,17655,Eutreptiaceae,
+FALSE,17657,Eutreptiella,
+FALSE,17666,Chlorodendrales,
+FALSE,17793,Xanthophyceae,Xanthophyte
+FALSE,18526,Volvocales,Chlorophyte
+FALSE,19494,Hydroidolina,
+FALSE,19539,Euglenophyceae,
+FALSE,19542,Dinophyceae,Dinoflagellate
+TRUE,19542,Dinophyceae,Dinoflagellate
+TRUE,19542,Dinophyceae,Dinoflagellate
+FALSE,19948,Trematoda,
+FALSE,21000,Euglenales,
+FALSE,21001,Euglenaceae,
+FALSE,22528,Foraminiferida,
+FALSE,22556,Bodonidae,Protozoa
+FALSE,22626,Thaliacea,
+FALSE,22754,Trachylinae,
+FALSE,22755,Actinulida,
+FALSE,22990,Atlantidae,
+FALSE,23020,Euthecosomata,
+FALSE,100145,Halosphaeria,Chlorophyte
+FALSE,100678,Metridiidae,
+FALSE,100684,Cerianthidae,
+FALSE,100782,Cerianthus spp.,
+FALSE,101179,Leegaardiella,
+FALSE,101180,Lohmanniella,
+FALSE,101185,Strobilidium,
+FALSE,101190,Laboea,
+FALSE,101195,Strombidium,
+FALSE,101196,Tontonia,
+FALSE,101198,Strombidinopsis,
+FALSE,101206,Leegaardiella ovalis,
+FALSE,101207,Leegaardiella sol,
+FALSE,101209,Lohmanniella oviformis,
+FALSE,101236,Strobilidium spiralis,
+FALSE,101264,Laboea strobila,
+FALSE,101273,Spirostrombidium sauerbreyae,Ciliate
+FALSE,101289,Strombidium conicum,Ciliate
+FALSE,101325,Strombidium reticulatum,Ciliate
+FALSE,101342,Strombidium vestitum,
+FALSE,101361,Caprellidae,
+FALSE,101383,Gammaridae,
+FALSE,101417,Hyperiidae,
+FALSE,101430,Caprella,
+FALSE,101796,Hyperia,
+FALSE,101800,Themisto,
+FALSE,101839,Caprella linearis,
+FALSE,103251,Hyperia galba,
+FALSE,103256,Hyperoche medusarum,
+FALSE,103357,Appendicularia,
+FALSE,103358,Fritillaria,
+FALSE,103367,Oikopleura,
+FALSE,103375,Fritillaria borealis,
+FALSE,103407,Oikopleura (Vexillaria) dioica,
+FALSE,103483,Ascidia,
+FALSE,103987,Bicosoeca,Chrysophyte
+FALSE,103989,Cafeteria,Protozoa
+FALSE,103990,Pseudobodo,Protozoa
+FALSE,104002,Bicosoeca petiolata,Chrysophyte
+FALSE,104003,Bicosoeca planctonica,Chrysophyte
+FALSE,104015,Pseudobodo tremulans,Protozoa
+FALSE,104075,Aetideidae,
+FALSE,104082,Clausocalanidae,
+FALSE,104085,Eucalanidae,
+FALSE,104086,Euchaetidae,
+FALSE,104092,Metridinidae,
+FALSE,104097,Pontellidae,
+FALSE,104103,Scolecitrichidae C1-5,
+FALSE,104108,Acartia,
+FALSE,104111,Aetideopsis,
+FALSE,104112,Aetideus spp,
+FALSE,104115,Bradyidius,
+FALSE,104120,Euchirella,
+FALSE,104121,Gaetanus,
+FALSE,104128,Undeuchaeta,
+FALSE,104137,Augaptilus,
+FALSE,104152,Calanus I-IV,
+FALSE,104155,Neocalanus spp.,
+FALSE,104157,Candacia,
+FALSE,104159,Centropages,
+FALSE,104161,Clausocalanus,
+FALSE,104162,Ctenocalanus,
+FALSE,104164,Microcalanus,
+FALSE,104165,Pseudocalanus,
+FALSE,104167,Diaixis,
+FALSE,104171,Eucalanus,
+FALSE,104172,Rhincalanus,
+FALSE,104173,Subeucalanus,
+FALSE,104174,Euchaeta,
+FALSE,104175,Pareuchaeta,
+FALSE,104178,Heterorhabdus,
+FALSE,104183,Lucicutia,
+FALSE,104190,Metridia (V-VI),
+FALSE,104191,Pleuromamma,
+FALSE,104193,Calocalanus,
+FALSE,104196,Paracalanus,
+FALSE,104204,Xanthocalanus,
+FALSE,104206,Anomalocera,
+FALSE,104208,Labidocera,
+FALSE,104221,Amallothrix,
+FALSE,104225,Lophothrix,
+FALSE,104228,Scaphocalanus,
+FALSE,104229,Scolecithricella,
+FALSE,104230,Scolecithrix,
+FALSE,104240,Eurytemora,
+FALSE,104241,Temora,
+FALSE,104249,Acartia bifilosa,
+FALSE,104251,Acartia clausi,
+FALSE,104253,Acartia discaudata,
+FALSE,104257,Acartia longiremis ,
+FALSE,104262,Acartia tonsa,
+FALSE,104275,Aetideus armatus,
+FALSE,104276,Aetideus giesbrechti,
+FALSE,104296,Euchirella amoena,
+FALSE,104299,Euchirella curticauda,
+FALSE,104300,Euchirella maxima,
+FALSE,104301,Euchirella messinensis,
+FALSE,104302,Euchirella pulchra,
+FALSE,104303,Euchirella rostrata,
+FALSE,104312,Gaetanus minor,
+FALSE,104342,Undeuchaeta major,
+FALSE,104343,Undeuchaeta plumosa,
+FALSE,104359,Paramisophria cluthae,
+FALSE,104422,Haloptilus acutifrons,
+FALSE,104431,Haloptilus longicornis,
+FALSE,104437,Haloptilus spiniceps,
+FALSE,104462,Calanoides carinatus,
+FALSE,104464,Calanus finmarchicus,
+FALSE,104465,Calanus glacialis,
+FALSE,104466,Calanus helgolandicus,
+FALSE,104467,Calanus hyperboreus,
+FALSE,104468,Mesocalanus tenuicornis,
+FALSE,104469,Nannocalanus minor,
+FALSE,104471,Neocalanus gracilis,
+FALSE,104472,Neocalanus robustior,
+FALSE,104474,Candacia armata,
+FALSE,104475,Candacia bipinnata,
+FALSE,104476,Candacia curta,
+FALSE,104478,Candacia ethiopica,
+FALSE,104479,Candacia giesbrechti,
+FALSE,104481,Candacia longimana,
+FALSE,104483,Candacia pachydactyla,
+FALSE,104485,Candacia tenuimana,
+FALSE,104486,Candacia varicans,
+FALSE,104491,Centropages bradyi,
+FALSE,104494,Centropages chierchiae,
+FALSE,104495,Centropages furcatus,
+FALSE,104496,Centropages hamatus ,
+FALSE,104499,Centropages typicus ,
+FALSE,104500,Centropages violaceus,
+FALSE,104501,Isias clavipes,
+FALSE,104502,Clausocalanus arcuicornis,
+FALSE,104503,Clausocalanus furcatus,
+FALSE,104504,Clausocalanus jobei,
+FALSE,104505,Clausocalanus lividus,
+FALSE,104508,Clausocalanus paululus,
+FALSE,104509,Clausocalanus pergens,
+FALSE,104510,Ctenocalanus vanus,
+FALSE,104513,Microcalanus pygmaeus,
+FALSE,104515,Pseudocalanus elongatus,
+FALSE,104517,Pseudocalanus minutus,
+FALSE,104519,Diaixis durani,
+FALSE,104521,Diaixis hibernica,
+FALSE,104522,Diaixis pygmaea,
+FALSE,104542,Rhincalanus cornutus,
+FALSE,104543,Rhincalanus nasutus,
+FALSE,104544,Subeucalanus crassus,
+FALSE,104545,Subeucalanus monachus,
+FALSE,104546,Subeucalanus mucronatus,
+FALSE,104547,Subeucalanus pileatus,
+FALSE,104550,Euchaeta acuta,
+FALSE,104552,Euchaeta marina,
+FALSE,104553,Euchaeta media,
+FALSE,104554,Euchaeta pubera,
+FALSE,104555,Euchaeta spinosa,
+FALSE,104560,Paraeuchaeta glacialis,
+FALSE,104561,Paraeuchaeta gracilis,
+FALSE,104563,Paraeuchaeta hebes,
+FALSE,104566,Paraeuchaeta norvegica,
+FALSE,104576,Heterorhabdus abyssalis,
+FALSE,104577,Heterorhabdus clausi,
+FALSE,104579,Heterorhabdus norvegicus,
+FALSE,104580,Heterorhabdus papilliger,
+FALSE,104582,Heterorhabdus spinifer,
+FALSE,104616,Mecynocera clausi,
+FALSE,104632,Metridia longa,
+FALSE,104633,Metridia lucens,
+FALSE,104637,Pleuromamma abdominalis,
+FALSE,104638,Pleuromamma borealis,
+FALSE,104639,Pleuromamma gracilis,
+FALSE,104640,Pleuromamma piseki,
+FALSE,104642,Pleuromamma robusta,
+FALSE,104643,Pleuromamma xiphias,
+FALSE,104651,Calocalanus contractus,
+FALSE,104669,Calocalanus pavo,
+FALSE,104673,Calocalanus styliremis,
+FALSE,104685,Paracalanus parvus,
+FALSE,104686,Parapontella brevicornis,
+FALSE,104698,Phaenna spinifera,
+FALSE,104705,Xanthocalanus fallax,
+FALSE,104722,Anomalocera patersoni,
+FALSE,104727,Labidocera acutifrons,
+FALSE,104728,Labidocera aestiva,
+FALSE,104736,Labidocera wollastoni,
+FALSE,104738,Pontella lobiancoi,
+FALSE,104743,Pontellina plumata,
+FALSE,104757,Pseudocyclopia minor,
+FALSE,104793,Scaphocalanus echinatus,
+FALSE,104807,Scolecithricella dentata,
+FALSE,104811,Scolecithricella minor,
+FALSE,104820,Scolecithrix bradyi,
+FALSE,104821,Scolecithrix danae,
+FALSE,104832,Scottocalanus persecans,
+FALSE,104833,Scottocalanus securifrons,
+FALSE,104872,Eurytemora affinis,
+FALSE,104878,Temora longicornis,
+FALSE,104879,Temora stylifera,
+FALSE,104880,Temora turbinata,
+FALSE,104897,Leptocardii,
+FALSE,104902,Branchiostoma,
+FALSE,104906,Branchiostoma lanceolatum,
+FALSE,105408,Parasagitta,
+FALSE,105410,Sagitta,
+FALSE,105416,Eukrohnia hamata,
+FALSE,105440,Parasagitta elegans,
+FALSE,105443,Parasagitta setosa,
+FALSE,105445,Pseudosagitta maxima,
+FALSE,105450,Sagitta elegans,
+FALSE,105464,Serratosagitta serratodentata,
+FALSE,105506,Calliacantha,
+FALSE,105513,Diaphanoeca,
+FALSE,105518,Parvicorbicula,
+FALSE,105535,Monosiga,
+FALSE,105536,Proterospongia,
+FALSE,105541,Salpingoeca,
+FALSE,105557,Bicosta minor,
+FALSE,105558,Bicosta spinifera,
+FALSE,105559,Calliacantha longicaudata,
+FALSE,105561,Calliacantha natans,
+FALSE,105571,Diaphanoeca grandis,
+FALSE,105574,Diaphanoeca sphaerica,
+FALSE,105588,Parvicorbicula socialis,
+FALSE,105601,Pleurasiga reynoldsii,
+FALSE,106033,Sessilia,
+FALSE,106087,Lepas nauplii,
+FALSE,106122,Balanus,
+FALSE,106264,Podonidae,
+FALSE,106265,Bosmina,
+FALSE,106267,Evadne,
+FALSE,106269,Podon,
+FALSE,106271,Bosmina coregoni,
+FALSE,106272,Penilia avirostris,
+FALSE,106273,Evadne nordmanni,
+FALSE,106274,Evadne spinifera,
+FALSE,106276,Podon intermedius,
+FALSE,106277,Podon leuckartii,
+FALSE,106278,Pseudevadne tergestina,
+FALSE,106281,Chroomonas,Cryptophyte
+FALSE,106282,Cryptomonas,Cryptophyte
+FALSE,106283,Plagioselmis,Cryptophyte
+FALSE,106285,Teleaulax,Cryptophyte
+FALSE,106287,Hemiselmis,Cryptophyte
+FALSE,106289,Rhodomonas,Cryptophyte
+FALSE,106295,Chroomonas vectensis,Cryptophyte
+FALSE,106297,Cryptomonas baltica,Cryptophyte
+FALSE,106303,Plagioselmis prolonga,Cryptophyte
+FALSE,106305,Teleaulax acuta,Cryptophyte
+FALSE,106306,Teleaulax amphioxeia,Cryptophyte
+FALSE,106310,Hemiselmis virescens,Cryptophyte
+FALSE,106313,Rhodomonas baltica,Cryptophyte
+FALSE,106314,Rhodomonas marina,Cryptophyte
+FALSE,106316,Rhodomonas salina,Cryptophyte
+FALSE,106331,Beroe,
+FALSE,106346,Pleurobrachia,
+FALSE,106358,Beroe cucumis,
+FALSE,106361,Beroe gracilis,
+FALSE,106362,Beroe ovata,
+FALSE,106386,Pleurobrachia pileus,
+FALSE,106393,Bolinopsis infundibulum,
+FALSE,106401,Mnemiopsis leidyi,
+FALSE,106422,Oithonidae C1-6,
+FALSE,106437,Cyclopina,
+FALSE,106485,Oithona,
+FALSE,106528,Cyclopina longicornis,
+FALSE,106642,Oithona atlantica,
+FALSE,106651,Oithona nana,
+FALSE,106652,Oithona plumifera,
+FALSE,106656,Oithona similis,
+FALSE,106669,Dendrobranchiata,
+FALSE,106670,Pleocyemata,
+FALSE,106671,Anomura,
+FALSE,106673,Brachyura,
+FALSE,106674,Caridea,
+FALSE,106731,Sergestidae,
+FALSE,106733,Galatheidae,
+FALSE,106734,Porcellanidae,
+FALSE,106738,Paguridae,
+FALSE,106776,Alpeidae,
+FALSE,106798,Axiidae,
+FALSE,106800,Callianassidae,
+FALSE,106827,Lucifer,
+FALSE,106834,Galathea,
+FALSE,106838,Porcellana,
+FALSE,106854,Pagurus,
+FALSE,106889,Ebalia,
+FALSE,106903,Hyas,
+FALSE,106925,Liocarcinus,
+FALSE,106927,Necora,
+FALSE,106976,Pinnotheres,
+FALSE,106986,Eualus,
+FALSE,107007,Crangon,
+FALSE,107010,Philocheras,
+FALSE,107054,Processa,
+FALSE,107072,Callianassa,
+FALSE,107079,Upogebia,
+FALSE,107188,Pisidia longicornis,
+FALSE,107190,Porcellana platycheles,
+FALSE,107232,Pagurus bernhardus,
+FALSE,107254,Nephrops norvegicus larva,
+FALSE,107276,Cancer pagurus,
+FALSE,107277,Corystes cassivelaunus,
+FALSE,107345,Macropodia rostrata,
+FALSE,107379,Callinectes sapidus,
+FALSE,107381,Carcinus maenas,
+FALSE,107388,Liocarcinus holsatus,
+FALSE,107398,Necora puber,
+FALSE,107506,Eualus occultus,
+FALSE,107507,Eualus pusiolus,
+FALSE,107551,Crangon allmanni,
+FALSE,107552,Crangon crangon,
+FALSE,107557,Philocheras bispinosus,
+FALSE,107647,Pandalina brevirostris,
+FALSE,107677,Pasiphaea sivado,
+FALSE,107689,Processa nouveli,
+FALSE,107737,Jaxea nocturna,
+FALSE,107739,Upogebia deltaura,
+FALSE,107742,Upogebia stellata,
+FALSE,108343,Processa modica modica,
+FALSE,108344,Processa nouveli holthuisi,
+FALSE,109390,Dinophysiales,Dinoflagellate
+FALSE,109391,Gonyaulacales,Dinoflagellate
+FALSE,109392,Gymnodiniales,Dinoflagellate
+FALSE,109393,Noctilucales,Dinoflagellate
+FALSE,109394,Peridiniales,Dinoflagellate
+TRUE,109394,Peridiniales,Dinoflagellate
+TRUE,109394,Peridiniales,Dinoflagellate
+FALSE,109396,Prorocentrales,Dinoflagellate
+FALSE,109406,Dinophysiaceae,Dinoflagellate
+TRUE,109406,Dinophysiaceae,Dinoflagellate
+TRUE,109406,Dinophysiaceae,Dinoflagellate
+FALSE,109408,Goniodomataceae,Dinoflagellate
+FALSE,109410,Gymnodiniaceae,Dinoflagellate
+FALSE,109413,Polykrikaceae,Dinoflagellate
+FALSE,109415,Warnowiaceae,Dinoflagellate
+FALSE,109418,Noctilucaceae,Dinoflagellate
+FALSE,109421,Ceratiaceae,Dinoflagellate
+FALSE,109425,Cladopyxidaceae,Dinoflagellate
+FALSE,109428,Gonyaulacaceae,Dinoflagellate
+FALSE,109431,Ostreopsidaceae,Dinoflagellate
+FALSE,109432,Oxytoxaceae,Dinoflagellate
+FALSE,109433,Peridiniaceae,Dinoflagellate
+FALSE,109435,Protoperidiniaceae,Dinoflagellate
+FALSE,109436,Pyrophacaceae,Dinoflagellate
+FALSE,109438,Thoracosphaeraceae,Dinoflagellate
+FALSE,109442,Prorocentraceae,Dinoflagellate
+FALSE,109444,Pyrocystaceae,Dinoflagellate
+FALSE,109458,Pseliodinium,Dinoflagellate
+FALSE,109459,Amphisolenia,Dinoflagellate
+FALSE,109462,Dinophysis,Dinoflagellate
+TRUE,109462,Dinophysis,Dinoflagellate
+TRUE,109462,Dinophysis,Dinoflagellate
+FALSE,109463,Histioneis,Dinoflagellate
+FALSE,109464,Ornithocercus,Dinoflagellate
+FALSE,109466,Phalacroma,Dinoflagellate
+FALSE,109467,Sinophysis,Dinoflagellate
+FALSE,109468,Fragilidium,Dinoflagellate
+FALSE,109470,Alexandrium ,Dinoflagellate
+TRUE,109470,Alexandrium ,Dinoflagellate
+TRUE,109470,Alexandrium ,Dinoflagellate
+FALSE,109473,Amphidinium,Dinoflagellate
+FALSE,109474,Cochlodinium,Dinoflagellate
+FALSE,109475,Gymnodinium,Dinoflagellate
+TRUE,109475,Gymnodinium,Dinoflagellate
+TRUE,109475,Gymnodinium,Dinoflagellate
+FALSE,109476,Gyrodinium,Dinoflagellate
+TRUE,109476,Gyrodinium,Dinoflagellate
+TRUE,109476,Gyrodinium,Dinoflagellate
+FALSE,109477,Katodinium,Dinoflagellate
+FALSE,109478,Ptychodiscus,Dinoflagellate
+FALSE,109479,Torodinium,Dinoflagellate
+FALSE,109485,Polykrikos,Dinoflagellate
+FALSE,109486,Oxyrrhis,Dinoflagellate
+FALSE,109487,Pronoctiluca,Dinoflagellate
+FALSE,109490,Nematodinium,Dinoflagellate
+FALSE,109491,Warnowia,Dinoflagellate
+FALSE,109492,Woloszynskia,Dinoflagellate
+FALSE,109499,Kofoidinium,Dinoflagellate
+FALSE,109500,Noctiluca,Dinoflagellate
+FALSE,109502,Spatulodinium,Dinoflagellate
+FALSE,109504,Pentapharsodinium,Dinoflagellate
+FALSE,109505,Preperidinium,Dinoflagellate
+FALSE,109506,Ceratium,Dinoflagellate
+TRUE,109506,Ceratium,Dinoflagellate
+TRUE,109506,Ceratium,Dinoflagellate
+FALSE,109507,Ceratocorys spp.,Dinoflagellate
+FALSE,109508,Ceratoperidinium,Dinoflagellate
+FALSE,109509,Cladopyxis,Dinoflagellate
+FALSE,109510,Micracanthodinium,Dinoflagellate
+FALSE,109511,Micranthodinium,Dinoflagellate
+FALSE,109512,Palaeophalacroma,Dinoflagellate
+FALSE,109515,Diplopsalis,Dinoflagellate
+FALSE,109516,Diplosalsis,Dinoflagellate
+FALSE,109517,Amphidoma,Dinoflagellate
+FALSE,109518,Amylax,Dinoflagellate
+FALSE,109519,Gonyaulax,Dinoflagellate
+TRUE,109519,Gonyaulax,Dinoflagellate
+TRUE,109519,Gonyaulax,Dinoflagellate
+FALSE,109524,Ostreopsis,Dinoflagellate
+FALSE,109525,Adenoides,Dinoflagellate
+FALSE,109526,Centrodinium,Dinoflagellate
+FALSE,109527,Corythodinium,Dinoflagellate
+FALSE,109528,Oxytoxum,Dinoflagellate
+FALSE,109529,Pavillardinium,Dinoflagellate
+FALSE,109530,Roscoffia,Dinoflagellate
+FALSE,109533,Calciodinellum,Dinoflagellate
+FALSE,109534,Coolia  ,Dinoflagellate
+FALSE,109537,Diplopsalopsis,Dinoflagellate
+FALSE,109538,Glenodinium,Dinoflagellate
+FALSE,109540,Heterocapsa,Dinoflagellate
+FALSE,109541,Kryptoperidinium,Dinoflagellate
+FALSE,109542,Oblea,Dinoflagellate
+FALSE,109543,Peridiniella,Dinoflagellate
+FALSE,109545,Scrippsiella,Dinoflagellate
+FALSE,109548,Blepharocysta,Dinoflagellate
+FALSE,109549,Peridinium,Dinoflagellate
+FALSE,109550,Podolampas,Dinoflagellate
+FALSE,109553,Protoperidinium,Dinoflagellate
+TRUE,109553,Protoperidinium,Dinoflagellate
+TRUE,109553,Protoperidinium,Dinoflagellate
+FALSE,109555,Pyrophacus,Dinoflagellate
+FALSE,109556,Amphidiniopsis,Dinoflagellate
+FALSE,109557,Thecadinium,Dinoflagellate
+FALSE,109559,Goniodoma,Dinoflagellate
+FALSE,109560,Triadinium,Dinoflagellate
+FALSE,109564,Mesoporos,Dinoflagellate
+FALSE,109566,Prorocentrum,Dinoflagellate
+TRUE,109566,Prorocentrum,Dinoflagellate
+TRUE,109566,Prorocentrum,Dinoflagellate
+FALSE,109567,Protoceratium,Dinoflagellate
+FALSE,109569,Dissodinium,Dinoflagellate
+FALSE,109571,Pyrocystis,Dinoflagellate
+FALSE,109575,Paulsenella chaetoceratis,Dinoflagellate
+FALSE,109585,Minuscula bipes,Dinoflagellate
+FALSE,109603,Dinophysis acuminata,Dinoflagellate
+FALSE,109604,Dinophysis acuta,Dinoflagellate
+FALSE,109612,Dinophysis caudata,Dinoflagellate
+FALSE,109616,Dinophysis dens,Dinoflagellate
+FALSE,109624,Dinophysis fortii,Dinoflagellate
+FALSE,109627,Dinophysis hastata,Dinoflagellate
+FALSE,109637,Dinophysis norvegica,Dinoflagellate
+FALSE,109638,Dinophysis odiosa,Dinoflagellate
+FALSE,109649,Dinophysis pulchella,Dinoflagellate
+FALSE,109651,Dinophysis punctata,Dinoflagellate
+FALSE,109659,Dinophysis skagii,Dinoflagellate
+FALSE,109662,Dinophysis tripos,Dinoflagellate
+FALSE,109693,Ornithocercus magnificus,Dinoflagellate
+FALSE,109705,Fragilidium subglobosum,Dinoflagellate
+FALSE,109707,Alexandrium affine,Dinoflagellate
+FALSE,109710,Alexandrium leei,Dinoflagellate
+FALSE,109711,Alexandrium minutum,Dinoflagellate
+FALSE,109712,Alexandrium ostenfeldii,Dinoflagellate
+FALSE,109713,Alexandrium pseudogonyaulax,Dinoflagellate
+FALSE,109714,Alexandrium tamarense,Dinoflagellate
+FALSE,109716,Achradina pulchra,Dinoflagellate
+FALSE,109717,Actiniscus pentasterias,Dinoflagellate
+FALSE,109718,Amphidinium acutissimum,Dinoflagellate
+FALSE,109723,Amphidinium carterae,Dinoflagellate
+FALSE,109726,Amphidinium crassum,Dinoflagellate
+FALSE,109731,Amphidinium herdmanii,Dinoflagellate
+FALSE,109740,Amphidinium latum,Dinoflagellate
+FALSE,109741,Amphidinium longum,Dinoflagellate
+FALSE,109745,Amphidinium operculatum,Dinoflagellate
+FALSE,109754,Amphidinium sphenoides,Dinoflagellate
+FALSE,109766,Cochlodinium helicoides,Dinoflagellate
+FALSE,109773,Cochlodinium pupa,Dinoflagellate
+FALSE,109777,Gymnodinium abbreviatum,Dinoflagellate
+FALSE,109784,Gymnodinium catenatum,Dinoflagellate
+FALSE,109785,Gymnodinium chlorophorum,Dinoflagellate
+FALSE,109790,Gymnodinium diploconus,Dinoflagellate
+FALSE,109791,Gymnodinium elongatum,Dinoflagellate
+FALSE,109800,Gymnodinium gracile,Dinoflagellate
+FALSE,109802,Gymnodinium halophilum,Dinoflagellate
+FALSE,109809,Gymnodinium lohmannii,Dinoflagellate
+FALSE,109819,Gymnodinium ostenfeldii,Dinoflagellate
+FALSE,109825,Gymnodinium pygmaeum,Dinoflagellate
+FALSE,109826,Gymnodinium rhomboides,Dinoflagellate
+FALSE,109831,Gymnodinium simplex,Dinoflagellate
+FALSE,109835,Gymnodinium variabile,Dinoflagellate
+FALSE,109837,Gymnodinium vestificii,Dinoflagellate
+FALSE,109843,Gyrodinium britannicum,Dinoflagellate
+FALSE,109844,Gyrodinium calyptoglyphe,Dinoflagellate
+FALSE,109851,Gyrodinium dominans,Dinoflagellate
+FALSE,109852,Gyrodinium estuariale,Dinoflagellate
+FALSE,109854,Gyrodinium flagellare,Dinoflagellate
+FALSE,109856,Gyrodinium fusiforme,Dinoflagellate
+FALSE,109859,Gyrodinium lachryma,Dinoflagellate
+FALSE,109870,Gyrodinium pellucidum,Dinoflagellate
+FALSE,109871,Gyrodinium pepo,Dinoflagellate
+FALSE,109876,Gyrodinium spirale,Dinoflagellate
+FALSE,109878,Gyrodinium undulans,Dinoflagellate
+FALSE,109882,Katodinium asymmetricum,Dinoflagellate
+FALSE,109885,Katodinium glaucum,Dinoflagellate
+FALSE,109887,Katodinium rotundatum,Dinoflagellate
+FALSE,109888,Ptychodiscus noctiluca,Dinoflagellate
+FALSE,109889,Torodinium robustum,Dinoflagellate
+FALSE,109890,Torodinium teredo,Dinoflagellate
+FALSE,109894,Herdmania litoralis,Dinoflagellate
+FALSE,109896,Pheopolykrikos beauchampii,Dinoflagellate
+FALSE,109898,Polykrikos hartmannii,Dinoflagellate
+FALSE,109899,Polykrikos kofoidii,Dinoflagellate
+FALSE,109901,Polykrikos schwartzii,Dinoflagellate
+FALSE,109902,Oxyrrhis marina,Dinoflagellate
+FALSE,109903,Pronoctiluca pelagica,Dinoflagellate
+FALSE,109904,Pronoctiluca spinifera,Dinoflagellate
+FALSE,109907,Nematodinium armatum,Dinoflagellate
+FALSE,109914,Leptodiscus medusoides,Dinoflagellate
+FALSE,109918,Kofoidinium pavillardii,Dinoflagellate
+FALSE,109920,Kofoidinium velleloides,Dinoflagellate
+FALSE,109921,Noctiluca scintillans,Dinoflagellate
+FALSE,109923,Spatulodinium pseudonoctiluca,Dinoflagellate
+FALSE,109925,Pentapharsodinium dalei,Dinoflagellate
+FALSE,109927,Preperidinium meunierii,Dinoflagellate
+FALSE,109928,Preperidinium pseudooblea,Dinoflagellate
+FALSE,109929,Ceratium arietinum,Dinoflagellate
+FALSE,109930,Ceratium azoricum,Dinoflagellate
+FALSE,109931,Ceratium belone,Dinoflagellate
+FALSE,109932,Ceratium breve,Dinoflagellate
+FALSE,109934,Ceratium buceros,Dinoflagellate
+FALSE,109935,Ceratium candelabrum,Dinoflagellate
+FALSE,109936,Ceratium carriense,Dinoflagellate
+FALSE,109939,Ceratium compressum,Dinoflagellate
+FALSE,109940,Ceratium concilians,Dinoflagellate
+FALSE,109941,Ceratium contortum,Dinoflagellate
+FALSE,109943,Ceratium declinatum,Dinoflagellate
+FALSE,109947,Ceratium extensum,Dinoflagellate
+FALSE,109948,Ceratium falcatiforme,Dinoflagellate
+FALSE,109949,Ceratium falcatum,Dinoflagellate
+FALSE,109950,Ceratium furca,Dinoflagellate
+FALSE,109951,Ceratium fusus,Dinoflagellate
+FALSE,109952,Ceratium geniculatum,Dinoflagellate
+FALSE,109953,Ceratium gibberum,Dinoflagellate
+FALSE,109955,Ceratium hexacanthum,Dinoflagellate
+FALSE,109956,Ceratium horridum,Dinoflagellate
+FALSE,109958,Ceratium inflatum,Dinoflagellate
+FALSE,109960,Ceratium karstenii,Dinoflagellate
+FALSE,109961,Ceratium kofoidii,Dinoflagellate
+FALSE,109962,Ceratium limulus,Dinoflagellate
+FALSE,109963,Ceratium lineatum,Dinoflagellate
+FALSE,109964,Ceratium longipes,Dinoflagellate
+FALSE,109965,Ceratium longirostrum,Dinoflagellate
+FALSE,109967,Ceratium macroceros,Dinoflagellate
+FALSE,109968,Ceratium massiliense,Dinoflagellate
+FALSE,109969,Ceratium minutum,Dinoflagellate
+FALSE,109971,Ceratium pavillardii,Dinoflagellate
+FALSE,109972,Ceratium pentagonum,Dinoflagellate
+FALSE,109974,Ceratium pulchellum,Dinoflagellate
+FALSE,109975,Ceratium ranipes,Dinoflagellate
+FALSE,109977,Ceratium setaceum,Dinoflagellate
+FALSE,109979,Ceratium symmetricum,Dinoflagellate
+FALSE,109980,Ceratium teres,Dinoflagellate
+FALSE,109981,Ceratium trichoceros,Dinoflagellate
+FALSE,109982,Ceratium tripos,Dinoflagellate
+FALSE,109983,Ceratium vultur,Dinoflagellate
+FALSE,109992,Micracanthodinium claytonii,Dinoflagellate
+FALSE,109993,Micracanthodinium setiferum,Dinoflagellate
+FALSE,109998,Crypthecodinium cohnii,Dinoflagellate
+FALSE,110001,Diplopsalis lenticula,Dinoflagellate
+FALSE,110005,Amphidoma caudata,Dinoflagellate
+FALSE,110007,Amylax triacantha,Dinoflagellate
+FALSE,110009,Gonyaulax alaskenses,Dinoflagellate
+FALSE,110014,Gonyaulax diegensis,Dinoflagellate
+FALSE,110015,Gonyaulax digitale,Dinoflagellate
+FALSE,110023,Gonyaulax grindleyi,Dinoflagellate
+FALSE,110035,Gonyaulax polygramma,Dinoflagellate
+FALSE,110038,Gonyaulax rugosum,Dinoflagellate
+FALSE,110039,Gonyaulax scrippsae,Dinoflagellate
+FALSE,110041,Gonyaulax spinifera,Dinoflagellate
+FALSE,110043,Gonyaulax turbynei,Dinoflagellate
+FALSE,110045,Gonyaulax verior,Dinoflagellate
+FALSE,110048,Spiraulax kofoidii,Dinoflagellate
+FALSE,110067,Boreadinium pisiforme,Dinoflagellate
+FALSE,110069,Adenoides eludens,Dinoflagellate
+FALSE,110073,Corythrodinium diploconus,Dinoflagellate
+FALSE,110077,Corythodinium tesselatum,Dinoflagellate
+FALSE,110079,Oxytoxum adriaticum,Dinoflagellate
+FALSE,110082,Oxytoxum caudatum,Dinoflagellate
+FALSE,110085,Oxytoxum constrictum,Dinoflagellate
+FALSE,110087,Oxytoxum crassum,Dinoflagellate
+FALSE,110090,Oxytoxum curvatum,Dinoflagellate
+FALSE,110094,Oxytoxum elegans,Dinoflagellate
+FALSE,110097,Oxytoxum laticeps,Dinoflagellate
+FALSE,110100,Oxytoxum longum,Dinoflagellate
+FALSE,110102,Oxytoxum mediterraneum,Dinoflagellate
+FALSE,110103,Oxytoxum milneri,Dinoflagellate
+FALSE,110115,Oxytoxum scolopax,Dinoflagellate
+FALSE,110116,Oxytoxum sphaeroideum,Dinoflagellate
+FALSE,110122,Oxytoxum viride,Dinoflagellate
+FALSE,110127,Sabulodinium undulatum,Dinoflagellate
+FALSE,110130,Coolia monotis,Dinoflagellate
+FALSE,110131,Diplopelta asymmetrica,Dinoflagellate
+FALSE,110138,Diplopsalopsis latipeltata,Dinoflagellate
+FALSE,110139,Diplopsalopsis orbicularis,Dinoflagellate
+FALSE,110146,Glenodinium danicum,Dinoflagellate
+FALSE,110152,Heterocapsa rotundata,Dinoflagellate
+FALSE,110153,Heterocapsa triquetra,Dinoflagellate
+FALSE,110154,Kryptoperidinium foliaceum,Dinoflagellate
+FALSE,110155,Oblea rotunda,Dinoflagellate
+FALSE,110156,Peridiniella catenata,Dinoflagellate
+FALSE,110168,Scrippsiella lachrymosa,Dinoflagellate
+FALSE,110172,Scrippsiella trochoidea,Dinoflagellate
+FALSE,110178,Blepharocysta paulsenii,Dinoflagellate
+FALSE,110183,Peridinium cinctum,Dinoflagellate
+FALSE,110185,Peridinium gargantua,Dinoflagellate
+FALSE,110198,Peridinium willei,Dinoflagellate
+FALSE,110199,Podolampas bipes,Dinoflagellate
+FALSE,110201,Podolampas elegans,Dinoflagellate
+FALSE,110202,Podolampas spinifera,Dinoflagellate
+FALSE,110204,Lebouraia minuta,Dinoflagellate
+FALSE,110205,Protoperidinium achromaticum,Dinoflagellate
+FALSE,110206,Protoperidinium avellana,Dinoflagellate
+FALSE,110208,Protoperidinium bipes,Dinoflagellate
+FALSE,110209,Protoperidinium breve,Dinoflagellate
+FALSE,110210,Protoperidinium brevipes,Dinoflagellate
+FALSE,110212,Protoperidinium conicoides,Dinoflagellate
+FALSE,110213,Protoperidinium conicum,Dinoflagellate
+FALSE,110214,Protoperidinium crassipes,Dinoflagellate
+FALSE,110215,Protoperidinium curtipes,Dinoflagellate
+FALSE,110216,Protoperidinium denticulatum,Dinoflagellate
+FALSE,110217,Protoperidinium depressum,Dinoflagellate
+FALSE,110218,Protoperidinium diabolus,Dinoflagellate
+FALSE,110219,Protoperidinium divergens,Dinoflagellate
+FALSE,110220,Protoperidinium excentricum,Dinoflagellate
+FALSE,110223,Protoperidinium granii,Dinoflagellate
+FALSE,110228,Protoperidinium laticeps,Dinoflagellate
+FALSE,110229,Protoperidinium leonis,Dinoflagellate
+FALSE,110231,Protoperidinium mariaelebouriae,Dinoflagellate
+FALSE,110233,Protoperidinium minutum,Dinoflagellate
+FALSE,110234,Protoperidinium mite,Dinoflagellate
+FALSE,110237,Protoperidinium nudum,Dinoflagellate
+FALSE,110238,Protoperidinium oblongum,Dinoflagellate
+FALSE,110239,Protoperidinium obtusum,Dinoflagellate
+FALSE,110240,Protoperidinium oceanicum,Dinoflagellate
+FALSE,110241,Protoperidinium ovatum,Dinoflagellate
+FALSE,110244,Protoperidinium pallidum,Dinoflagellate
+FALSE,110245,Protoperidinium pellucidum,Dinoflagellate
+FALSE,110247,Protoperidinium pentagonum,Dinoflagellate
+FALSE,110248,Protoperidinium punctulatum,Dinoflagellate
+FALSE,110249,Protoperidinium pyriforme,Dinoflagellate
+FALSE,110250,Protoperidinium quarense,Dinoflagellate
+FALSE,110251,Protoperidinium saltans,Dinoflagellate
+FALSE,110257,Protoperidinium steinii,Dinoflagellate
+FALSE,110258,Protoperidinium subicurvipes,Dinoflagellate
+FALSE,110259,Protoperidinium subinerme,Dinoflagellate
+FALSE,110260,Protoperidinium thorianum,Dinoflagellate
+FALSE,110266,Pyrophacus horologicum,Dinoflagellate
+FALSE,110273,Thecadinium kofoidii,Dinoflagellate
+FALSE,110284,Oxyphysis oxytoxoides,Dinoflagellate
+FALSE,110291,Prorocentrum aporum,Dinoflagellate
+FALSE,110293,Prorocentrum balticum,Dinoflagellate
+FALSE,110295,Prorocentrum compressum,Dinoflagellate
+FALSE,110298,Prorocentrum dentatum,Dinoflagellate
+FALSE,110300,Prorocentrum gracile,Dinoflagellate
+FALSE,110301,Prorocentrum lima,Dinoflagellate
+FALSE,110302,Prorocentrum maximum,Dinoflagellate
+FALSE,110303,Prorocentrum micans,Dinoflagellate
+FALSE,110304,Prorocentrum minimum,Dinoflagellate
+FALSE,110310,Prorocentrum redfieldii,Dinoflagellate
+FALSE,110311,Prorocentrum rostratum,Dinoflagellate
+FALSE,110312,Prorocentrum rotundatum,Dinoflagellate
+FALSE,110314,Prorocentrum scutellum,Dinoflagellate
+FALSE,110316,Prorocentrum triestinum,Dinoflagellate
+FALSE,110321,Protoceratium reticulatum,Dinoflagellate
+FALSE,110324,Dissodinium pseudocalani,Dinoflagellate
+FALSE,110325,Dissodinium pseudolunula,Dinoflagellate
+FALSE,110326,Dissodium asymmetricum,Dinoflagellate
+FALSE,110328,Pyrocystis fusiformis,Dinoflagellate
+FALSE,110332,Pyrocystis noctiluca,Dinoflagellate
+FALSE,110398,Diastylis,
+FALSE,110427,Pseudocuma,
+FALSE,110487,Diastylis rathkei,
+FALSE,110652,Eutreptiella gymnastica,
+FALSE,110671,Euphausiid,
+FALSE,110678,Stylocheiron,
+FALSE,110679,Thysanoessa spp. furcilia,
+FALSE,110690,Meganyctiphanes norvegica,
+FALSE,110708,Thysanoessa inermis,
+FALSE,110709,Thysanoessa longicaudata adult,
+FALSE,110711,Thysanoessa raschii,
+FALSE,110722,Cheilostomatida,
+FALSE,111054,Tubilipora,
+FALSE,115057,Prymnesiophyceae,Haptophyte
+FALSE,115058,Mischococcales,Xanthophyte
+FALSE,115059,Coccosphaerales,Haptophyte
+FALSE,115060,Isochrysidales,Haptophyte
+FALSE,115061,Prymnesiales,Haptophyte
+FALSE,115063,Pleurochloridaceae,Xanthophyte
+FALSE,115070,Gephyrocapsaceae,Haptophyte
+FALSE,115073,Prymnesiaceae,Haptophyte
+FALSE,115075,Meringosphaera,Chlorophyte
+FALSE,115082,Pontosphaera,Haptophyte
+FALSE,115086,Emiliania,Haptophyte
+FALSE,115088,Phaeocystis,Haptophyte
+FALSE,115090,Chrysochromulina,Haptophyte
+FALSE,115104,Emiliania huxleyi,Haptophyte
+FALSE,115106,Phaeocystis pouchetii,Haptophyte
+FALSE,115116,Chrysochromulina ericina,Haptophyte
+FALSE,115119,Chrysochromulina hirta,Haptophyte
+FALSE,115126,Chrysochromulina parkeae,Haptophyte
+FALSE,115127,Chrysochromulina polylepis,Haptophyte
+FALSE,115128,Chrysochromulina pringsheimii,Haptophyte
+FALSE,115129,Chrysochromulina spinifera,Haptophyte
+FALSE,115153,Harpacticidae,
+FALSE,115186,Aegisthus,
+FALSE,115273,Clytemnestra,
+FALSE,115341,Microsetella,
+FALSE,115348,Euterpina,
+FALSE,115351,Tigriopus,
+FALSE,115403,Longipedia,
+FALSE,115427,Alteutha,
+FALSE,115470,Thalestris,
+FALSE,115484,Tisbe,
+FALSE,115508,Aegisthus aculeatus,
+FALSE,115509,Aegisthus mucronatus,
+FALSE,115805,Clytemnestra scutellata,
+FALSE,116115,Microsetella norvegica C1-6,
+FALSE,116116,Microsetella rosea C1-6,
+FALSE,116162,Euterpina acutifrons,
+FALSE,116183,Tigriopus brevicornis,
+FALSE,116383,Miracia efferata,
+FALSE,116452,Alteutha interrupta,
+FALSE,116598,Parathalestris cronii,
+FALSE,116998,Aequorea,
+FALSE,117015,Bougainvillia,
+FALSE,117030,Clytia,
+FALSE,117034,Obelia,
+FALSE,117056,Turritopsis,
+FALSE,117070,Sarsia,
+FALSE,117082,Eutima,
+FALSE,117095,Euphysa,
+FALSE,117117,Hydractinia,
+FALSE,117178,Amphinema spp.,
+FALSE,117183,Leuckartiara,
+FALSE,117211,Rathkea,
+FALSE,117212,Aglantha,
+FALSE,117252,Tiaropsis,
+FALSE,117321,Bougainvillia britannica,
+FALSE,117328,Bougainvillia muscus,
+FALSE,117329,Bougainvillia principis,
+FALSE,117345,Lizzia blondina,
+FALSE,117368,Clytia hemisphaerica,
+FALSE,117388,Obelia geniculata,
+FALSE,117452,Corymorpha nutans,
+FALSE,117491,Sarsia tubulosa,
+FALSE,117512,Eirene viridula,
+FALSE,117515,Eutima gracilis,
+FALSE,117517,Eutonina indicans,
+FALSE,117521,Helgicirrha cari,
+FALSE,117527,Tima bairdii,
+FALSE,117535,Eucheilota maculata,
+FALSE,117561,Euphysa aurata,
+FALSE,117568,Liriope tetraphylla,
+FALSE,117653,Podocoryna aereolata,
+FALSE,117654,Podocoryna borealis,
+FALSE,117725,Laodicea undulata,
+FALSE,117736,Lovenella clausa,
+FALSE,117743,Melicertum octocostatum,
+FALSE,117747,Cosmetira pilosella,
+FALSE,117754,Mitrocomella brownei,
+FALSE,117755,Mitrocomella polydiademata,
+FALSE,117791,Leuckartiara octona,
+FALSE,117796,Neoturris pileata,
+FALSE,117804,Phialella quadrata,
+FALSE,117836,Proboscidactyla stellata,
+FALSE,117848,Rathkea octopunctata,
+FALSE,117849,Aglantha digitale,
+FALSE,117947,Solmaris corona,
+FALSE,117970,Modeeria rotunda,
+FALSE,117978,Tiaropsis multicirrata,
+FALSE,117982,Ectopleura dumortierii,
+FALSE,117988,Hybocodon prolifer,
+FALSE,117998,Zanclea costata,
+FALSE,118011,Cryothecomonas,
+FALSE,118014,Ebria,
+FALSE,118027,Solenicola,Ciliate
+FALSE,118028,Telonema,
+FALSE,118047,Cryothecomonas scybalophora,
+FALSE,118051,Ebria tripartita,
+FALSE,118071,Rhizomonas setigera,
+FALSE,118073,Solenicola setigera,Ciliate
+FALSE,118075,Telonema subtile,
+FALSE,118278,Gnathiidae,
+FALSE,118437,Gnathia,
+FALSE,119077,Leucocryptos marina,Cryptophyte
+FALSE,119081,Kathablepharis remigera,
+FALSE,119270,Nitzschia,
+TRUE,119270,Nitzschia,
+TRUE,119270,Nitzschia,
+FALSE,119723,Kuhnia scombri,
+FALSE,119777,Monstrillidae C1-6,
+FALSE,119780,Monstrilla,
+FALSE,119805,Monstrilla longiremis,
+FALSE,119816,Mormonilla,
+FALSE,119822,Mysidae,
+FALSE,119859,Gastrosaccus,
+FALSE,119930,Gnathophausia zoea,
+FALSE,119950,Anchialina agilis,
+FALSE,120566,Vannella,
+FALSE,123080,Asteroidea,
+FALSE,123082,Echinoidea,
+FALSE,123083,Holothuroidea,
+FALSE,123084,Ophiuroidea,
+FALSE,123106,Spatangoida,
+FALSE,123200,Ophiuridae,
+FALSE,123219,Asterias,
+FALSE,123386,Echinus,
+FALSE,123426,Echinocardium,
+FALSE,123574,Ophiura,
+FALSE,123613,Amphiura,
+FALSE,123776,Asterias rubens,
+FALSE,123922,Luidia sarsii,
+FALSE,124319,Psammechinus miliaris,
+FALSE,125080,Amphiura filiformis,
+FALSE,125131,Ophiothrix fragilis,
+FALSE,125464,Clupeidae larva,
+FALSE,125516,Ammodytidae larva,
+FALSE,125522,Callionymidae,
+FALSE,125537,Gobiidae,
+FALSE,125606,Syngnathidae,
+FALSE,125724,Engraulis,
+FALSE,125732,Gadus,
+FALSE,125741,Ciliata,
+FALSE,125909,Ammodytes,
+FALSE,125911,Hyperoplus,
+FALSE,126109,Arnoglossus,
+FALSE,126175,Sebastes,
+FALSE,126227,Syngnathus,
+FALSE,126281,Anguilla anguilla,
+FALSE,126417,Clupea harengus,
+FALSE,126421,Sardina pilchardus,
+FALSE,126425,Sprattus sprattus,
+FALSE,126426,Engraulis encrasicolus,
+FALSE,126436,Gadus morhua,
+FALSE,126437,Melanogrammus aeglefinus,
+FALSE,126438,Merlangius merlangus,
+FALSE,126440,Pollachius pollachius,
+FALSE,126441,Pollachius virens,
+FALSE,126442,Raniceps raninus,
+FALSE,126444,Trisopterus esmarkii,
+FALSE,126446,Trisopterus minutus,
+FALSE,126448,Ciliata mustela,
+FALSE,126449,Ciliata septentrionalis,
+FALSE,126513,Diplecogaster bimaculata,
+FALSE,126751,Ammodytes marinus,
+FALSE,126754,Gymnammodytes semisquamatus,
+FALSE,126755,Hyperoplus immaculatus,
+FALSE,126756,Hyperoplus lanceolatus,
+FALSE,126768,Lipophrys pholis,
+FALSE,126792,Callionymus lyra,
+FALSE,126822,Trachurus trachurus,
+FALSE,126868,Aphia minuta,
+FALSE,126878,Crystallogobius linearis,
+FALSE,126898,Gobiusculus flavescens,
+FALSE,126927,Pomatoschistus microps,
+FALSE,126928,Pomatoschistus minutus,
+FALSE,126930,Pomatoschistus pictus,
+FALSE,126964,Ctenolabrus rupestris,
+FALSE,126965,Labrus bergylta,
+FALSE,126996,Pholis gunnellus,
+FALSE,127023,Scomber scombrus,
+FALSE,127126,Arnoglossus laterna,
+FALSE,127136,Glyptocephalus cynoglossus,
+FALSE,127137,Hippoglossoides platessoides,
+FALSE,127139,Limanda limanda,
+FALSE,127140,Microstomus kitt,
+FALSE,127143,Pleuronectes platessa,
+FALSE,127147,Phrynorhombus norvegicus,
+FALSE,127153,Buglossidium luteum,
+FALSE,127160,Solea solea,
+FALSE,127190,Agonus cataphractus,
+FALSE,127201,Micrenophrys lilljeborgii,
+FALSE,127203,Myoxocephalus scorpius,
+FALSE,127204,Taurulus bubalis,
+FALSE,127219,Liparis liparis,
+FALSE,127220,Liparis montagui,
+FALSE,127379,Entelurus aequoreus,
+FALSE,127482,Halocyprididae,
+FALSE,127778,Conchoecissa imbricata,
+FALSE,127782,Discoconchoecia elegans,
+FALSE,127820,Mikroconchoecia curta,
+FALSE,128545,Phoronis,
+FALSE,128549,Phoronis muelleri,
+FALSE,128567,Clausidiidae,
+FALSE,128569,Corycaeidae,
+FALSE,128586,Oncaeidae C1-6,
+FALSE,128634,Corycaeus,
+FALSE,128639,Urocorycaeus,
+FALSE,128672,Lubbockia,
+FALSE,128690,Oncaea,
+FALSE,128721,Copilia spp.,
+FALSE,128722,Sapphirina,
+FALSE,128775,Giardella callianassae,
+FALSE,128776,Giardella thompsoni,
+FALSE,128795,Agetus flaccus,
+FALSE,128797,Agetus typicus,
+FALSE,128800,Corycaeus speciosus,
+FALSE,128805,Ditrichocorycaeus anglicus,
+FALSE,128806,Ditrichocorycaeus brehmi,
+FALSE,128818,Onychocorycaeus latus,
+FALSE,128819,Onychocorycaeus ovalis,
+FALSE,128821,Urocorycaeus furcifer,
+FALSE,128929,Oncaea curta,
+FALSE,128938,Oncaea media,
+FALSE,128939,Oncaea mediterranea,
+FALSE,128954,Oncaea venusta,
+FALSE,128957,Triconia conifera,
+FALSE,129041,Sapphirina angusta,
+FALSE,129046,Sapphirina gemma,
+FALSE,129049,Sapphirina iris,
+FALSE,129062,Vettoria granulosa,
+FALSE,129341,Magelona,
+FALSE,129370,Nephtys,
+FALSE,129427,Owenia,
+FALSE,129437,Pectinaria,
+FALSE,129455,Phyllodoce,
+FALSE,129471,Poecilochaetus,
+FALSE,129472,Polygordius,
+FALSE,129491,Harmothoe,
+FALSE,129520,Sabellaria,
+FALSE,129619,Polydora,
+FALSE,129646,Autolytus,
+FALSE,129659,Myrianida,
+FALSE,129697,Lanice,
+FALSE,129715,Tomopteris,
+FALSE,130355,Nephtys caeca,
+FALSE,130544,Owenia fusiformis,
+FALSE,131187,Spiophanes bombyx,
+FALSE,131554,Tomopteris helgolandica,
+FALSE,131568,Tomopteris septentrionalis,
+FALSE,134524,Nephroselmis,Chlorophyte
+FALSE,134526,Tetraselmis,Chlorophyte
+FALSE,134527,Cymbomonas,Chlorophyte
+FALSE,134528,Halosphaera,Chlorophyte
+FALSE,134529,Pyramimonas,Chlorophyte
+FALSE,134530,Dolichomastix,Chlorophyte
+FALSE,134531,Mamiella,Chlorophyte
+FALSE,134533,Micromonas,Chlorophyte
+FALSE,134534,Pseudoscourfieldia,Chlorophyte
+FALSE,134535,Scourfieldia,Chlorophyte
+FALSE,134541,Nephroselmis pyriformis,Chlorophyte
+FALSE,134542,Nephroselmis rotunda,Chlorophyte
+FALSE,134545,Cymbomonas tetramitiformis,Chlorophyte
+FALSE,134546,Halosphaera viridis,Chlorophyte
+FALSE,134550,Pyramimonas (Trichocystis) grossii,Chlorophyte
+FALSE,134559,Pyramimonas virginica,Chlorophyte
+FALSE,134562,Mamiella gilva,Chlorophyte
+FALSE,134563,Mantoniella squamata,
+FALSE,134564,Micromonas pusilla,Chlorophyte
+FALSE,134566,Pseudoscourfieldia marina,Chlorophyte
+FALSE,134798,Peltogaster paguri,
+FALSE,134941,Keratella,
+FALSE,134958,Synchaeta,
+FALSE,134992,Keratella quadrata,
+FALSE,135220,Scyphozoa,
+FALSE,135259,Cyanea,
+FALSE,135263,Aurelia spp. ephyra,
+FALSE,135301,Cyanea capillata,
+FALSE,135302,Cyanea lamarckii,
+FALSE,135305,Pelagia noctiluca,
+FALSE,135306,Aurelia aurita,
+FALSE,135335,Physonectae,
+FALSE,135338,Diphyidae,
+FALSE,135344,Agalmatidae,
+FALSE,135366,Muggiaea,
+FALSE,135441,Muggiaea atlantica,
+FALSE,135444,Muggiaea kochii,
+FALSE,135484,Agalma elegans,
+FALSE,135496,Nanomia cara,
+FALSE,135513,Caligidae C1-6,
+FALSE,135566,Caligus C1-6,
+FALSE,136137,Squilla mantis,
+FALSE,136761,Difflugia,
+FALSE,136903,Paulinella ovalis,Cercozoa
+FALSE,137212,Doliolida,
+FALSE,137215,Doliolidae,
+FALSE,137217,Salpidae,
+FALSE,137222,Doliolum,
+FALSE,137247,Doliolum nationalis,
+FALSE,137272,Salpa fusiformis,
+FALSE,137294,Protaspis glans,Cercozoa
+FALSE,137751,Clio,
+FALSE,137793,Clione,
+FALSE,138101,Lamellaria spp. larva,
+FALSE,138122,Limacina,
+FALSE,138327,Peracle,
+FALSE,138366,Pneumodermopsis,
+FALSE,139178,Clione limacina,
+FALSE,140227,Limacina retroversa,
+FALSE,140266,Melarhaphe neritoides,
+FALSE,140600,Eledone cirrhosa,
+FALSE,140825,Pneumodermopsis ciliata,
+FALSE,140826,Pneumodermopsis paucidens,
+FALSE,142062,Leptoplanidae,
+FALSE,142209,Alaurina,
+FALSE,142785,Alaurina composita,
+FALSE,143790,Ulotrichaceae,Chlorophyte
+FALSE,143798,Volvocaceae,Chlorophyte
+FALSE,143943,Uronema,
+FALSE,144202,Microspora,Chlorophyte
+FALSE,144302,Tribonema,Xanthophyte
+FALSE,146142,Cyphonautes,
+FALSE,146182,Rhynchobodo,
+FALSE,146192,Chrysomonada,
+FALSE,146203,Dinoflagellata,Dinoflagellate
+FALSE,146208,Ebriaceae,
+FALSE,146221,Discomitochondria,
+FALSE,146222,Flagellates,Protozoa
+FALSE,146230,Chrysophyceae,Chrysophyte
+FALSE,146232,Dictyochophyceae,Silicoflagellate
+FALSE,146419,Vertebrata,
+FALSE,146420,Tunicata,
+FALSE,146421,Appendicularia,
+FALSE,146537,Cyanobacteria,Cyanobacteria
+FALSE,146538,Lyngbya,Cyanobacteria
+FALSE,146541,Spirulina,Cyanobacteria
+FALSE,146542,Cyanophyceae,Cyanobacteria
+FALSE,146543,Chroococcales,Cyanobacteria
+FALSE,146545,Merismopedia,Cyanobacteria
+FALSE,146546,Merismopedia warmingiana,Cyanobacteria
+FALSE,146549,Oscillatoria,Cyanobacteria
+FALSE,146551,Planktothrix,Cyanobacteria
+FALSE,146552,Planktothrix agardhii,Cyanobacteria
+FALSE,146554,Oscillatoria limosa,Cyanobacteria
+FALSE,146557,Microcystis,Cyanobacteria
+FALSE,146558,Microcystis aeruginosa,Cyanobacteria
+FALSE,146560,Microcystis flos-aquae,Cyanobacteria
+FALSE,146562,Aphanocapsa,Cyanobacteria
+FALSE,146563,Aphanocapsa delicatissima,Cyanobacteria
+FALSE,146565,Chroococcus,Cyanobacteria
+FALSE,146568,Chroococcus limneticus,Cyanobacteria
+FALSE,146570,Gomphosphaeria,Cyanobacteria
+FALSE,146573,Coelosphaerium,Cyanobacteria
+FALSE,146576,Merismopedia tenuissima,Cyanobacteria
+FALSE,146577,Merismopedia punctata,Cyanobacteria
+FALSE,146578,Merismopedia glauca,Cyanobacteria
+FALSE,146585,Anabaena,Cyanobacteria
+FALSE,146590,Anabaenopsis,Cyanobacteria
+FALSE,146602,Gloeocapsa,Cyanobacteria
+FALSE,146603,Oscillatoriales,Cyanobacteria
+FALSE,146606,Pseudanabaenaceae,Cyanobacteria
+FALSE,146617,Woronichinia,Cyanobacteria
+FALSE,146618,Woronichinia naegeliana,Cyanobacteria
+FALSE,146619,Coelosphaerium minutissimum,Cyanobacteria
+FALSE,146624,Calothrix,Cyanobacteria
+FALSE,146644,Snowella,
+FALSE,146645,Snowella lacustris,Cyanobacteria
+FALSE,146677,Planktolyngbya,Cyanobacteria
+FALSE,146715,Aphanothece,Cyanobacteria
+FALSE,147082,Parathemisto,
+FALSE,148370,Daphnia,
+FALSE,148378,Phoronidae,
+FALSE,148898,Bacillariophyta,Diatom
+FALSE,148899,Bacillariophyceae,Diatom
+TRUE,148899,Bacillariophyceae,Diatom
+TRUE,148899,Bacillariophyceae,Diatom
+FALSE,148900,Coscinodiscophyceae,Diatom
+FALSE,148902,Bacillariophycidae,Diatom
+FALSE,148903,Thalassiosirales,Diatom
+FALSE,148904,Thalassiosiraceae,Diatom
+FALSE,148905,Cyclotella,Diatom
+FALSE,148906,Cyclotella scaldensis,Diatom
+FALSE,148907,Cyclotella atomus,Diatom
+FALSE,148908,Cyclotella choctawhatcheeana,Diatom
+FALSE,148909,Cyclotella meneghiniana,Diatom
+FALSE,148911,Cyclotella striata,Diatom
+FALSE,148912,Thalassiosira,Diatom
+TRUE,148912,Thalassiosira,Diatom
+TRUE,148912,Thalassiosira,Diatom
+FALSE,148913,Thalassiosira angulata,Diatom
+FALSE,148914,Thalassiosira anguste-lineata,Diatom
+FALSE,148915,Coscinodiscales,Dinoflagellate
+FALSE,148916,Coscinodiscaceae,Diatom
+FALSE,148917,Coscinodiscus,Diatom
+TRUE,148917,Coscinodiscus,Diatom
+TRUE,148917,Coscinodiscus,Diatom
+FALSE,148919,Thalassiosira decipiens,Diatom
+FALSE,148922,Thalassiosira eccentrica,Diatom
+FALSE,148923,Thalassiosira hendeyi,Diatom
+FALSE,148925,Thalassiosira minima,Diatom
+FALSE,148929,Thalassiosira nodulolineata,Diatom
+FALSE,148931,Thalassiosira nordenskioeldii,Diatom
+FALSE,148932,Thalassiosira pacifica,Diatom
+FALSE,148933,Thalassiosira proschkinae,Diatom
+FALSE,148934,Thalassiosira pseudonana,Diatom
+FALSE,148936,Thalassiosira punctigera,Diatom
+FALSE,148937,Thalassiosira angstii,Diatom
+FALSE,148941,Ethmodiscus punctiger,Diatom
+FALSE,148942,Thalassiosira rotula,Diatom
+FALSE,148943,Hemidiscaceae,Diatom
+FALSE,148944,Actinocyclus,Diatom
+FALSE,148945,Actinocyclus normanii,Diatom
+FALSE,148946,Heliopeltaceae,Diatom
+FALSE,148947,Actinoptychus,Diatom
+FALSE,148948,Actinoptychus senarius,Diatom
+FALSE,148949,Actinoptychus splendens,Diatom
+FALSE,148952,Fragilariaceae,Diatom
+FALSE,148953,Asterionella,Diatom
+FALSE,148954,Asterionella formosa,Diatom
+FALSE,148955,Asterionella glacialis,Diatom
+FALSE,148956,Asterionella kariana,Diatom
+FALSE,148959,Aulacoseira,Diatom
+FALSE,148960,Aulacoseira ambigua,Diatom
+FALSE,148961,Aulacoseira granulata,Diatom
+FALSE,148963,Odontella,Diatom
+FALSE,148965,Biddulphiales,Diatom
+FALSE,148966,Biddulphiaceae,Diatom
+FALSE,148967,Biddulphia,Diatom
+FALSE,148969,Biddulphia sinensis,Diatom
+TRUE,148969,Trieres sinensis,Diatom
+FALSE,148971,Coscinodiscophycidae,Diatom
+FALSE,148980,Porosira,Diatom
+FALSE,148981,Minidiscus,Diatom
+FALSE,148984,Chaetocerotaceae,Diatom
+FALSE,148985,Chaetoceros,Diatom
+TRUE,148985,Chaetoceros,Diatom
+TRUE,148985,Chaetoceros,Diatom
+FALSE,148986,Chaetoceros mitra,Diatom
+FALSE,148989,Cocconeis,Diatom
+FALSE,148990,Cocconeis placentula,Diatom
+FALSE,148991,Coscinodiscus commutatus,Diatom
+FALSE,148992,Coscinodiscus concinnus,Diatom
+FALSE,148994,Stephanodiscaceae,Diatom
+FALSE,148996,Cyclostephanos dubius,Diatom
+FALSE,148998,Cyclotella cryptica,Diatom
+FALSE,149000,Cyclotella radiosa,Diatom
+FALSE,149001,Bacillariales,Diatom
+TRUE,149001,Bacillariales,Diatom
+TRUE,149001,Bacillariales,Diatom
+FALSE,149002,Bacillariaceae,Diatom
+FALSE,149003,Cylindrotheca,Diatom
+FALSE,149004,Cylindrotheca closterium,Diatom
+FALSE,149006,Surirellaceae,Diatom
+FALSE,149007,Cymatopleura,Diatom
+FALSE,149008,Cymatopleura solea,Diatom
+FALSE,149009,Cymatosirales,Diatom
+FALSE,149010,Cymatosiraceae,Diatom
+FALSE,149011,Cymatosira,Diatom
+FALSE,149012,Cymatosira belgica,Diatom
+FALSE,149013,Diatoma,Diatom
+FALSE,149014,Diatoma tenuis,Diatom
+FALSE,149015,Naviculales,Diatom
+FALSE,149018,Diploneis,Diatom
+FALSE,149019,Diploneis interrupta,Diatom
+FALSE,149021,Lithodesmiaceae,Diatom
+FALSE,149022,Ditylum,Diatom
+FALSE,149023,Ditylum brightwellii,Diatom
+FALSE,149027,Epithemia turgida,Diatom
+FALSE,149028,Fragilaria,Diatom
+FALSE,149031,Naviculaceae,Diatom
+FALSE,149032,Pleurosigmataceae,Diatom
+FALSE,149033,Gyrosigma,Diatom
+FALSE,149034,Gyrosigma arcticum,Diatom
+FALSE,149035,Gyrosigma acuminatum,Diatom
+FALSE,149037,Leptocylindraceae,Diatom
+FALSE,149038,Leptocylindrus,Diatom
+FALSE,149039,Leptocylindrus minimus,Diatom
+FALSE,149041,Melosiraceae,Diatom
+FALSE,149042,Melosira,Diatom
+FALSE,149043,Melosira varians,Diatom
+FALSE,149044,Melosira nummuloides,Diatom
+FALSE,149045,Nitzschia,Diatom
+TRUE,149045,Nitzschia,Diatom
+TRUE,149045,Nitzschia,Diatom
+FALSE,149046,Nitzschia acicularis,Diatom
+FALSE,149048,Triceratiales,Diatom
+FALSE,149049,Triceratiaceae,Dinoflagellate
+FALSE,149050,Odontella aurita,Diatom
+FALSE,149051,Odontella rostrata,Diatom
+FALSE,149054,Paralia,Diatom
+FALSE,149055,Paralia sulcata,Diatom
+FALSE,149056,Plagiogrammopsis,Diatom
+FALSE,149057,Plagiogrammopsis vanheurckii,Diatom
+FALSE,149058,Hyalodiscaceae,Diatom
+FALSE,149059,Podosira,Diatom
+FALSE,149060,Podosira stelligera,Diatom
+FALSE,149061,Hyalodiscus,Diatom
+FALSE,149065,Raphoneis,Diatom
+FALSE,149066,Rhaphoneis amphiceros,Diatom
+FALSE,149068,Rhizosoleniaceae,Diatom
+FALSE,149069,Rhizosolenia,Diatom
+TRUE,149069,Rhizosolenia,Diatom
+TRUE,149069,Rhizosolenia,Diatom
+FALSE,149070,Rhizosolenia hebetata,Diatom
+FALSE,149071,Rhizosolenia hebetata f. semispina,Diatom
+FALSE,149073,Skeletonema,Diatom
+FALSE,149074,Skeletonema costatum,Diatom
+FALSE,149075,Skeletonema subsalsum,Diatom
+FALSE,149077,Stauroneis,Diatom
+FALSE,149078,Stauroneis phoenicenteron,Diatom
+FALSE,149079,Stephanodiscus,Diatom
+FALSE,149080,Stephanodiscus hantzschii,Diatom
+FALSE,149081,Stephanodiscus medius,Diatom
+FALSE,149082,Stephanodiscus niagarae,Diatom
+FALSE,149083,Stephanodiscus parvus,Diatom
+FALSE,149084,Surirella,Diatom
+FALSE,149085,Surirella crumena,Diatom
+FALSE,149087,Surirella ovalis,Diatom
+FALSE,149089,Thalassiocyclus lucens,Diatom
+FALSE,149091,Thalassionemataceae,Diatom
+FALSE,149092,Thalassionema,Diatom
+FALSE,149093,Thalassionema nitzschioides,Diatom
+FALSE,149094,Odontella regia,Diatom
+FALSE,149095,Odontella sinensis,Diatom
+FALSE,149096,Aulacoseira distans,Diatom
+FALSE,149099,Thalassiosira antarctica,Diatom
+FALSE,149100,Thalassiosira hyalina,Diatom
+FALSE,149101,Thalassiosira subtilis,Diatom
+FALSE,149102,Thalassiosira gravida,Diatom
+TRUE,149102,Thalassiosira gravida,Diatom
+TRUE,149102,Thalassiosira gravida,Diatom
+FALSE,149104,Roperia,Diatom
+FALSE,149105,Roperia tesselata,Diatom
+FALSE,149106,Leptocylindrus danicus,Diatom
+FALSE,149109,Corethron,Diatom
+FALSE,149110,Corythron criophilum,Dinoflagellate
+FALSE,149111,Guinardia,Diatom
+FALSE,149112,Guinardia delicatula,Diatom
+FALSE,149113,Guinardia striata,Diatom
+FALSE,149114,Rhizosolenia delicatula,Diatom
+FALSE,149115,Rhizosolenia setigera,Diatom
+TRUE,149115,Rhizosolenia setigera,Diatom
+TRUE,149115,Rhizosolenia setigera,Diatom
+FALSE,149116,Rhizosolenia imbricata,Diatom
+FALSE,149117,Rhizosolenia pungens,Diatom
+FALSE,149118,Bacteriastrum,Diatom
+FALSE,149119,Bacteriastrum hyalinum,Diatom
+FALSE,149120,Chaetoceros danicus,Diatom
+FALSE,149121,Chaetoceros densus,Diatom
+FALSE,149122,Chaetoceros didymus,Diatom
+FALSE,149123,Chaetoceros socialis,Diatom
+FALSE,149124,Chaetoceros borealis,Diatom
+FALSE,149125,Chaetoceros teres,Diatom
+FALSE,149126,Chaetoceros decipiens,Diatom
+FALSE,149127,Chaetoceros similis,Diatom
+FALSE,149128,Chaetoceros diadema,Diatom
+FALSE,149129,Chaetoceros compressus,Diatom
+FALSE,149130,Eucampia,Diatom
+FALSE,149131,Eucampia zodiacus,Diatom
+FALSE,149132,Guinardia flaccida,Diatom
+FALSE,149134,Lauderia,Diatom
+FALSE,149135,Lauderia annulata,Diatom
+FALSE,149136,Brockmanniella,Diatom
+FALSE,149137,Brockmanniella brockmannii,Diatom
+FALSE,149138,Asterionellopsis,Diatom
+FALSE,149139,Asterionellopsis glacialis,Diatom
+FALSE,149140,Amphiprora,Diatom
+FALSE,149142,Navicula,Diatom
+TRUE,149142,Navicula,Diatom
+TRUE,149142,Navicula,Diatom
+FALSE,149143,Navicula distans,Diatom
+FALSE,149144,Meuniera,Diatom
+FALSE,149145,Meuniera membranacea,Diatom
+FALSE,149146,Trachyneis,Diatom
+FALSE,149147,Trachyneis aspera,Diatom
+FALSE,149148,Bacillaria,Diatom
+FALSE,149149,Bacillaria paxillifer,Diatom
+FALSE,149150,Nitzschia longissima,Diatom
+FALSE,149151,Pseudo-nitzschia,Diatom
+FALSE,149152,Pseudo-nitzschia seriata,Diatom
+FALSE,149153,Pseudo-nitzschia delicatissima,Diatom
+FALSE,149154,Triceratium,Diatom
+FALSE,149156,Odontella granulata,Diatom
+FALSE,149157,Odontella rhombus,Diatom
+FALSE,149158,Coscinodiscus radiatus,Diatom
+FALSE,149159,Coscinodiscus centralis,Diatom
+FALSE,149163,Actinoptychus octonarius,Diatom
+FALSE,149164,Actinocyclus octonarius,Diatom
+FALSE,149165,Rhizosolenia shrubsolei,Diatom
+FALSE,149167,Proboscia,Diatom
+FALSE,149168,Proboscia alata,Diatom
+TRUE,149168,Proboscia alata,Diatom
+TRUE,149168,Proboscia alata,Diatom
+FALSE,149170,Triceratium favus,Diatom
+FALSE,149171,Chaetoceros crinitus,Diatom
+FALSE,149173,Chaetoceros fragilis,Diatom
+FALSE,149176,Striatella,Diatom
+FALSE,149177,Striatella unipunctata,Diatom
+FALSE,149179,Delphineis,Diatom
+FALSE,149180,Delphineis surirella,Diatom
+FALSE,149181,Pleurosigma,Diatom
+FALSE,149182,Pleurosigma normanii,Diatom
+FALSE,149183,Pleurosigma angulatum,Diatom
+FALSE,149185,Pleurosigma naviculaceum,Diatom
+FALSE,149186,Synedra,Diatom
+FALSE,149187,Synedra ulna,Diatom
+FALSE,149190,Achnanthaceae,Diatom
+FALSE,149191,Achnanthes,Diatom
+FALSE,149194,Diploneis bombus,Diatom
+FALSE,149195,Diploneis didyma,Diatom
+FALSE,149200,Amphora,Diatom
+FALSE,149204,Navicula tripunctata,Diatom
+FALSE,149208,Pinnularia,Diatom
+FALSE,149210,Haslea,Diatom
+FALSE,149211,Haslea ostrearia,Diatom
+FALSE,149213,Nitzschia sigma,Diatom
+FALSE,149214,Nitzschia tryblionella,Diatom
+FALSE,149216,Psammodictyon,Diatom
+FALSE,149217,Psammodictyon panduriforme,Diatom
+FALSE,149219,Chaetoceros debilis,Diatom
+FALSE,149220,Asterionella japonica,Diatom
+FALSE,149221,Chaetoceros curvisetus,Diatom
+FALSE,149222,Chaetoceros pseudocrinitus,Diatom
+FALSE,149223,Rhizosolenia alata,Diatom
+FALSE,149224,Rhizosolenia stolterfothii,Diatom
+FALSE,149228,Chaetoceros laciniosus,Diatom
+FALSE,149230,Leptocylindrus mediterraneus,Diatom
+FALSE,149232,Navicula membranacea,Diatom
+FALSE,149233,Lauderia borealis,Diatom
+FALSE,149234,Hemiaulales,Diatom
+FALSE,149236,Cerataulina,Diatom
+FALSE,149239,Fragilaria islandica,Diatom
+FALSE,149241,Chaetoceros affinis,Diatom
+FALSE,149243,Melosira dubia,Diatom
+FALSE,149249,Melosira italica,Diatom
+FALSE,149256,Thalassiosira nana,Diatom
+FALSE,149271,Coscinodiscus granii,Diatom
+FALSE,149274,Coscinodiscus asteromphalus,Diatom
+FALSE,149279,Aulacodiscus,Diatom
+FALSE,149280,Aulacodiscus argus,Diatom
+FALSE,149281,Auliscus,Diatom
+FALSE,149282,Auliscus caelatus,Diatom
+FALSE,149285,Detonula,Diatom
+FALSE,149286,Detonula confervacea,Diatom
+FALSE,149288,Chaetoceros atlanticus,Diatom
+FALSE,149289,Chaetoceros costatus,Diatom
+FALSE,149291,Chaetoceros brevis,Diatom
+FALSE,149292,Chaetoceros anastomosans,Diatom
+FALSE,149293,Chaetoceros radians,Diatom
+FALSE,149294,Chaetoceros simplex,Diatom
+FALSE,149297,Chaetoceros ceratosporus,Diatom
+FALSE,149299,Chaetoceros armatus,Diatom
+FALSE,149305,Bellerochea,Diatom
+FALSE,149306,Bellerochea malleus,Diatom
+FALSE,149307,Coscinodiscus pavillardii,Diatom
+FALSE,149308,Thalassiosira levanderi,Diatom
+FALSE,149309,Dactyliosolen,Diatom
+FALSE,149310,Dactyliosolen fragilissimus,Diatom
+FALSE,149311,Rhizosolenia robusta,Diatom
+FALSE,149313,Fragilariopsis,Diatom
+FALSE,149314,Plagiogramma,Diatom
+FALSE,149317,Bacillaria paradoxa,Diatom
+FALSE,149320,Navicula transitans,Diatom
+FALSE,149321,Lithodesmium,Diatom
+FALSE,149322,Lithodesmium undulatum,Diatom
+FALSE,149324,Biddulphia rhombus,Diatom
+FALSE,149325,Biddulphia rhombus subsp. trigona,Diatom
+FALSE,149328,Cerataulus,Diatom
+FALSE,149333,Tabellaria,Diatom
+FALSE,149334,Tabellaria fenestrata,Diatom
+FALSE,149335,Grammatophora,Diatom
+FALSE,149336,Grammatophora angulosa,Diatom
+FALSE,149338,Grammatophora marina,Diatom
+FALSE,149339,Grammatophora oceanica,Diatom
+FALSE,149340,Grammatophora serpentina,Diatom
+FALSE,149342,Licmophora,Diatom
+FALSE,149343,Licmophora gracilis,Diatom
+FALSE,149345,Meridion,Diatom
+FALSE,149346,Meridion circulare,Diatom
+FALSE,149347,Diatoma vulgare,Diatom
+FALSE,149352,Plagiogramma vanheurckii,Diatom
+FALSE,149356,Campylosira,Diatom
+FALSE,149357,Campylosira cymbelliformis,Diatom
+FALSE,149360,Fragilaria crotonensis,Diatom
+FALSE,149374,Asterionella gracillima,Diatom
+FALSE,149376,Cocconeis scutellum,Diatom
+FALSE,149377,Cocconeis pediculus,Diatom
+FALSE,149387,Achnanthes brevipes,Diatom
+FALSE,149391,Rhoicosphenia,Diatom
+FALSE,149396,Diploneis crabro,Diatom
+FALSE,149404,Diploneis littoralis,Diatom
+FALSE,149467,Navicula directa,Diatom
+FALSE,149488,Caloneis,Diatom
+FALSE,149493,Gyrosigma balticum,Diatom
+FALSE,149494,Gyrosigma fasciola,Diatom
+FALSE,149503,Pleurosigma elongatum,Diatom
+FALSE,149506,Pleurosigma aestuarii,Diatom
+FALSE,149510,Donkinia,Diatom
+FALSE,149512,Toxonidea,Diatom
+FALSE,149513,Toxonidea insignis,Diatom
+FALSE,149515,Plagiotropidaceae,Diatom
+FALSE,149516,Plagiotropis,Diatom
+FALSE,149517,Plagiotropis lepidoptera,Diatom
+FALSE,149518,Tropidoneis,Diatom
+FALSE,149524,Amphora ovalis,Diatom
+FALSE,149537,Cymbellaceae,Diatom
+FALSE,149538,Cymbella,Diatom
+FALSE,149552,Gomphonemataceae,Diatom
+FALSE,149553,Gomphonema,Diatom
+FALSE,149570,Cylindrotheca gracilis,Diatom
+FALSE,149571,Hantzschia,Diatom
+FALSE,149587,Nitzschia bilobata,Diatom
+FALSE,149602,Nitzschia fruticosa,Diatom
+FALSE,149604,Nitzschia sigmoidea,Diatom
+FALSE,149611,Surirella biseriata,Diatom
+FALSE,149615,Surirella fastuosa,Diatom
+FALSE,149616,Campylodiscus,Diatom
+FALSE,149618,Asterionellopsis kariana,Diatom
+FALSE,149619,Cerataulina pelagica,Diatom
+FALSE,149622,Chaetoceros cinctus,Diatom
+FALSE,149623,Chaetoceros contortus,Diatom
+FALSE,149624,Chaetoceros furcellatus,Diatom
+FALSE,149629,Rhizosolenia styliformis,Diatom
+FALSE,149630,Stephanopyxis,Diatom
+FALSE,149631,Stephanopyxis turris,Diatom
+FALSE,149647,Detonula pumila,Diatom
+FALSE,149648,Aulacoseira islandica,Diatom
+FALSE,149651,Azpeitia nodulifera,Diatom
+FALSE,149653,Stellarima stellaris,
+FALSE,149654,Actinocyclus octonarius var. ralfsii,Diatom
+FALSE,149655,Biddulphia alternans,Diatom
+FALSE,149659,Entomoneidaceae,Diatom
+FALSE,149662,Odontella obtusa,Diatom
+FALSE,149668,Mysida,
+FALSE,149669,Lophogastrida,
+FALSE,149711,Pseudocalanus minutus elongatus,
+FALSE,149718,Eucalanus elongatus,
+FALSE,149720,Eucalanus crassus,
+FALSE,149755,Acartia clausi,
+FALSE,149782,Cyclops,
+FALSE,149847,Corycaeus anglicus,
+FALSE,150305,Facetotecta,
+FALSE,150630,Echiichthys vipera,
+FALSE,150637,Eutrigla gurnardus,
+FALSE,151860,Coryne eximia,
+FALSE,152192,Phialidium hemisphaericum,
+FALSE,152195,Hydroida,
+FALSE,152230,Coelenterata,
+FALSE,152352,Osteichthyes,
+FALSE,152391,Nemertea,
+FALSE,154102,Sagitta elegans elegans,
+FALSE,154107,Sagitta setosa,
+FALSE,154473,Psetta maxima,
+FALSE,154675,Lumpenus lampretaeformis,
+FALSE,155554,Cryptomonas ovata,Cryptophyte
+FALSE,155555,Cryptomonas erosa,Cryptophyte
+FALSE,155560,Diplopsalopsis bomba,Dinoflagellate
+FALSE,155879,Podoplea,
+FALSE,156505,Phalacroma rotundatum,Dinoflagellate
+FALSE,156509,Ceratium arcticum,Dinoflagellate
+FALSE,156511,Ceratium hirundinella,Dinoflagellate
+FALSE,156533,Achnanthes longipes,Diatom
+FALSE,156548,Pseudo-nitzschia pseudodelicatissima,Diatom
+FALSE,156568,Pinnularia distans,Diatom
+FALSE,156580,Pleurosigma formosum,Diatom
+FALSE,156586,Pleurosigma strigosum,Diatom
+FALSE,156598,Entomoneis,Diatom
+FALSE,156607,Chaetoceros concavicornis,Diatom
+FALSE,156609,Chaetoceros constrictus,Diatom
+FALSE,156611,Chaetoceros convolutus,Diatom
+FALSE,156613,Chaetoceros ingolfianus,Diatom
+FALSE,156615,Chaetoceros karianus,Diatom
+FALSE,156617,Chaetoceros lorenzianus,Diatom
+FALSE,156619,Chaetoceros perpusillus,Diatom
+FALSE,156621,Chaetoceros subtilis,Diatom
+FALSE,156623,Chaetoceros tenuissimus,Diatom
+FALSE,156625,Chaetoceros willei,Diatom
+FALSE,156632,Coscinodiscus wailesii,Diatom
+FALSE,156636,Melosira lineata,Diatom
+FALSE,156641,Paralia marina,Diatom
+FALSE,156689,Porosira glacialis,Diatom
+FALSE,156690,Thalassiosira baltica,Diatom
+FALSE,156691,Thalassiosira oestrupii,Diatom
+FALSE,156692,Nodularia,Cyanobacteria
+FALSE,156946,Frustulia,Diatom
+FALSE,157052,Mastogloia,Diatom
+FALSE,157059,Tabularia,Diatom
+FALSE,157061,Tabularia fasciculata,Diatom
+FALSE,157062,Licmophora abbreviata,Diatom
+FALSE,157069,Gyrosigma tenuissimum,Diatom
+FALSE,157072,Rhabdonema,Diatom
+FALSE,157074,Rhabdonema adriaticum,Diatom
+FALSE,157076,Rhabdonema arcuatum,Diatom
+FALSE,157080,Tabellaria flocculosa,Diatom
+FALSE,157081,Thalassiothrix,Diatom
+FALSE,157083,Thalassiothrix longissima,Diatom
+FALSE,157240,Dinobryon,Chrysophyte
+FALSE,157242,Dinobryon bavaricum,Chrysophyte
+FALSE,157246,Dinobryon cylindricum,Chrysophyte
+FALSE,157248,Dinobryon divergens,Chrysophyte
+FALSE,157252,Dinobryon sertularia,Chrysophyte
+FALSE,157254,Dinobryon sociale,Chrysophyte
+FALSE,157256,Dictyochales,Silicoflagellate
+FALSE,157257,Dictyochaceae,Silicoflagellate
+FALSE,157258,Dictyocha,Silicoflagellate
+FALSE,157260,Dictyocha speculum,Silicoflagellate
+FALSE,157428,Entomoneis alata,Diatom
+FALSE,157430,Eucampia groenlandica,Diatom
+FALSE,157431,Chaetoceros diversus,Diatom
+FALSE,157438,Helicotheca,Diatom
+FALSE,157440,Helicotheca tamesis,Diatom
+FALSE,157458,Fragilaria striatula,Diatom
+FALSE,157463,Dictyocha fibula,Silicoflagellate
+FALSE,157670,Eurytemora herdmani,
+FALSE,157675,Microcalanus pusillus,
+FALSE,157680,Pseudodiaptomus,
+FALSE,157684,Tortanus discaudatus,
+FALSE,159919,Podon polyphemoides,
+FALSE,160092,Diatoma tenue,Diatom
+FALSE,160093,Diatoma tenue var. elongatus,Diatom
+FALSE,160513,Pyramimonas longicauda,Chlorophyte
+FALSE,160519,Attheya,Diatom
+FALSE,160520,Attheya decora,Diatom
+FALSE,160521,Chaetoceros eibenii,Diatom
+FALSE,160522,Chaetoceros externus,Diatom
+FALSE,160523,Chaetoceros lauderi,Diatom
+FALSE,160524,Chaetoceros wighamii,Diatom
+FALSE,160527,Eunotogramma,Diatom
+FALSE,160528,Pseudo-nitzschia pungens,Diatom
+FALSE,160530,Rhizosolenia flaccida,Diatom
+FALSE,160531,Rhizosolenia similoides,Diatom
+FALSE,160537,Melosira arctica,Diatom
+FALSE,160538,Phaeocystis globosa,Haptophyte
+FALSE,160541,Scenedesmaceae,Chlorophyte
+FALSE,160542,Actinastrum,Chlorophyte
+FALSE,160543,Actinastrum hantzschii,Chlorophyte
+FALSE,160549,Calycomonas wulffii,Chrysophyte
+FALSE,160550,Coelastrum,Chlorophyte
+FALSE,160551,Coelastrum astroideum,Chlorophyte
+FALSE,160552,Dinobryon balticum,Chrysophyte
+FALSE,160553,Dinobryon faculiferum,Chrysophyte
+FALSE,160555,Distephanus speculum,Diatom
+FALSE,160556,Eutreptiella marina,Protozoa
+FALSE,160561,Pediastrum,Chlorophyte
+FALSE,160562,Pediastrum boryanum,Chlorophyte
+FALSE,160563,Prymnesium,Haptophyte
+FALSE,160564,Prymnesium parvum,Haptophyte
+FALSE,160566,Nodularia spumigena,Cyanobacteria
+FALSE,160567,Aphanizomenon,Cyanobacteria
+FALSE,160569,Coelomoron pusillum,Cyanobacteria
+FALSE,160572,Synechococcus,Cyanobacteria
+FALSE,160575,Chlorellaceae,Chlorophyte
+FALSE,160576,Chlorella,Chlorophyte
+FALSE,160577,Exuviaella,Dinoflagellate
+FALSE,160578,Prorocentrum cf. marinum,Dinoflagellate
+FALSE,160581,Raphidophyceae,Raphidophyte
+FALSE,160582,Chattonellales,Raphidophyte
+FALSE,160583,Chattonellaceae,Raphidophyte
+FALSE,160584,Heterosigma,Raphidophyte
+FALSE,160585,Heterosigma akashiwo,Raphidophyte
+FALSE,160588,Koliella,Chlorophyte
+FALSE,160590,Monoraphidium,Chlorophyte
+FALSE,160591,Monoraphidium contortum,Chlorophyte
+FALSE,160592,Monoraphidium convolutum,Chlorophyte
+FALSE,160594,Pachysphaera,Chlorophyte
+FALSE,160595,Pterosperma,Chlorophyte
+FALSE,160597,Pedinellales,Silicoflagellate
+FALSE,160599,Pseudopedinella,Silicoflagellate
+FALSE,160600,Pseudopedinella pyriformis,Silicoflagellate
+FALSE,160601,Pseudopedinella tricostata,Silicoflagellate
+FALSE,160602,Scenedesmus,Chlorophyte
+FALSE,160648,Actinocyclus octonarius var. crassus,Diatom
+FALSE,160651,Actinocyclus roperi,Diatom
+FALSE,160671,Amphiprora surirelloides,Diatom
+FALSE,162251,Asterolampraceae,Diatom
+FALSE,162254,Asteromphalus,Diatom
+FALSE,162255,Asteromphalus flabellatus,Diatom
+FALSE,162258,Asteromphalus heptactis,Diatom
+FALSE,162518,Corymbellus,Haptophyte
+FALSE,162519,Corymbellus aureus,Haptophyte
+FALSE,162544,Gymnodinium sanguineum,Dinoflagellate
+FALSE,162668,Aphanocapsa incerta,Cyanobacteria
+FALSE,162689,Aphanothece minutissima,Cyanobacteria
+FALSE,162706,Scenedesmus cf. denticulatus,Chlorophyte
+FALSE,162707,Scenedesmus opoliensis,Chlorophyte
+FALSE,162713,Chroococcus microscopicus,Cyanobacteria
+FALSE,162714,Chroococcus minimus,Cyanobacteria
+FALSE,162715,Planctonema,Chlorophyte
+FALSE,162716,Planctonema lauterbornii,Chlorophyte
+FALSE,162724,Desmidiaceae,Charophyte
+FALSE,162725,Closterium,Charophyte
+FALSE,162726,Closterium acutum,Charophyte
+FALSE,162728,Staurastrum,Charophyte
+FALSE,162740,Ollicola vangoorii,Chrysophyte
+FALSE,162749,Protoperidinium cerasus,Dinoflagellate
+FALSE,162770,Actinocyclus octonarius var. octonarius,Diatom
+FALSE,162793,Dinophysis rotundata,Dinoflagellate
+FALSE,162810,Actinocyclus senarius,Diatom
+FALSE,162823,Attheya septentrionalis,Diatom
+FALSE,162837,Aulacoseira alpigena,Diatom
+FALSE,162865,Aulacoseira granulata var. angustissima,Diatom
+FALSE,162877,Aulacoseira italica,Diatom
+FALSE,162903,Aulacoseira subarctica,Diatom
+FALSE,162927,Bacterosira bathyomphala,Diatom
+FALSE,162929,Scenedesmus armatus,Chlorophyte
+FALSE,162934,Tetrastrum,Chlorophyte
+FALSE,162935,Tetrastrum staurogeniaeforme,Chlorophyte
+FALSE,162952,Biddulphia biddulphiana,Diatom
+FALSE,162954,Odontella subaequa,Diatom
+FALSE,162969,Zygoceros,Diatom
+FALSE,162980,Cerataulus turgidus,Diatom
+FALSE,162998,Chaetoceros anastomosans var. externa,Diatom
+FALSE,163013,Chaetoceros calcitrans,Diatom
+FALSE,163016,Chaetoceros ceratosporus var. ceratosporus,Diatom
+FALSE,163019,Chaetoceros circinalis,Diatom
+FALSE,163026,Chaetoceros coronatus,Diatom
+FALSE,163030,Phaeoceros,Diatom
+FALSE,163042,Syndendrium diadema,Diatom
+FALSE,163047,Chaetoceros subsecundus,Diatom
+FALSE,163048,Chaetoceros didymus var. didymus,Diatom
+FALSE,163049,Chaetoceros didymus var. anglica,Diatom
+FALSE,163054,Chaetoceros didymus var. protuberans,Diatom
+FALSE,163055,Chaetoceros protuberans,Diatom
+FALSE,163056,Chaetoceros difficilis,Diatom
+FALSE,163057,Haptorida,Ciliate
+FALSE,163063,Chaetoceros holsaticus,Diatom
+FALSE,163067,Peritrichia,
+FALSE,163080,Chaetoceros impressus,Diatom
+FALSE,163089,Chaetoceros minimus,Diatom
+FALSE,163096,Imantonia rotunda,Haptophyte
+FALSE,163098,Chaetoceros muelleri,Diatom
+FALSE,163100,Monoraphidium komarkovae,Chlorophyte
+FALSE,163101,Monoraphidium minutum,Chlorophyte
+FALSE,163108,Kirchneriella,Chlorophyte
+FALSE,163109,Chaetoceros pseudobreve,Diatom
+FALSE,163110,Raphidocelis,Chlorophyte
+FALSE,163112,Chaetoceros radicans,Diatom
+FALSE,163118,Chaetoceros seiracanthus,Diatom
+FALSE,163124,Chaetoceros socialis f. socialis,Diatom
+FALSE,163126,Chaetoceros socialis f. radians,Diatom
+FALSE,163131,Chaetoceros subtilis var. subtilis,Diatom
+FALSE,163132,Chaetoceros subtilis var. abnormis,Diatom
+FALSE,163137,Chaetoceros throndsenii,Diatom
+FALSE,163150,Chaetoceros throndsenii var. throndsenii,Diatom
+FALSE,163161,Chaetoceros tortissimus,Diatom
+FALSE,163188,Eupodiscus jonesianus,Diatom
+FALSE,163197,Cyclotella hakanssoniae,Diatom
+FALSE,163224,Lauderia confervacea,Diatom
+FALSE,163226,Lauderia pumila,Diatom
+FALSE,163233,Dimeregramma,Diatom
+FALSE,163241,Guinardia cylindrus,Diatom
+FALSE,163242,Rhizosolenia cylindrus,Diatom
+FALSE,163243,Eucampia striata,Diatom
+FALSE,163246,Euglena viridis,
+FALSE,163247,Trachelomonas,
+FALSE,163248,Hemiaulus,Diatom
+FALSE,163249,Hemiaulus hauckii,Diatom
+FALSE,163250,Hemiaulus sinensis,Diatom
+FALSE,163257,Isthmia,Diatom
+FALSE,163259,Isthmia enervis,Diatom
+FALSE,163261,Lauderia mediterranea,Diatom
+FALSE,163288,Zygoceros rhombus,Diatom
+FALSE,163292,Odontella rhombus f. trigona,Diatom
+FALSE,163339,Phacus,
+FALSE,163342,Pseudosolenia,Diatom
+FALSE,163344,Pseudosolenia calcar-avis,Diatom
+FALSE,163346,Rhizosolenia calcar-avis,Diatom
+FALSE,163347,Rhizosolenia hebetata f. hebetata,Diatom
+FALSE,163348,Rhizosolenia semispina,Diatom
+FALSE,163354,Phacus pleuronectes,
+FALSE,163375,Phacus longicauda,
+FALSE,163388,Eupodiscus tesselatus,Diatom
+FALSE,163390,Skeletonema potamos,Diatom
+FALSE,163399,Euglena acus,
+FALSE,163401,Lepocinclis,
+FALSE,163403,Stephanodiscus binderanus,Diatom
+FALSE,163408,Lepocinclis ovum,
+FALSE,163412,Trachelomonas hispida,
+FALSE,163433,Stephanodiscus neoastraea,Diatom
+FALSE,163452,Scrippsiella faeroense,Dinoflagellate
+FALSE,163458,Euglena tripteris,
+FALSE,163466,Euglena proxima,
+FALSE,163474,Kephyrion,Chrysophyte
+FALSE,163478,Micractinium,Chlorophyte
+FALSE,163479,Micractinium pusillum,Chlorophyte
+FALSE,163489,Ankistrodesmus,Chlorophyte
+FALSE,163490,Ankistrodesmus falcatus,Chlorophyte
+FALSE,163494,Thalassiosira lacustris,Diatom
+FALSE,163513,Thalassiosira weissflogii,Diatom
+FALSE,163520,Urosolenia longiseta,Diatom
+FALSE,163573,Vorticella,
+FALSE,163624,Pauliella taeniata,Diatom
+FALSE,163647,Amphiprora paludosa var. paludosa,Diatom
+FALSE,163712,Synedra fulgens,Diatom
+FALSE,163728,Vibrio paxillifer,Diatom
+FALSE,163736,Bleakeleya notata,Diatom
+FALSE,163780,Tintinnopsis,
+FALSE,163782,Tintinnopsis beroidea,
+FALSE,163804,Tintinnopsis nana,
+FALSE,163810,Caloneis amphisbaena f. subsalina,Diatom
+FALSE,163816,Campylodiscus clypeus,Diatom
+FALSE,163839,Catenula adhaerens,Diatom
+FALSE,163858,Peridinium achromaticum,Dinoflagellate
+FALSE,163862,Protoperidinium claudicans,Dinoflagellate
+FALSE,163880,Cocconeis scutellum var. scutellum,Diatom
+FALSE,163913,Tintinnopsis campanula,
+FALSE,163922,Ctenophora pulchella,Diatom
+FALSE,163932,Ceratoneis closterium,Diatom
+FALSE,163934,Protoperidinium curvipes,Dinoflagellate
+FALSE,163938,Ceratoneis gracilis,Diatom
+FALSE,163975,Coelastrum microporum,Chlorophyte
+FALSE,164053,Pyrocystis lunula,Dinoflagellate
+FALSE,164061,Pediastrum duplex,Chlorophyte
+FALSE,164076,Scenedesmus arcuatus,Chlorophyte
+FALSE,164085,Diploneis stroemii,Diatom
+FALSE,164096,Characiaceae,Chlorophyte
+FALSE,164108,Bacteriastrum delicatulum,Diatom
+FALSE,164110,Bacteriastrum furcatum,Diatom
+FALSE,164116,Odontella mobiliensis,Diatom
+FALSE,172264,Eutreptiella hirudoidea,
+FALSE,172321,Peritromus,
+FALSE,172375,Fallacia,Diatom
+FALSE,172385,Fragilaria capucina var. capucina,Diatom
+FALSE,172418,Fragilariopsis cylindrus,Diatom
+FALSE,172431,Favella,
+FALSE,172434,Helicostomella,
+FALSE,172436,Fragilariopsis oceanica,Diatom
+FALSE,172460,Protoperidinium diabolum,Dinoflagellate
+FALSE,172469,Pteromonas,Chlorophyte
+FALSE,172484,Crucigeniella,Chlorophyte
+FALSE,172485,Crucigeniella apiculata,Chlorophyte
+FALSE,172607,Licmophora debilis,Diatom
+FALSE,172614,Licmophora gracilis var. gracilis,Diatom
+FALSE,172797,Navicula granii,Diatom
+FALSE,172798,Stauroneis granii,Diatom
+FALSE,172799,Navicula gregaria,Diatom
+FALSE,172813,Pterospermataceae,Chlorophyte
+FALSE,172815,Hexasterias problematica,Chlorophyte
+FALSE,172836,Navicula pelagica,Diatom
+FALSE,175317,Navicula derasa var. transitans,Diatom
+FALSE,175319,Navicula transitans var. transitans,Diatom
+FALSE,175320,Navicula transitans var. derasa,Diatom
+FALSE,175321,Navicula transitans var. derasa f. delicatula,Diatom
+FALSE,175326,Navicula vanhoeffenii,Diatom
+FALSE,175335,Navicula viridula var. rostellata,Diatom
+FALSE,175400,Nitzschia frigida,Diatom
+FALSE,175425,Nitzschia lorenziana,Diatom
+FALSE,175560,Petrodictyon gemma,Diatom
+FALSE,175573,Petroneis humerosa,Diatom
+FALSE,175584,Phaeodactylum tricornutum,Diatom
+FALSE,175738,Pseudo-nitzschia multiseries,Diatom
+FALSE,175749,Pseudo-nitzschia seriata f. seriata,Diatom
+FALSE,175750,Pseudo-nitzschia seriata f. obtusa,Diatom
+FALSE,175790,Rhabdonema minutum,Diatom
+FALSE,175794,Rhoicosphenia abbreviata,Diatom
+FALSE,176294,Tabularia tabulata,Diatom
+FALSE,176362,Asterionella frauenfeldii,Diatom
+FALSE,176371,Thalassiophysa hyalina,Diatom
+FALSE,176385,Tryblionella,Diatom
+FALSE,176393,Tryblionella apiculata,Diatom
+FALSE,176410,Nitzschia coarctata,Diatom
+FALSE,176420,Tryblionella levidensis,Diatom
+FALSE,176534,Tryblionella navicularis,Diatom
+FALSE,176540,Tryblionella punctata,Diatom
+FALSE,177108,Cyanodictyon,
+FALSE,177112,Cyanodictyon planctonicum,Cyanobacteria
+FALSE,177121,Cyanonephron,Cyanobacteria
+FALSE,177122,Cyanonephron styloides,Cyanobacteria
+FALSE,177138,Lemmermanniella,
+FALSE,177140,Lemmermanniella pallida,
+FALSE,177155,Lemmermanniella parva,
+FALSE,177158,Merismopedia elegans,Cyanobacteria
+FALSE,177399,Microcystis reinboldii,Cyanobacteria
+FALSE,177465,Snowella fennica,
+FALSE,177473,Snowella litoralis,Cyanobacteria
+FALSE,177480,Snowella septentrionalis,Cyanobacteria
+FALSE,177482,Synechocystis,Cyanobacteria
+FALSE,177506,Limnothrix,Cyanobacteria
+FALSE,177508,Limnothrix redekei,Cyanobacteria
+FALSE,177572,Planktolyngbya contorta,Cyanobacteria
+FALSE,177576,Planktolyngbya limnetica,Cyanobacteria
+FALSE,177583,Planktothrix mougeotii,Cyanobacteria
+FALSE,177588,Pseudanabaena,Cyanobacteria
+FALSE,177590,Pseudanabaena limnetica,Cyanobacteria
+FALSE,177592,Pseudanabaena mucicola,Cyanobacteria
+FALSE,177595,Romeria,Cyanobacteria
+FALSE,177604,Trichodesmium,Cyanobacteria
+FALSE,177635,Anabaena baltica,Cyanobacteria
+FALSE,178050,Campylodiscus innominatus,Diatom
+FALSE,178059,Campyloneis,Diatom
+FALSE,178126,Cerataulus radiatus,Diatom
+FALSE,178185,Chaetoceros peruvianus,Diatom
+FALSE,178194,Chaetoceros filiformis,Diatom
+FALSE,178201,Chaetoceros rostratus,Diatom
+FALSE,178204,Chaetoceros gracilis,Diatom
+FALSE,178215,Chaetoceros dichaeta,Diatom
+FALSE,178229,Chaetoceros pseudocurvisetus,Diatom
+FALSE,178582,Eutreptia,
+FALSE,178583,Chlamydomonas,Chlorophyte
+FALSE,178587,Chlamydomonas coccoides,Chlorophyte
+FALSE,178589,Dunaliella,Chlorophyte
+FALSE,178594,Synura,Chrysophyte
+FALSE,178595,Synura uvella,Phytoplankton
+FALSE,178597,Coccolithaceae,Haptophyte
+FALSE,178598,Coccolithus,Haptophyte
+FALSE,178600,Coccolithus pelagicus,Haptophyte
+FALSE,178604,Kephyrion spirale,Chrysophyte
+FALSE,178609,Lagerheimia,Chlorophyte
+FALSE,178610,Lagerheimia genevensis,Chlorophyte
+FALSE,178611,Oocystis,Chlorophyte
+FALSE,178613,Oocystis parva,Chlorophyte
+FALSE,178617,Crucigenia,Chlorophyte
+FALSE,178619,Crucigenia tetrapedia,Chlorophyte
+FALSE,178623,Dictyosphaerium,Chlorophyte
+FALSE,178625,Dictyosphaerium ehrenbergianum,Chlorophyte
+FALSE,178734,Chlorogonium,Chlorophyte
+FALSE,178825,Stenosemella,
+FALSE,178847,Fusopsis incertae sedis,
+FALSE,178919,Pandorina colony,Chlorophyte
+FALSE,178933,Dictyosphaerium pulchellum,Chlorophyte
+FALSE,178934,Oocystis solitaria,Chlorophyte
+FALSE,178949,Tetraedron,Chlorophyte
+FALSE,178956,Tetraedron minimum,Chlorophyte
+FALSE,178959,Pseudostaurastrum hastatum,Eustigmatophyceae
+FALSE,178962,Crucigenia quadrata,Chlorophyte
+FALSE,179174,Amphiprora hyperborea,Diatom
+FALSE,179314,Lacrymaria,
+FALSE,179320,Mesodinium,
+FALSE,179321,Mesodinium pulex,Ciliate
+FALSE,179573,Cocconeis pseudomarginata,Diatom
+FALSE,179596,Corethron hystrix,Diatom
+FALSE,179616,Coscinodiscus perforatus var. pavillardii,Diatom
+FALSE,179674,Cymatopleura librile,Diatom
+FALSE,179688,Cymatosira lorenziana,Diatom
+FALSE,179785,Dactyliosolen antarcticus,Diatom
+FALSE,179786,Dactyliosolen blavyanus,Diatom
+FALSE,179790,Zygoceros surirella,Diatom
+FALSE,179893,Pinnularia crabro,Diatom
+FALSE,180314,Grammatophora hamulifera,Diatom
+FALSE,180325,Gyrosigma macrum,Diatom
+FALSE,180366,Hemidiscus,Diatom
+FALSE,180367,Hemidiscus cuneiformis,Diatom
+FALSE,180390,Lyrella,Diatom
+FALSE,183533,Tintinnidae,
+FALSE,183543,Eutintinnus,
+FALSE,183556,Acanthostomella norvegica,
+FALSE,183557,Eutintinnus elongatus,
+FALSE,183566,Salpingella,
+FALSE,183574,Xystonella,
+FALSE,196078,Branchiostomatidae,
+FALSE,196121,Caprellidea,
+FALSE,196125,Scolecithricidae,
+FALSE,196768,Pacillina arctica,
+FALSE,196804,Climacodium frauenfeldianum,Diatom
+FALSE,196805,Rhizosolenia acuminata,Diatom
+FALSE,196808,Rhizosolenia alata f. curvirostris,Diatom
+FALSE,196811,Rhizosolenia bergonii,Diatom
+FALSE,196813,Neodenticula seminae,Diatom
+FALSE,196815,Planktoniella sol,Diatom
+FALSE,196817,Nitzschia sigma rigida,Diatom
+FALSE,196820,Ceratium bucephalum,Dinoflagellate
+FALSE,196822,Ceratium lunula,Dinoflagellate
+FALSE,196824,Ceratium platycorne,Dinoflagellate
+FALSE,196828,Triadinium polyedricum,Dinoflagellate
+FALSE,196830,Cystodinium,Dinoflagellate
+FALSE,196831,Radiolaria,
+FALSE,196832,Zoothamnium pelagicum,
+FALSE,196835,Favella serrata,Ciliate
+FALSE,196836,Parafavella,
+FALSE,196837,Parafavella gigantea,
+FALSE,196874,Paraeuchaeta,
+FALSE,220843,Clausocalanus farrani,
+FALSE,220914,Candacia simplex,
+FALSE,220915,Candacia bispinosa,
+FALSE,231762,Dicroerisma,Dinoflagellate
+FALSE,231778,Metaphalacroma,Dinoflagellate
+FALSE,231787,Akashiwo,Dinoflagellate
+FALSE,231788,Karenia,Dinoflagellate
+FALSE,231789,Karlodinium,Dinoflagellate
+FALSE,231790,Lepidodinium,Dinoflagellate
+FALSE,231793,Erythropsidinium,Dinoflagellate
+FALSE,231796,Amphidomataceae,Dinoflagellate
+FALSE,231798,Gambierdiscus,Dinoflagellate
+FALSE,231799,Lingulodinium,Dinoflagellate
+FALSE,231802,Bysmatrum,Dinoflagellate
+FALSE,231803,Ensiculifera,Dinoflagellate
+FALSE,231809,Lessardia,Dinoflagellate
+FALSE,231845,Kolkwitziellaceae,Dinoflagellate
+FALSE,231851,Exuviella,Dinoflagellate
+FALSE,231873,Alexandrium catenella,Dinoflagellate
+FALSE,231883,Pleurosigma planctonicum,Diatom
+FALSE,231884,Pleurosigma simonsenii,Diatom
+FALSE,231885,Prorocentrum mexicanum,Dinoflagellate
+FALSE,231887,Rhizosolenia indica,Diatom
+FALSE,231888,Stephanopyxis palmeriana,Diatom
+FALSE,232069,Mesodinium rubrum,
+FALSE,232076,Tintinnopsis minuta,Ciliate
+FALSE,232110,Dicroerisma psilonereiella,
+FALSE,232155,Dinophysis borealis,Dinoflagellate
+FALSE,232259,Pyrocystis hamulus,Dinoflagellate
+FALSE,232261,Dinophysis sacculus,Dinoflagellate
+FALSE,232298,Prorocentrum rhathymum,Dinoflagellate
+FALSE,232376,Prorocentrum cordatum,Dinoflagellate
+FALSE,232491,Phalacroma mitra,Dinoflagellate
+FALSE,232492,Phalacroma rapa,Dinoflagellate
+FALSE,232496,Dinophysis nasuta,Dinoflagellate
+FALSE,232516,Mesoporos perforatus,Dinoflagellate
+FALSE,232532,Sinophysis stenosoma,Dinoflagellate
+FALSE,232546,Akashiwo sanguinea,Dinoflagellate
+FALSE,232584,Amphidinium glaucum,Dinoflagellate
+FALSE,232598,Pyrophacus horologium,Dinoflagellate
+FALSE,232601,Fragilidinium,Dinoflagellate
+FALSE,232625,Podolampas palmipes,Dinoflagellate
+FALSE,232650,Cochlodinium polykrikoides,Dinoflagellate
+FALSE,232703,Lessardia elongata,Dinoflagellate
+FALSE,232716,Gymnodinium aureolum,Dinoflagellate
+FALSE,232765,Gymnodinium galeatum,Dinoflagellate
+FALSE,232777,Protoperidinium venustum,Dinoflagellate
+FALSE,232778,Gymnodinium heterostriatum,Dinoflagellate
+FALSE,232785,Gymnodinium impudicum,Dinoflagellate
+FALSE,232792,Gymnodinium irregulare,Dinoflagellate
+FALSE,232824,Protoperidinium tuba,Dinoflagellate
+FALSE,232837,Protoperidinium paulsenii,Dinoflagellate
+FALSE,232859,Gymnodinium roseostigma,Dinoflagellate
+FALSE,232861,Protoperidinium thulense,Dinoflagellate
+FALSE,232880,Gymnodinium verruculosum,Dinoflagellate
+FALSE,232897,Protoperidinium stellatum,Dinoflagellate
+FALSE,232901,Gyrodinium aciculatum,Dinoflagellate
+FALSE,232921,Protoperidinium globulus,Dinoflagellate
+FALSE,232931,Gyrodinium falcatum,Dinoflagellate
+FALSE,232943,Gyrodinium fusus,Dinoflagellate
+FALSE,232998,Gyrodinium striatissimum,Dinoflagellate
+FALSE,233015,Karenia brevis,Dinoflagellate
+FALSE,233024,Karenia mikimotoi,Dinoflagellate
+FALSE,233027,Karlodinium micrum,Dinoflagellate
+FALSE,233037,Karlodinium veneficum,Dinoflagellate
+FALSE,233050,Protoperidinium parthenopes,Dinoflagellate
+FALSE,233061,Protoperidinium pacificum,Dinoflagellate
+FALSE,233093,Scrippsiella hangoei,Dinoflagellate
+FALSE,233113,Nematodinium torpedo,Dinoflagellate
+FALSE,233115,Proterythropsis vigilans,Dinoflagellate
+FALSE,233144,Warnowia polyphemus,Dinoflagellate
+FALSE,233165,Kofoidinium lebourae,Dinoflagellate
+FALSE,233176,Protoperidinium marielebourae,Dinoflagellate
+FALSE,233180,Pronoctiluca acuta,Dinoflagellate
+FALSE,233194,Amphidoma acuminata,Dinoflagellate
+FALSE,233231,Protoperidinium latidorsale,Dinoflagellate
+FALSE,233257,Protoperidinium incognitum,Dinoflagellate
+FALSE,233263,Protoperidinium humile,Dinoflagellate
+FALSE,233351,Cladopyxis claytonii,Dinoflagellate
+FALSE,233352,Cladopyxis setifera,Dinoflagellate
+FALSE,233353,Protoperidinium elongatum,Dinoflagellate
+FALSE,233357,Protoperidinium elegans,Dinoflagellate
+FALSE,233369,Peridiniella danica,Dinoflagellate
+FALSE,233386,Goniodoma polyedricum,Dinoflagellate
+FALSE,233390,Protoperidinium decipiens,Dinoflagellate
+FALSE,233447,Alexandrium margalefii,Dinoflagellate
+FALSE,233469,Alexandrium pseudogoniaulax,Dinoflagellate
+FALSE,233480,Amylax buxus ,Dinoflagellate
+FALSE,233592,Lingulodinium polyedrum,Dinoflagellate
+FALSE,233615,Heterocapsa lanceolata,Dinoflagellate
+FALSE,233619,Heterocapsa minima,Dinoflagellate
+FALSE,233620,Heterocapsa niei,Dinoflagellate
+FALSE,233625,Heterocapsa pygmaea,Dinoflagellate
+FALSE,233635,Lebouraia pusilla,Dinoflagellate
+FALSE,233754,Corythodinium curvicaudatum,Dinoflagellate
+FALSE,233759,Fibrocapsa,Raphidophyte
+FALSE,233761,Fibrocapsa japonica,Raphidophyte
+FALSE,233763,Olisthodiscus,Raphidophyte
+FALSE,233776,Chattonella,Raphidophyte
+FALSE,233778,Chattonella antiqua,Raphidophyte
+FALSE,233782,Chattonella verruculosa,Raphidophyte
+FALSE,233804,Peridinium quinquecorne,Dinoflagellate
+FALSE,233805,Protoperidinium quinquecorne,Dinoflagellate
+FALSE,233835,Ensiculifera carinata,Dinoflagellate
+FALSE,233857,Oxytoxum criophilum,Dinoflagellate
+FALSE,233868,Oxytoxum variabile,Dinoflagellate
+FALSE,233870,Oxytoxum gracile,Dinoflagellate
+FALSE,233871,Oxytoxum turbo,Dinoflagellate
+FALSE,234066,Lamellibranchiata,
+FALSE,234125,Acartia discaudata,
+FALSE,235747,Acantharea,
+FALSE,235759,Coxliella helix,
+FALSE,235761,Favella ehrenbergii,
+FALSE,235802,Acanthoica quattrospina,Haptophyte
+FALSE,235823,Gephyrocapsa,Haptophyte
+FALSE,235825,Pleurochrysis,Haptophyte
+FALSE,235828,Calyptrosphaera,Haptophyte
+FALSE,235913,Algirosphaera robusta,Haptophyte
+FALSE,235922,Braarudosphaera bigelowii,Haptophyte
+FALSE,235934,Coronosphaera,Diatom
+FALSE,235937,Umbellosphaera,Haptophyte
+FALSE,235969,Pleurochrysis carterae,Haptophyte
+FALSE,235979,Syracosphaera pulchra,Haptophyte
+FALSE,235993,Coccolithophorid,Haptophyte
+FALSE,236039,Syracosphaera molischii,Haptophyte
+FALSE,236816,Gammariida,
+FALSE,237874,Thysanoessa spinifera,
+FALSE,237965,Gaetanus tenuispinus,
+FALSE,237966,Calocalanus tenuis,
+FALSE,237968,Pareucalanus attenuatus,
+FALSE,237984,Monothula subtilis,
+FALSE,238840,Cryptomonas curvata,Cryptophyte
+FALSE,240437,Helicostomella subulata,
+FALSE,246593,Karenia cf. papilionacea,Dinoflagellate
+FALSE,246598,Pfiesteria piscicida,Dinoflagellate
+FALSE,246604,Pseudo-nitzschia australis,Diatom
+FALSE,246605,Pseudo-nitzschia calliantha,Diatom
+FALSE,246606,Pseudo-nitzschia fraudulenta,Diatom
+FALSE,246608,Pseudo-nitzschia multistriata,Diatom
+FALSE,246835,Alexandrium andersonii,Dinoflagellate
+FALSE,247913,Tiarina,
+FALSE,247915,Tintinnidium,
+FALSE,247924,Diaptomus,
+FALSE,247943,Tiarina fusus,
+FALSE,247944,Tintinnidium mucicola,
+FALSE,247981,Pleopis polyphemoides,
+FALSE,248058,Eucampia cornuta,Diatom
+FALSE,248060,Thalassiothrix mediterranea,Diatom
+FALSE,248063,Haslea wawrikae,Diatom
+FALSE,248064,Dactyliosolen phuketensis,Diatom
+FALSE,248066,Bacteriastrum comosum,Diatom
+FALSE,248069,Asterolampra,Diatom
+FALSE,248074,Toxarium,Diatom
+FALSE,248075,Toxarium undulatum,Diatom
+FALSE,248076,Toxarium hennedyanum,Diatom
+FALSE,248081,Climacosphenia,Diatom
+FALSE,248088,Pleurosigma directum,Diatom
+FALSE,248096,Apedinella,Silicoflagellate
+FALSE,248097,Apedinella radians,Silicoflagellate
+FALSE,248098,Apedinella spinifera,Silicoflagellate
+FALSE,248099,Aphanizomenon flos-aquae,Cyanobacteria
+FALSE,248103,Botryococcus,Chlorophyte
+FALSE,248104,Botryococcus braunii,Chlorophyte
+FALSE,248110,Chrysococcus,Chrysophyte
+FALSE,248111,Chrysococcus rufescens,Chrysophyte
+FALSE,248112,Cryptomonas marssonii,Cryptophyte
+FALSE,248118,Durinskia baltica,Dinoflagellate
+FALSE,248121,Eutreptiella braarudii,
+FALSE,248126,Koliella longiseta,Chlorophyte
+FALSE,248129,Meringosphaera mediterranea,Chlorophyte
+FALSE,248134,Monoraphidium griffithii,Chlorophyte
+FALSE,248135,Monoraphidium mirabile,Chlorophyte
+FALSE,248137,Mougeotia,Charophyte
+FALSE,248139,Nitzschia lorenziana var. incerta,Diatom
+FALSE,248140,Nitzschia reversa,Diatom
+FALSE,248141,Oocystis borgei,Chlorophyte
+FALSE,248144,Oocystis pelagica,Chlorophyte
+FALSE,248146,Stauridium tetras,Chlorophyte
+FALSE,248147,Pediastrum tetras,Chlorophyte
+FALSE,248148,Pedinella,Silicoflagellate
+FALSE,248149,Pseudopedinella elastica,Silicoflagellate
+FALSE,248153,Rhodomonas lens,Cryptophyte
+FALSE,248158,Scenedesmus ecornis,Chlorophyte
+FALSE,248166,Schroederia setigera,Chlorophyte
+FALSE,248170,Sphaerocystis schroeteri,Chlorophyte
+FALSE,248171,Tetraselmis cordiformis,Chlorophyte
+FALSE,248172,Uroglena,Chrysophyte
+FALSE,248178,Holococcolithophorid,Haptophyte
+FALSE,248180,Nanoneis hasleae,Diatom
+FALSE,248181,Proboscia truncata,Diatom
+FALSE,249689,Chromulina,Chrysophyte
+FALSE,249704,Aphanothece parallelliformis,Cyanobacteria
+FALSE,249711,Desmodesmus,Chlorophyte
+FALSE,249713,Desmodesmus maximus,Chlorophyte
+FALSE,249721,Mallomonas,Chrysophyte
+FALSE,249722,Mallomonas akrokomos,Chrysophyte
+FALSE,249725,Ochromonas,Chrysophyte
+FALSE,249731,Pavlova,Haptophyte
+FALSE,251726,Synedra toxoneides var. curvata,Diatom
+FALSE,251728,Proboscia alata f. alata,Diatom
+FALSE,251744,Asteroplanus species,Diatom
+FALSE,251745,Asteroplanus karianus,Diatom
+FALSE,254316,Nyctiphanes couchii,
+FALSE,254445,Trigonium,Diatom
+FALSE,254723,Parafavella denticulata,Ciliate
+FALSE,260629,Heterophryxus appendiculatus,
+FALSE,273571,Symphodus melops,
+FALSE,291403,Ephemera,Diatom
+FALSE,291417,Paraphysomonas,Chrysophyte
+FALSE,292684,Acari,
+FALSE,292726,Lioloma,Diatom
+FALSE,292728,Lioloma delicatulum,Diatom
+FALSE,292893,Cyclotrichiida,Ciliate
+FALSE,292896,Myrionecta rubra,
+FALSE,292897,Askenasia,Ciliate
+FALSE,292898,Askenasia stellaris,
+FALSE,292899,Balanion,
+FALSE,292923,Favella helgolandica,
+FALSE,292924,Proplectella,
+FALSE,292925,Rhabdoaskenasia,
+FALSE,293496,Teleostei,
+FALSE,293852,Microniscus,
+FALSE,293884,Praniza,
+FALSE,325345,Pteropoda,
+FALSE,325384,Themisto gaudichaudii,
+FALSE,334946,Tomopteris helgolandica,
+FALSE,341285,Centrales,Diatom
+TRUE,341285,Centrales,Diatom
+TRUE,341285,Centrales,Diatom
+FALSE,341295,Cyclotrichium,
+FALSE,341300,Daturella,
+FALSE,341301,Didinium,
+FALSE,341353,Choreotrichida,Ciliate
+FALSE,341375,Entomoneis paludosa var. hyperborea,Diatom
+FALSE,341472,Chaetoceros bulbosus,Diatom
+FALSE,341473,Chaetoceros castracanei,Diatom
+FALSE,341484,Coscinodiscus oculus-iridis,Diatom
+FALSE,341487,Odontella weissflogii,Diatom
+FALSE,341496,Corethron pennatum,Diatom
+FALSE,341501,Proboscia inermis,Diatom
+FALSE,341502,Rhizosolenia chunii,Diatom
+FALSE,341536,Synedropsis hyperboreoides,Diatom
+FALSE,341542,Ephemera planamembranacea,Diatom
+FALSE,341546,Membraneis challengeri,Diatom
+FALSE,341558,Fragilariopsis pseudonana,Diatom
+FALSE,341566,Nitzschia bicapitata,Diatom
+FALSE,341609,Pterosperma parallelum,Chlorophyte
+FALSE,341610,Pterosperma polygonum,Chlorophyte
+FALSE,341668,Epiplocylis undella,
+FALSE,341692,Pelagostrobilidium spirale,Ciliate
+FALSE,342471,Fritillariinae,
+FALSE,345251,Pseudoamallothrix ovata,
+FALSE,345436,Brachiomonas,Chlorophyte
+FALSE,345437,Brachiomonas submarina,Chlorophyte
+FALSE,345439,Tintinnopsis cylindrica,Ciliate
+FALSE,345461,Chrysamoeba,Chrysophyte
+FALSE,345464,Eunotogramma dubium,Diatom
+FALSE,345465,Ochrophyta,Phytoplankton
+FALSE,345475,Fragilaria oblonga,Diatom
+FALSE,345481,Lepidodinium chlorophorum,Dinoflagellate
+FALSE,345484,Mediopyxis,Diatom
+FALSE,345485,Mediopyxis helysia,Diatom
+FALSE,345491,Neocalyptrella robusta,Diatom
+FALSE,345492,Odontella aurita var. minima,Diatom
+FALSE,345493,Odontella minima,Diatom
+FALSE,345498,Parapedinella,Dictyochophyte
+FALSE,345506,Podosira stelliger,Diatom
+FALSE,345513,Proboscia indica,Diatom
+FALSE,345525,Subsiliceae,Diatom
+FALSE,345526,Subsilicea fragilarioides,Diatom
+FALSE,345529,Thalassiosira aestivalis,Diatom
+FALSE,345531,Thalassiosira constricta,Diatom
+FALSE,345546,Thalassiosira lineata,Diatom
+FALSE,345550,Thalassiosira tenera,Diatom
+FALSE,345781,Eucalanus hyalinus,
+FALSE,345881,Pterosperma vanhoeffenii,Chlorophyte
+FALSE,345882,Pterosperma moebii,Chlorophyte
+FALSE,345883,Ptychocylis urnula,
+FALSE,345919,Acartia bifilosa,
+FALSE,345943,Acartia tonsa,
+FALSE,346026,Acartia danae ,
+FALSE,346030,Acartia negligens ,
+FALSE,346037,Acartia longiremis ,
+FALSE,346509,Goniopsyllus clausi,
+FALSE,346510,Goniopsyllus rostratus,
+FALSE,356886,Aetideopsis armatus,
+FALSE,357973,Cyclopinoides longicornis,
+FALSE,359879,Paraeuchaeta tonsa,
+FALSE,360288,Scolecithricella bradyi,
+FALSE,364368,Anomalocera patersonii,
+FALSE,367334,Undinula vulgaris,
+FALSE,368664,Charophyta,Phytoplankton
+FALSE,369190,Haptophyta,Haptophyte
+FALSE,369319,Actinomonas,
+FALSE,369960,Octactis,Silicoflagellate
+FALSE,370197,Scherffelia,Chlorophyte
+FALSE,370366,Chaetoceros (Hyalochaete) ,Diatom
+FALSE,370367,Chaetoceros (Phaeoceros),Diatom
+FALSE,370563,Plagioselmis nannoplanctica,Cryptophyte
+FALSE,375788,Dictyocha crux,Silicoflagellate
+FALSE,375790,Dictyocha staurodon,Dictyochophyte
+FALSE,375883,Pseudo-nitzschia granii,Diatom
+FALSE,375891,Resultor mikron,Chlorophyte
+FALSE,375958,Ciliophrys infusionum,Silicoflagellate
+FALSE,375970,Octactis octonaria,Silicoflagellate
+FALSE,376081,Pterosperma cristatum,Chlorophyte
+FALSE,376082,Pterosperma marginatum,Chlorophyte
+FALSE,376083,Pterosperma nationalis,Chlorophyte
+FALSE,376084,Pterosperma undulatum,Chlorophyte
+FALSE,376565,Thecadinium yashimaense,Dinoflagellate
+FALSE,376667,Skeletonema marinoi,Diatom
+FALSE,376690,Pterosperma cuboides,Chlorophyte
+FALSE,383017,Achelata,
+FALSE,388485,Pseudopedinella thomsenii,Silicoflagellate
+FALSE,388924,Alexandrium tamutum,Dinoflagellate
+FALSE,389491,Telonema antarcticum,
+FALSE,390664,Eudorina,Chlorophyte
+FALSE,390665,Eudorina elegans,Chlorophyte
+FALSE,391508,Azadinium,Dinoflagellate
+FALSE,391509,Azadinium spinosum,Dinoflagellate
+FALSE,391906,Tornaria,
+FALSE,393172,Nostoc,Cyanobacteria
+FALSE,393573,Cyrtostrombidium,Ciliate
+FALSE,394598,Asteromphalus sarcophagus,Diatom
+FALSE,394840,Attheya armata,Diatom
+FALSE,410617,Tintinnidium fluviatile,Ciliate
+FALSE,410762,Sipunculus,
+FALSE,411764,Pseudo-nitzschia heimii,Diatom
+FALSE,411767,Pseudo-nitzschia subcurvata,Diatom
+FALSE,413311,Hemicyclops aberdonensis,
+FALSE,414712,Scuticociliatia,
+FALSE,415082,Ascampbelliella,
+FALSE,416120,Ulnaria,Diatom
+FALSE,416184,Cephalobrachia,
+FALSE,416226,Euryarchaeota,Euryarchaeote
+FALSE,416523,Acartia clausii,
+FALSE,417184,Helicostomella fusiformis,
+FALSE,417214,Eutintinnus pectinis,Ciliate
+FALSE,417228,Salpingella acuminata,
+FALSE,417328,Didinium nasutum,
+FALSE,418136,Gonyaulax digitalis,Dinoflagellate
+FALSE,418143,Peridinium aciculiferum,Dinoflagellate
+FALSE,418160,Pseudopfiesteria shumwayae,Dinoflagellate
+FALSE,418221,Pseudo-nitzschia subfraudulenta,Diatom
+FALSE,418222,Pseudo-nitzschia subpacifica,Diatom
+FALSE,418285,Lyrella hennedyi,Diatom
+FALSE,418510,Chaetoceros neogracile,Diatom
+FALSE,418540,Hemiaulus membranaceus,Diatom
+FALSE,418546,Ditylum sol,Diatom
+FALSE,418547,Melosira moniliformis,Diatom
+FALSE,418591,Odontella longicruris,Diatom
+FALSE,418624,Diatoma vulgaris,Diatom
+FALSE,418636,Ulnaria acus,Diatom
+FALSE,418643,Grammatophora macilenta,Diatom
+FALSE,418646,Lioloma pacificum,Diatom
+FALSE,418647,Thalassionema bacillare,Diatom
+FALSE,421139,Amphibalanus improvisus,
+FALSE,422708,Ceratium horridum var. buceros,Dinoflagellate
+FALSE,423767,Steenstrupia nutans,
+FALSE,425487,Prostomatea,
+FALSE,425488,Prorodontida,
+FALSE,425497,Tintinnida,
+FALSE,425509,Oligotrichia,Ciliate
+FALSE,425519,Heterotrichea,Ciliate
+FALSE,425626,Urotricha,Ciliate
+FALSE,427290,Balanion comatum,
+FALSE,427420,Tintinnopsis magna,Ciliate
+FALSE,427430,Tintinnopsis rapa,Ciliate
+FALSE,427725,Strombidium cornucopiae,Ciliate
+FALSE,427744,Tontonia ovalis,
+FALSE,437911,Rhizophydiales,
+FALSE,447730,Bellerochea horologicalis,Diatom
+FALSE,447739,Hippodonta capitata,Diatom
+FALSE,447744,Ulnaria ulna,Diatom
+FALSE,447745,Tryblionella hungarica,Diatom
+FALSE,447746,Tryblionella compressa,Diatom
+FALSE,447750,Crucigeniella rectangularis,Chlorophyte
+FALSE,447753,Monomorphina group,
+FALSE,447754,Monomorphina pyrum,
+FALSE,450616,Neostreptotheca,Diatom
+FALSE,450619,Minutocellus,Diatom
+FALSE,450723,Lennoxia,Diatom
+FALSE,450729,Coscinodiscopsis commutata,Diatom
+FALSE,451665,Komma caudata,Cryptophyte
+FALSE,464444,Attheya longicornis,Diatom
+FALSE,464449,Minutocellus polymorphus,Diatom
+FALSE,465382,Cerataulina bicornis,Diatom
+FALSE,465389,Chaetoceros criophilus,Diatom
+FALSE,465390,Chaetoceros dadayi,Diatom
+FALSE,465524,Chaetoceros gracilis,Diatom
+FALSE,465546,Discostella pseudostelligera,Diatom
+FALSE,478556,Pseudo-nitzschia americana,Diatom
+FALSE,478557,Cosmarium,Charophyte
+FALSE,478559,Hermesinum,
+FALSE,487770,Limnocalanus macrurus macrurus,
+FALSE,493821,Coccolithales,Haptophyte
+FALSE,493993,Calciodinelloideae,Dinoflagellate
+FALSE,494056,Neoceratium,Dinoflagellate
+FALSE,494057,Tripos,Dinoflagellate
+FALSE,494102,Oltmannsiellopsis,Chlorophyte
+FALSE,494309,Uronema,Chlorophyte
+FALSE,495332,Thalassiosira kushirensis,Diatom
+FALSE,495333,Pyramimonas disomata,Chlorophyte
+FALSE,495357,Hippodonta lesmonensis,Diatom
+FALSE,495363,Tripos muelleri,Dinoflagellate
+FALSE,495385,Oltmannsiella lineata,Chlorophyte
+FALSE,495390,Kofoidinium velelloides,Dinoflagellate
+FALSE,495629,Neoceratium arcticum,Dinoflagellate
+FALSE,495630,Neoceratium arietinum,Dinoflagellate
+FALSE,495633,Neoceratium azoricum,Dinoflagellate
+FALSE,495635,Neoceratium belone,Dinoflagellate
+FALSE,495637,Neoceratium bigelowii,Dinoflagellate
+FALSE,495638,Neoceratium breve,Dinoflagellate
+FALSE,495640,Neoceratium candelabrum,Dinoflagellate
+FALSE,495641,Neoceratium carnegiei,Dinoflagellate
+FALSE,495644,Neoceratium compressum,Dinoflagellate
+FALSE,495646,Neoceratium contortum,Dinoflagellate
+FALSE,495648,Neoceratium declinatum,Dinoflagellate
+FALSE,495655,Neoceratium extensum,Dinoflagellate
+FALSE,495656,Neoceratium falcatiforme,Dinoflagellate
+FALSE,495659,Neoceratium furca,Dinoflagellate
+FALSE,495660,Neoceratium fusus,Dinoflagellate
+FALSE,495662,Neoceratium gibberum,Dinoflagellate
+FALSE,495663,Neoceratium gravidum,Dinoflagellate
+FALSE,495664,Neoceratium hexacanthum,Dinoflagellate
+FALSE,495666,Neoceratium horridum,Dinoflagellate
+FALSE,495669,Neoceratium inflatum,Dinoflagellate
+FALSE,495671,Neoceratium kofoidii,Dinoflagellate
+FALSE,495673,Neoceratium limulus,Dinoflagellate
+FALSE,495674,Neoceratium lineatum,Dinoflagellate
+FALSE,495675,Neoceratium longipes,Dinoflagellate
+FALSE,495676,Neoceratium longirostrum,Dinoflagellate
+FALSE,495678,Neoceratium macroceros,Dinoflagellate
+FALSE,495679,Neoceratium massiliense,Dinoflagellate
+FALSE,495680,Neoceratium minutum,Dinoflagellate
+FALSE,495685,Neoceratium pentagonum,Dinoflagellate
+FALSE,495687,Neoceratium platycorne,Dinoflagellate
+FALSE,495690,Neoceratium pulchellum,Dinoflagellate
+FALSE,495691,Neoceratium ranipes,Dinoflagellate
+FALSE,495696,Neoceratium setaceum,Dinoflagellate
+FALSE,495697,Neoceratium symmetricum,Dinoflagellate
+FALSE,495700,Neoceratium teres,Dinoflagellate
+FALSE,495701,Neoceratium trichoceros,Dinoflagellate
+FALSE,495702,Neoceratium tripos,Dinoflagellate
+FALSE,495703,Neoceratium uncinus,Dinoflagellate
+FALSE,495704,Neoceratium vultur,Dinoflagellate
+FALSE,502171,Thalassiothrix delicatula,Diatom
+FALSE,503615,Gymnodinium parvum,Dinoflagellate
+FALSE,510916,Paraeuchaeta acuta,
+FALSE,520952,Pseudodifflugia,
+FALSE,526636,Oltmannsiellopsis viridis,Chlorophyte
+FALSE,531445,Pseudochattonella,Silicoflagellate
+FALSE,531446,Pseudochattonella verruculosa,Silicoflagellate
+FALSE,531467,Pseudochattonella farcimen,Silicoflagellate
+FALSE,532029,Chlorella vulgaris,Chlorophyte
+FALSE,536209,Alveolata,NYA
+FALSE,547444,Chattonella marina var. antiqua,Raphidophyte
+FALSE,547527,Nematopsides vigilans,Dinoflagellate
+FALSE,547544,Rhizosolenia setigera f. pungens,Diatom
+FALSE,547730,Pterosperma michaelsarsii,Chlorophyte
+FALSE,549205,Lennoxia faveolata,Diatom
+FALSE,549213,Nitzschia pellucida,Diatom
+FALSE,549214,Nitzschia rectilonga,Diatom
+FALSE,549221,Thalassiosira conferta,Diatom
+FALSE,555052,Thalassionema frauenfeldii,Diatom
+FALSE,555264,Thalassiosira delicatula,Diatom
+FALSE,555293,Thalassiosira minuscula,Diatom
+FALSE,555806,Desmodesmus costatogranulatus,Chlorophyte
+FALSE,555889,Calciosolenia brasiliensis,Haptophyte
+FALSE,555900,Coccolithus pelagicus f. hyalinus,Haptophyte
+FALSE,558243,Bacillaria paxillifera,Diatom
+FALSE,558764,Monoraphidium arcuatum,Chlorophyte
+FALSE,558776,Echinospira larvae,
+FALSE,562620,Dinozoa,Dinoflagellate
+FALSE,562628,Ellobiopsis,
+FALSE,562870,Choanozoa,
+FALSE,562871,Choanofila,
+FALSE,565148,Slabberia halterata,
+FALSE,565154,Codonium proliferum,
+FALSE,565161,Stauridiosarsia gemmifera,
+FALSE,567048,Commation,Raphidophyte
+FALSE,567120,Rhizosolenia borealis,Diatom
+FALSE,570461,Stephanodiscus agassizensis,Diatom
+FALSE,571649,Glenodinium pilula,Dinoflagellate
+FALSE,571998,Chrysochromulina parva,Haptophyte
+FALSE,572005,Closteriopsis longissima,Chlorophyte
+FALSE,572025,Cryptomonas rostrata,Cryptophyte
+FALSE,572032,Dinobryon acuminatum,Chrysophyte
+FALSE,572080,Ankyra judayi,Chlorophyte
+FALSE,572081,Selenastrum,Chlorophyte
+FALSE,573437,Coscinodiscus sol,Diatom
+FALSE,573446,Shionodiscus oestrupii,Diatom
+FALSE,573458,Dicladia antennata,Diatom
+FALSE,573470,Fragilaria unipunctata,Diatom
+FALSE,573481,Leptocylindrus curvatus,Diatom
+FALSE,573482,Lioloma elongatum,Diatom
+FALSE,573486,Minutocellus scriptus,Diatom
+FALSE,573496,Navicula wawrikae,Diatom
+FALSE,573497,Neodelphineis indica,Diatom
+FALSE,573543,Pseudoguinardia recta,Diatom
+FALSE,573572,Rhizosolenia fallax,Diatom
+FALSE,573577,Rhizosolenia hyalina,Diatom
+FALSE,573645,Thalassiosira gessneri,Diatom
+FALSE,573782,Pyrocystis pseudonoctiluca,Dinoflagellate
+FALSE,573809,Chlamydomonas quadrilobata,Chlorophyte
+FALSE,573836,Chrysochromulina camella,Haptophyte
+FALSE,573868,Eutreptiella cornubiense,
+FALSE,573871,Eutreptiella eupharyngea,
+FALSE,573884,Isochrysis galbana,Haptophyte
+FALSE,573954,Prasinocladus marinus,Chlorophyte
+FALSE,574064,Halamphora,Diatom
+FALSE,575737,Binuclearia lauterbornii,Chlorophyte
+FALSE,576237,Desmodesmus communis,Chlorophyte
+FALSE,576250,Limnococcus limneticus,Cyanobacteria
+FALSE,576275,Monoraphidium tortile,Chlorophyte
+FALSE,576679,Pseudoschroederia robusta,Chlorophyte
+FALSE,576705,Tetrachlorella,Chlorophyte
+FALSE,576706,Tetraedron caudatum,Chlorophyte
+FALSE,576713,Treubaria,Chlorophyte
+FALSE,576884,Khakista,Diatom
+FALSE,577368,Aureodinium pigmentosum,Dinoflagellate
+FALSE,577493,Cercomonas,
+FALSE,577626,Entomoneis paludosa var. paludosa,Diatom
+FALSE,577639,Pseudopodosira westii,Diatom
+FALSE,577666,Closterium moniliferum,Charophyte
+FALSE,577670,Gonium,Chlorophyte
+FALSE,577723,Oedogonium,Chlorophyte
+FALSE,577724,Phacotus,Chlorophyte
+FALSE,577792,Pleurosigma acutum,Diatom
+FALSE,577812,Chroomonas coerulea,Cryptophyte
+FALSE,577860,Gloeotila,Chlorophyte
+FALSE,577861,Gloeotila pelagica,Chlorophyte
+FALSE,577876,Pseudanabaena acicularis,Cyanobacteria
+FALSE,577877,Pandorina morum,Chlorophyte
+FALSE,577887,Polyedriopsis spinulosa,Chlorophyte
+FALSE,577901,Pleurosigma longum,Diatom
+FALSE,577910,Cyclostephanos invisitatus,Diatom
+FALSE,578002,Amphitetras,Diatom
+FALSE,578241,Monoraphidium circinale,Chlorophyte
+FALSE,578246,Tetrachlorella alternans,Chlorophyte
+FALSE,578354,Nephrocytium,Chlorophyte
+FALSE,578372,Pseudokirchneriella,Chlorophyte
+FALSE,578432,Spermatozopsis,Chlorophyte
+FALSE,578433,Spermatozopsis exsultans,Chlorophyte
+FALSE,578476,Dolichospermum,
+FALSE,578550,Tabellaria flocculosa var. asterionelloides,Diatom
+FALSE,578585,Strobilidium sphaericum,
+FALSE,578704,Leptohalysis scotti,
+FALSE,580116,Choanoflagellatea,
+FALSE,581938,Dinophysis ovum,Dinoflagellate
+FALSE,582161,Euglenozoa,Protozoa
+FALSE,582177,Euglenoidea,
+FALSE,582200,Euglenia,
+FALSE,582209,Euglenida,
+FALSE,582210,Eutreptiida,
+FALSE,582421,Radiozoa,
+FALSE,586732,Acantharia,
+FALSE,587514,Clytemnestrinae,
+FALSE,591192,Biddulphianae,Diatom
+FALSE,592906,Coccolithophyceae,Haptophyte
+FALSE,593826,Thalassiosira nidulus,Diatom
+FALSE,594013,Staurostoma mertensii,
+FALSE,595083,Oligotrichida,Ciliate
+FALSE,595197,Pelagostrobilidium epacrum,
+FALSE,595215,Strombidium chlorophilum,
+FALSE,595701,Parlibellus delognei,Diatom
+FALSE,596169,Scenedesmus quadricauda,Chlorophyte
+FALSE,596365,Medusa,
+FALSE,599664,Kareniaceae,Dinoflagellate
+FALSE,599705,Selenastraceae,Chlorophyte
+FALSE,600769,Chloromonas,Chlorophyte
+FALSE,600926,Goniochloris,Chlorophyte
+FALSE,601007,Nephrodiella,Xanthophyte
+FALSE,601010,Trachydiscus,Eustigmatophyceae
+FALSE,601027,Hafniomonas,Chlorophyte
+FALSE,601058,Siderocelis,Chlorophyte
+FALSE,601293,Protaspis,Cryomonadid
+FALSE,601744,Katablepharis,
+FALSE,601957,Plagiolemma,Diatom
+FALSE,602678,Strombus,Diatom
+FALSE,602738,Sphaerellocystis,Chlorophyte
+FALSE,603098,Pseudopediastrum,Chlorophyte
+FALSE,603340,Costasigma,Diatom
+FALSE,603675,Pyramidomonas,
+FALSE,604918,Archaeperidinium,Dinoflagellate
+FALSE,605376,Amoeba,
+FALSE,608578,Ankistrodesmus fusiformis,Chlorophyte
+FALSE,608635,Scenedesmus obtusus,Chlorophyte
+FALSE,608656,Volvox globator,Chlorophyte
+FALSE,609460,Aphanizomenon flosaquae,Cyanobacteria
+FALSE,609727,Nitzschia paleacea,Diatom
+FALSE,609902,Navicula reinhardtii,Diatom
+FALSE,610181,Synechococcus elongatus,Cyanobacteria
+FALSE,610196,Trachelomonas rugulosa,
+FALSE,610206,Glenodinium inaequale,Dinoflagellate
+FALSE,610251,Kephyrion moniliferum,Chrysophyte
+FALSE,610852,Amphikrikos nanus,Chlorophyte
+FALSE,610874,Coronastrum ellipsoideum,Chlorophyte
+FALSE,610880,Didymocystis inermis,Chlorophyte
+FALSE,610883,Diplochloris lunata,Chlorophyte
+FALSE,610927,Siderocelis ornata,Chlorophyte
+FALSE,610933,Tetrastrum komarekii,Chlorophyte
+FALSE,610957,Catena viridis,Chlorophyte
+FALSE,611550,Aulacoseira subborealis,Diatom
+FALSE,612498,Desmodesmus abundans,Chlorophyte
+FALSE,612499,Desmodesmus armatus,Chlorophyte
+FALSE,612502,Desmodesmus dispar,Chlorophyte
+FALSE,612511,Desmodesmus protuberans,Chlorophyte
+FALSE,612513,Desmodesmus serratus,Chlorophyte
+FALSE,612515,Desmodesmus subspicatus,Chlorophyte
+FALSE,613078,Marvania geminata,Chlorophyte
+FALSE,613575,Proboscia curvirostris,Diatom
+FALSE,613622,Quadricoccus euryhalinicus,
+FALSE,613733,Spermatozopsis similis,Chlorophyte
+FALSE,614618,Preperidinium meunieri,Dinoflagellate
+FALSE,614620,Protoperidinium marielebouriae,Dinoflagellate
+FALSE,615435,Helicosphaera carteri,Haptophyte
+FALSE,615467,Chrysochromulina birgeri,Haptophyte
+FALSE,615516,Sclerodinium calyptoglyphe,Dinoflagellate
+FALSE,615660,Euglena stellata,
+FALSE,616373,Lobocystis planctonica,Chlorophyte
+FALSE,616809,Eucampia zoodiacus,Diatom
+FALSE,617246,Raphidocelis sigmoidea,Chlorophyte
+FALSE,619174,Marvania coccoides,Chlorophyte
+FALSE,619304,Dinobryon belgicae,Chrysophyte
+FALSE,620842,Katablepharis ovalis,
+FALSE,621192,Monactinus simplex,Chlorophyte
+FALSE,621576,Gymnodinium fusiforme,Dinoflagellate
+FALSE,621601,Pseudopediastrum boryanum,Chlorophyte
+FALSE,621617,Cuspidothrix issatschenkoi,Cyanobacteria
+FALSE,621740,Chaetoceros salsugineum,Diatom
+FALSE,621926,Delphineis minutissima,Diatom
+FALSE,622311,Nitzschia ventricosa,Diatom
+FALSE,622807,Monoraphidium dybowskii,Chlorophyte
+FALSE,622810,Monoraphidium intermedium,Chlorophyte
+FALSE,622902,Cyanocatenula calyptrata,Cyanobacteria
+FALSE,622903,Cyanocatena imperfecta,Cyanobacteria
+FALSE,622906,Aphanothece pseudoglebulenta,Cyanobacteria
+FALSE,623185,Quadricoccus ellipticus,
+FALSE,623440,Pseudoschroederia antillara,Chlorophyte
+FALSE,623532,Hariotina polychorda,Chlorophyte
+FALSE,623575,Acutodesmus obliquus,Chlorophyte
+FALSE,623576,Acutodesmus acuminatus,Chlorophyte
+FALSE,623645,Gymnodinium corollarium,Dinoflagellate
+FALSE,623653,Palatinus apiculatus,Dinoflagellate
+FALSE,623754,Conticribra weissflogii,Diatom
+FALSE,624065,Halamphora coffeaeformis,Diatom
+FALSE,624247,Lepocinclis acus,
+FALSE,624488,Vulcanodinium rugosum,Dinoflagellate
+FALSE,624607,Archaeperidinium minutum,Dinoflagellate
+FALSE,624695,Mucidosphaerium pulchellum,Chlorophyte
+FALSE,624707,Siderocelis sphaerica,Chlorophyte
+FALSE,624737,Desmodesmus granulatus,Chlorophyte
+FALSE,624955,Anathece minutissima,Cyanobacteria
+FALSE,624961,Aphanothece paralleliformis,Cyanobacteria
+FALSE,624976,Haptolina ericina,Haptophyte
+FALSE,625000,Merismopedia minutissima,Cyanobacteria
+FALSE,625371,Dolichospermum heterosporum,Cyanobacteria
+FALSE,625374,Dolichospermum lemmermannii,
+FALSE,625385,Aphanizomenon klebahnii,Cyanobacteria
+FALSE,625430,Leprotintinnus pellucidus,
+FALSE,626298,Biecheleria halophila,Dinoflagellate
+FALSE,626348,Cochlearisigma falcatum,Diatom
+FALSE,626382,Rhabdolithes claviger,Haptophyte
+FALSE,626938,Desmodesmus flavescens,Chlorophyte
+FALSE,626939,Desmodesmus grahneisii,Chlorophyte
+FALSE,626979,Distephanopsis staurodon,Silicoflagellate
+FALSE,627101,Hortobagyiella verrucosa,Chlorophyte
+FALSE,627117,Katablepharis remigera,Cryptophyte
+FALSE,627304,Pseudogoniochloris tripus,Xanthophyte
+FALSE,627627,Merismopedia tranquilla,Cyanobacteria
+FALSE,627690,Navicula septentrionalis,Diatom
+FALSE,635472,Melosira discigera,Diatom
+FALSE,640124,Kephyrion inconstans,Chrysophyte
+FALSE,641580,Plagioselmis lacustris,Cryptophyte
+FALSE,643543,Biddulphia membranacea,Diatom
+FALSE,646201,Dinophysis ovum,Dinoflagellate
+FALSE,647495,Koliella planctonica,Chlorophyte
+FALSE,653879,Pyramimonas torta,Chlorophyte
+FALSE,656295,Oblea acanthocysta,Dinoflagellate
+FALSE,658366,Entomosigma peridinioides,Dinoflagellate
+FALSE,660753,Spirulina subsalsa,Cyanobacteria
+FALSE,661267,Gyrosigma attenuatum,Diatom
+FALSE,662007,Pleurosigma falcatum,Diatom
+FALSE,662015,Pleurosigma parkeri,Diatom
+FALSE,663187,Sinophysis ebriolus,Dinoflagellate
+FALSE,663581,Cochlodinium helix,Dinoflagellate
+FALSE,663583,Protodinium simplex,Dinoflagellate
+FALSE,663594,Polykrikos schwarzii,Dinoflagellate
+FALSE,663610,Gyrodinium calyptroglyphe,Dinoflagellate
+FALSE,663628,Miniscula bipes,Dinoflagellate
+FALSE,664269,Gloeotila spiralis,Chlorophyte
+FALSE,666617,Ankyra lanceolata,Chlorophyte
+FALSE,668512,Scenedesmus pectinatus,Chlorophyte
+FALSE,668848,Eupodiscus weissflogii,Diatom
+FALSE,669542,Moelleria cornuta,Diatom
+FALSE,670030,Prymnesium polylepis,Haptophyte
+FALSE,670627,Closterium acutum var. variabile,Chlorophyte
+FALSE,671423,Diatoma vulgaris var. linearis,Diatom
+FALSE,671778,Biddulphia rhombus var. trigona,Diatom
+FALSE,672032,Desmodesmus armatus var. bicaudatus,Chlorophyte
+FALSE,676459,Chaetoceros anastomosans var. externus,Diatom
+FALSE,685949,Cyclotella striata var mesoleia,Diatom
+FALSE,688422,Biddulphia rhombus f. trigona,Diatom
+FALSE,688930,Aulacoseira subarctica f. recta,Diatom
+FALSE,699394,Trigonium alternans,Diatom
+FALSE,699554,Odontella turgida,Diatom
+FALSE,699623,Haptolina hirta,Haptophyte
+FALSE,699641,Auliscus sculptus,Diatom
+FALSE,700266,Nitzschia robusta,Diatom
+FALSE,700481,Grammatophora subtilissima,Diatom
+FALSE,702200,Odontella aurita var. obtusa,Diatom
+FALSE,704849,Thalassionema nitzschoides,Diatom
+FALSE,707679,Karenia aureola,Dinoflagellate
+FALSE,707830,Gymnodinium litoralis,Dinoflagellate
+FALSE,707927,Vicicitus globosus,Raphidophyte
+FALSE,708245,Raphidosphaera tenerrima,Xanthophyte
+FALSE,708293,Gyrosigma tenuirostrum,Diatom
+FALSE,708294,Bicosoeca campanulata,Chrysophyte
+FALSE,720592,Tortanus (Boreotortanus) discaudatus,
+FALSE,724226,Parathalestris croni,
+FALSE,732333,Chlamydomonadales,Chlorophyte
+FALSE,732820,Strombidium emergens,
+FALSE,732868,Schmidingerella serrata,
+FALSE,732974,Oligotrichea,
+FALSE,732976,Tintinnina,
+FALSE,745865,Paracalanus parvus parvus,
+FALSE,836528,Apicoporus,Dinoflagellate
+FALSE,836581,Trieres,Diatom
+FALSE,837075,Azadinium caudatum,Dinoflagellate
+FALSE,837220,Tripos falcatus,Dinoflagellate
+FALSE,837234,Tripos ranipes,Dinoflagellate
+FALSE,837255,Chrysotila carterae,Haptophyte
+FALSE,837310,Tripos azoricus,Dinoflagellate
+FALSE,837446,Tripos setaceus,Dinoflagellate
+FALSE,837453,Tripos horridus,Dinoflagellate
+FALSE,837455,Tripos inflatus,Dinoflagellate
+FALSE,837456,Tripos kofoidii,Dinoflagellate
+FALSE,837459,Tripos lineatus,Dinoflagellate
+FALSE,838163,Polyblepharides amylifera,Chlorophyte
+FALSE,838720,Bumilleriopsis verrucosa,Xanthophyte
+FALSE,839179,Verrucodesmus verrucosus,Chlorophyte
+FALSE,839181,Verrucodesmus parvus,Chlorophyte
+FALSE,839791,Islandinium tricingulatum,Dinoflagellate
+FALSE,839985,Chaetoceros gelidus,Diatom
+FALSE,839991,Trieres mobiliensis,Diatom
+FALSE,839996,Trieres regia,Diatom
+FALSE,840332,Aulacoseira pusilla,Diatom
+FALSE,840518,Lithodesmium variabile,Diatom
+FALSE,840626,Tripos fusus,Dinoflagellate
+FALSE,840627,Tripos furca,Dinoflagellate
+FALSE,840689,Levanderina fissa,Dinoflagellate
+FALSE,841182,Tripos arietinus,Dinoflagellate
+FALSE,841188,Tripos bigelowii,Dinoflagellate
+FALSE,841189,Tripos brevis,Dinoflagellate
+FALSE,841190,Tripos bucephalus,Dinoflagellate
+FALSE,841193,Tripos candelabrus,Dinoflagellate
+FALSE,841199,Tripos compressus,Dinoflagellate
+FALSE,841211,Tripos eugrammus,Dinoflagellate
+FALSE,841248,Tripos hexacanthum,Dinoflagellate
+FALSE,841251,Tripos incisus,Dinoflagellate
+FALSE,841259,Tripos longipes,Dinoflagellate
+FALSE,841260,Tripos macroceros,Dinoflagellate
+FALSE,841261,Tripos massiliensis,Dinoflagellate
+FALSE,841263,Tripos minutus,Dinoflagellate
+FALSE,841287,Durinskia dybowskii,Dinoflagellate
+FALSE,841746,Tripos pentagonus,Dinoflagellate
+FALSE,841751,Tripos pulchellus,Dinoflagellate
+FALSE,842517,Tripos trichoceros,Dinoflagellate
+FALSE,843999,Coccolithus braarudii,Haptophyte
+FALSE,844439,Ceratium articum,Dinoflagellate
+FALSE,844915,Scenedesmus nygaardii,Chlorophyte
+FALSE,845296,Gonyaulax spinifera,Dinoflagellate
+FALSE,846758,Amylax triacantha var. buxus ,Dinoflagellate
+FALSE,847452,Eucalanus elongatus elongatus,
+FALSE,850801,Metridia lucens lucens,
+FALSE,871888,Staurophora mertensi,
+FALSE,886274,Pyramimonadophyceae,Chlorophyte
+FALSE,886288,Desmidiales,Charophyte
+FALSE,956074,Gomphonema,Diatom
+FALSE,957381,Asteromphalus cleveanus,Diatom
+FALSE,957579,Corethron criophilum,Diatom
+FALSE,958478,Nitzschia distans,Diatom
+FALSE,960214,Pseudonitzschia fraudulenta,Diatom
+FALSE,960559,Thalassiosira minima,Diatom
+FALSE,960571,Thalassiosira nordenskioldii,Diatom
+FALSE,960833,Fragilaria striatula,Diatom
+FALSE,961694,Cerataulina bergonii,Diatom
+FALSE,961743,Chaetoceros anastomosans,Diatom
+FALSE,961769,Chaetoceros curvisetus,Diatom
+FALSE,961776,Chaetoceros didymus,Diatom
+FALSE,961816,Chaetoceros lorenzianus,Diatom
+FALSE,961865,Chaetoceros peruvianus,Diatom
+FALSE,961873,Chaetoceros pseudobrevis,Diatom
+FALSE,961899,Chaetoceros wighamii,Diatom
+FALSE,962003,Chaetoceros septentrionalis,Diatom
+FALSE,962237,Coscinodiscus concinnus,Diatom
+FALSE,962316,Coscinodiscus radiatus,Diatom
+FALSE,962746,Leptocylindrus danicus,Diatom
+FALSE,962840,Navicula latissima,Diatom
+FALSE,963677,Nitzschia sigmoidea,Diatom
+FALSE,964359,Coscinodiscus angustelineatus,Diatom
+FALSE,965294,Stephanopyxis turris,Diatom
+FALSE,965858,Diatoma gracillimum,Diatom
+FALSE,966467,Orthosira angulata,Diatom
+FALSE,966480,Coscinodiscus centralis,Diatom
+FALSE,967041,Guinardia striata,Diatom
+FALSE,967280,Pinnularia ambigua,Diatom
+FALSE,967945,Rhizosolenia hebetata,Diatom
+FALSE,967946,Rhizosolenia imbricata,Diatom
+FALSE,969455,Coscinodiscus lacustris var. pelagica,Diatom
+FALSE,971564,Plagiogramma brockmanni var. brockmanni,Diatom
+FALSE,971749,Stephanodiscus tenuis,Diatom
+FALSE,975029,Coscinodiscus stellaris var. stellaris,Diatom
+FALSE,975336,Guinardia blavyana var. blavyana,Diatom
+FALSE,976453,Melosira arctica var. arctica,Diatom
+FALSE,978142,Pyxidicula compressa var. compressa,Diatom
+FALSE,978230,Rhizosolenia robusta var. robusta,Diatom
+FALSE,979713,Diatoma tenue var. elongatum,Diatom
+FALSE,983277,Amphiprora lepidoptera f. lepidoptera,Diatom
+FALSE,983525,Coscinodiscus centralis f. centralis,Diatom
+FALSE,984388,Navicula smithii f. smithii,Diatom
+FALSE,985165,Rhizosolenia fragilissima f. fragilissima,Diatom
+FALSE,985570,Synedra nitzschioides f. nitzschioides,Diatom
+FALSE,985653,Triceratium alternans f. alternans,Diatom
+FALSE,990876,Margalefidinium polykrikoides,Dinoflagellate
+FALSE,992757,Aduncodinium,Dinoflagellate
+FALSE,992758,Aduncodinium glandula,Dinoflagellate
+FALSE,1055143,Pachysphaera,
+FALSE,1289276,Tetradesmus lagerheimii,Chlorophyte
+FALSE,1304621,Closterium acutum var. acutum,Chlorophyte
+FALSE,1304622,Desmodesmus armatus var. armatus,Chlorophyte
+FALSE,1304625,Pediastrum duplex var. duplex,Chlorophyte
+FALSE,1304629,Pennales,Diatom
+FALSE,1305343,Peridinium quadridentatum,Dinoflagellate
+FALSE,1305351,Pseudadenoides kofoidii,Dinoflagellate
+FALSE,1307640,Bacterosira constricta,Diatom
+FALSE,1310442,Octactis speculum,Silicoflagellate
+FALSE,1320351,Pilidiophora,
+FALSE,1321853,Scrippsiella acuminata,Dinoflagellate
+FALSE,1322468,Hobaniella longicruris,Diatom
+FALSE,1322472,Ralfsiella smithii,Diatom
+FALSE,1346683,Kryptoperidinium triquetrum,Dinoflagellate
+FALSE,1356513,Ochromonas,Chrysophyte
+FALSE,1359873,Tetrachlorella tetrachlorelloides,Chlorophyte
+FALSE,1360343,Raphidocelis granulata,Chlorophyte
+FALSE,1369826,Cucumeridinium coeruleum,Dinoflagellate
+FALSE,1371463,Barrufeta resplendens,Dinoflagellate
+FALSE,1381154,Tripos teres,Dinoflagellate
+FALSE,1381675,Obelia,
+FALSE,1381786,Caromiobenella helgolandica,
+FALSE,1382182,Lebouridinium glaucum,Dinoflagellate
+FALSE,1391716,Tripos macroceros,Dinoflagellate
+FALSE,1415683,Pediastrum boryanum var. boryanum,Chlorophyte
+FALSE,1416974,Eurytemora affinis affinis,
+FALSE,1422167,Thoracicalcarea,
+FALSE,1434803,Beroe,
+FALSE,1442452,Plagiolemma distortum,Diatom
+FALSE,1444150,Choanoflagellata,
+FALSE,1453014,Calanus finmarchicus finmarchicus,
+FALSE,1474876,Pseliodinium fusus,Dinoflagellate
+FALSE,1486573,Metazoa,
+FALSE,1525460,Hippocampus,
+FALSE,1673600 ,Octobulbacea corynetes,
+FALSE,2104 ,Myodocopida,
