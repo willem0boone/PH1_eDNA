@@ -1,46 +1,90 @@
-import pandas as pd
+import csv
 from pathlib import Path
+
+import pandas as pd
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 SOURCE_FILE = BASE_DIR / "data" / "lifeform.csv"
-OUT_FILE = BASE_DIR / "output" / "imaging.csv"
 
-df = pd.read_csv(str(SOURCE_FILE))
+# Keep the current pairwise export as the main imaging.csv output.
+PAIRWISE_OUT_FILE = BASE_DIR / "output" / "imaging_relative_pairwise.csv"
+# New export: diatom and dinoflagellate relative to total lifeform count.
+TOTAL_OUT_FILE = BASE_DIR / "output" / "imaging_relative_total.csv"
+# Original (no normalization) export
+ORIG_OUT_FILE = BASE_DIR / "output" / "imaging_original.csv"
 
-selected_cols = ["period", "numSamples", "diatom", "dinoflagellate"]
-lifeform_cols = [
-	col
-	for col in df.columns
-	if col not in {"period", "numSamples", "abundanceType", "taxa used"}
-]
+META_COLS = {"period", "numSamples", "abundanceType", "taxa used"}
+FINAL_COLS = ["period", "diatom", "dinoflagellate", "num_samples"]
 
-# Convert the abundance columns to numeric (coerce invalid values)
+
+def build_output_frame(source_df: pd.DataFrame) -> pd.DataFrame:
+	frame = source_df[["period", "numSamples", "diatom", "dinoflagellate"]].copy()
+	frame = frame.rename(columns={"numSamples": "num_samples"})
+	if "num_samples" not in frame.columns:
+		frame["num_samples"] = pd.NA
+	frame["period"] = frame["period"].astype(str)
+	for col in FINAL_COLS:
+		if col not in frame.columns:
+			frame[col] = pd.NA
+	return frame[FINAL_COLS]
+
+
+def normalize_pairwise(source_df: pd.DataFrame) -> pd.DataFrame:
+	denom = source_df[["diatom", "dinoflagellate"]].sum(axis=1, min_count=1)
+	out = build_output_frame(source_df)
+	out["diatom"] = source_df["diatom"] / denom
+	out["dinoflagellate"] = source_df["dinoflagellate"] / denom
+	mask_invalid = denom.isna() | (denom == 0)
+	out.loc[mask_invalid, ["diatom", "dinoflagellate"]] = pd.NA
+	out = out.dropna(subset=["diatom", "dinoflagellate"])
+	out[["diatom", "dinoflagellate"]] = (out[["diatom", "dinoflagellate"]] * 100).round(3)
+	return out
+
+
+def normalize_total(source_df: pd.DataFrame, lifeform_cols: list[str]) -> pd.DataFrame:
+	total = source_df[lifeform_cols].sum(axis=1, min_count=1)
+	out = build_output_frame(source_df)
+	out["diatom"] = source_df["diatom"] / total
+	out["dinoflagellate"] = source_df["dinoflagellate"] / total
+	mask_invalid = total.isna() | (total == 0)
+	out.loc[mask_invalid, ["diatom", "dinoflagellate"]] = pd.NA
+	out = out.dropna(subset=["diatom", "dinoflagellate"])
+	out[["diatom", "dinoflagellate"]] = (out[["diatom", "dinoflagellate"]] * 100).round(3)
+	return out
+
+
+def save_csv(frame: pd.DataFrame, output_file: Path) -> None:
+	output_file.parent.mkdir(parents=True, exist_ok=True)
+	frame.to_csv(
+		output_file,
+		index=False,
+		sep=",",
+		decimal=".",
+		quoting=csv.QUOTE_NONNUMERIC,
+	)
+
+
+df = pd.read_csv(SOURCE_FILE)
+lifeform_cols = [col for col in df.columns if col not in META_COLS]
+
+# Convert lifeform columns to numeric once, then reuse for both exports.
 df[lifeform_cols] = df[lifeform_cols].apply(pd.to_numeric, errors="coerce")
 
-# Compute denominator using only diatom + dinoflagellate.
-# Use the same sum semantics as before: if one is NaN and the other present,
-# sum returns the present value (min_count=1). If both are NaN -> denom is NaN.
-denom = df[["diatom", "dinoflagellate"]].sum(axis=1, min_count=1)
+# --- Save original (no normalization) ---
+orig_df = build_output_frame(df)
+# Drop rows where both diatom and dinoflagellate are missing/empty
+orig_df = orig_df.dropna(subset=["diatom", "dinoflagellate"], how="all")
+save_csv(orig_df, ORIG_OUT_FILE)
+print(f"Saved original imaging table to: {ORIG_OUT_FILE}")
+print(orig_df.head(10))
 
-# Build output frame with selected columns and compute pairwise relative values.
-relative_df = df[selected_cols].copy()
-relative_df["diatom"] = df["diatom"] / denom
-relative_df["dinoflagellate"] = df["dinoflagellate"] / denom
+pairwise_df = normalize_pairwise(df)
+total_df = normalize_total(df, lifeform_cols)
 
-# Rows where denom is zero or NaN -> set both normalized columns to missing
-mask_invalid = denom.isna() | (denom == 0)
-relative_df.loc[mask_invalid, ["diatom", "dinoflagellate"]] = pd.NA
+save_csv(pairwise_df, PAIRWISE_OUT_FILE)
+save_csv(total_df, TOTAL_OUT_FILE)
 
-# Keep only rows where both relative values are available (same as before)
-relative_df = relative_df.dropna(subset=["diatom", "dinoflagellate"])
-
-# Round to 3 decimal places (same as you used before)
-relative_df[["diatom", "dinoflagellate"]] = relative_df[["diatom", "dinoflagellate"]].round(3)
-
-
-OUT_FILE.parent.mkdir(parents=True, exist_ok=True)
-relative_df.to_csv(OUT_FILE, index=False, sep=";", decimal=",")
-
-print(f"Saved relative imaging table to: {OUT_FILE}")
-print(relative_df.head(10))
-
+print(f"Saved pairwise relative imaging table to: {PAIRWISE_OUT_FILE}")
+print(pairwise_df.head(10))
+print(f"Saved total-relative imaging table to: {TOTAL_OUT_FILE}")
+print(total_df.head(10))

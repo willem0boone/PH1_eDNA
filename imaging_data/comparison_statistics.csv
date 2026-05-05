@@ -1,0 +1,16 @@
+Metric,Value
+Total periods,4
+Periods in imaging,4
+Periods in eDNA,4
+Unique lifeforms,4
+Unique aphiaIDs (imaging),43
+Unique aphiaIDs (eDNA),1432
+Total imaging density (sum),4.000000
+Total eDNA density (sum),4.000000
+Mean imaging density,0.001347
+Mean eDNA density,0.001347
+Max imaging density,0.657994
+Max eDNA density,0.337735
+Rows with both imaging & eDNA,40
+Rows imaging only,65
+Rows eDNA only,2864

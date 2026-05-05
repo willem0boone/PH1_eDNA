@@ -1,11 +1,11 @@
 import pandas as pd
 
-INPUT_FILE = "output/step2_data_rel.csv"
+INPUT_FILE = "output/step1b_summed_tables.csv"
 PLET_LF_CAT = "lookup_tables/export_phytoplankton_type.csv"
 COL_NAME = "PhytoplanktonType"
 TYPE1 = "Diatom"
 TYPE2 = "Dinoflagellate"
-OUT_FILE = "output/step3_dia_dino_table.csv"
+OUT_FILE = "output/step2_dia_dino_table.csv"
 
 # -------------------------
 # 1. Load merged tables
